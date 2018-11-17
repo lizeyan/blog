@@ -1,13 +1,15 @@
 ---
-title: First
-categories:
-  - meaningless
+title: Hexo Config
 mathjax: true
+categories:
+  - configuration
 date: 2018-11-17 12:12:59
 tags:
 ---
 
-# This is a title
+# Hexo Config
+
+<!-- more -->
 
 ## 插入图片
 
@@ -48,4 +50,4 @@ df = pd.read_csv(path)
 
 ### Image test
 
-![image-20181117165546436](First/image-20181117165546436.png)
+![image-20181117165546436](hexo_config/image-20181117165546436.png)
