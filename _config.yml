@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.lizeyan.me/blog
 root: /blog/
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 SEOTitle: 李则言的博客 | Zeyan LI's Blog
@@ -76,7 +76,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aircloud
+theme: wikitten
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -97,4 +97,10 @@ sidebar-avatar: img/qitanta.png
 
 zhihu_username:     lizeyan
 github_username:    lizeyan
+
+pandoc:
+  mathEngine: katex
+
+katex:
+    throw_on_error: false
 
