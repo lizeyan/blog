@@ -1,0 +1,28 @@
+language: node_js
+sudo: required
+node_js: stable
+branches:
+  only:
+  - master
+cache:
+  apt: true
+  yarn: true
+  directories:
+  - node_modules
+install:
+- curl -L https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-1-amd64.deb > /tmp/pandoc.deb
+- sudo dpkg -i /tmp/pandoc.deb
+- pandoc --version
+- curl -o- -L https://yarnpkg.com/install.sh | bash
+- export PATH=$HOME/.yarn/bin:$PATH
+- yarn --version
+- npm install -g hexo hexo-cli
+- yarn install
+script:
+- git config --global user.name "Zeyan Li"
+- git config --global user.email "lizytalk@outlook.com"
+- sed -i "s/__GH_TOKEN__/${GH_TOKEN}/g" ./_config.yml
+- hexo generate --deploy
+env:
+  global:
+    secure: OfyC5++CJHIcmU/8PahXyGS2hql+TXgvyxqT2KDIaexXqdlOD+7zh2uE9qzir1MJIQI1bjsAaH2pRdcG45rpwmYGHU2/t8HF3VbMpZxr5P2n9dT/T61i46ZESB7bPczFgA+t6gzeRzY7ShUY3/i2JlsTJwxz1igUKSEG0P+zXLbLdHbvF3cycrV8V3BKwypMWOIx1ymTsWrI6yIO88O6v2orkKBykrlhARZ/i8cWHjtM5muSwxoaDZy5797ijZTeuBD493X7QlW7VsZk5/CVZqBHHg83fv2n2STHBOJrrtdqgp0ZzJvhDM6dsXPN4xN4UFjXdLxT4Qhx/j8iJbjaOLl7TdUgTAI7QWEMOGk2pk/RqtxWeP/To30MsAo8h/rYfQAgDhuKSJb314jfcUay1fQBIxDQBQeHt3tuG6B/FJhSZS5zUGvpguidrH4KKh5A98AUjDl04F0MoopGZsjd+HVt5fH724bezit9/z7p6kB5Wn7oE2P+AsiPFzNS9lpM2nhMWfKUeSr7Yhca6nher80x8oFmQEmG8CI5/U88LdXmgh6CN7YSBQjH8+7D+pZpHQcprhc4zogi6+kAgoDWJoTj294vwKIzO6cuzCkw9v/om2rtoshcr+9/Z7zx1JD1sGj42QCH3K/OcSxJc7IDxDqyEJaRFenRUi7ZbYECpec=
