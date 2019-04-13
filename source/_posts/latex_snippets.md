@@ -3,7 +3,7 @@ title: LaTex Snippets
 categories: []
 ---
 
-{% raw %}
+
 
 ``` latex
 % preamble.tex
@@ -56,4 +56,3 @@ categories: []
 \newcommand{\tab}[1]{~~~~#1}
 ```
 
-{% endraw %}
