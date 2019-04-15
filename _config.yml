@@ -82,7 +82,7 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://__GH_TOKEN__@github.com:lizeyan/blog.git
+  repo: https://__GH_TOKEN__@github.com/lizeyan/blog.git
   branch: gh-pages
   name: lizeyan
   email: lizytalk@outlook.com
