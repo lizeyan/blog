@@ -104,7 +104,7 @@ $$
 
 But this problem is not convex.
 
-![image-20190308220605185](.svm.assets/image-20190308220605185.png){ width=100% }
+![image-20190308220605185](svm/image-20190308220605185.png){ width=100% }
 
 Hinge loss upper bounds the 0-1 loss.
 $$

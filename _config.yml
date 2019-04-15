@@ -96,8 +96,6 @@ sidebar-avatar: img/qitanta.png
 zhihu_username:     lizeyan
 github_username:    lizeyan
 
-pandoc:
-
 all_minifier: true
 html_minifier:
   enable: true
@@ -107,4 +105,11 @@ js_minifier:
   enable: true
 image_minifier:
   enable: true
+
+pandoc:
+    mathEngine: katex
+
+katex:
+  throw_on_error: false
+  strict: false
 
