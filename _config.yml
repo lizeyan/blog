@@ -107,7 +107,7 @@ image_minifier:
   enable: true
 
 pandoc:
-    mathEngine: katex
+    mathEngine: mathjax
 
 katex:
   throw_on_error: false
