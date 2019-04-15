@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "hexo": "^3.7.0",
+    "hexo-all-minifier": "^0.5.3",
     "hexo-asset-image": "git+https://github.com/7ym0n/hexo-asset-image.git",
     "hexo-auto-category": "^0.1.6",
     "hexo-deployer-git": "^0.3.1",
