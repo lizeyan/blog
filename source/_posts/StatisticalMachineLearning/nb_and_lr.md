@@ -134,6 +134,6 @@ $$
 
 $$
 \sigma(x)=\frac{1}{1+\exp(-x)}\\
-\frac{d\sigma}{dx}=
+\frac{d\sigma}{dx}=\sigma(x)(1-\sigma(x))
 $$
 
