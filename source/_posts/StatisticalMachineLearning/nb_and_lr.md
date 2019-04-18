@@ -71,3 +71,5 @@ $$
 
 ![image-20190418201126654](nb_and_lr/image-20190418201126654.png)
 
+### Beyesian Regression
+
