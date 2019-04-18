@@ -201,5 +201,8 @@ $$
 
 $$
 \vv\eta=(\log \mu_1, \log \mu_2, ..., \log\mu_M)^\top \\
+\vv u(\vv{x})=\vv{x}\\
+h(\vv{x})=1\\
+g(\eta)=1
 $$
 
