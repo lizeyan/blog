@@ -146,4 +146,5 @@ $$
 
 decision boundary is not linear, it is piecewise linear
 
-### Maximum Conditional Likelihood 
+### Maximum Conditional Likelihood Estimate
+
