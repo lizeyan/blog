@@ -124,3 +124,7 @@ But if the variances are not equal, it is not linear.
 
 ### From NB to LR
 
+$$
+P(y=1|)
+$$
+
