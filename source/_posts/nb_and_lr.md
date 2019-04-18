@@ -12,5 +12,6 @@ $$
 Log likelihood:
 $$
 \mathcal{L} = \log \prod_{i=1}^{N}p(x_i, y_i)\\
-=\sum_{i=1}^{N}\log p(x_i|y_i)+\log p(y_i)
+=\sum_{i=1}^{N}\log p(x_i|y_i)+\log p(y_i) \\
+=\sum_{i=1}^{N}
 $$
