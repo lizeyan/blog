@@ -182,3 +182,7 @@ $$
 
 #### Multinominal
 
+$$
+p(\vv{x}|\vv{\mu})=
+$$
+
