@@ -96,5 +96,5 @@ $$
 
 ...
 
-
+### Decision Boundary of NB
 
