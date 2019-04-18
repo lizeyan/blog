@@ -90,5 +90,11 @@ Since the posterior is Gaussian, we only need to determine the mean and covarian
 $$
 -\frac{1}{2}\sigma^{-2}()
 $$
+...
+
+### Generalized NB
+
+...
+
 
 
