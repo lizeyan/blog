@@ -7,5 +7,5 @@ title: NB and LR
 settings:
 $$
 p(y|\pi)=\begin{cases}\pi & y=1 \\ 1-\pi & y=0\end{cases} \\
-p(x|y, q)=\begin{cases}\pi & y=1 \\ 1-\pi & y=0\end{cases}
+p(x|y, q)=\begin{cases}\pi & x=1 \\ 1-q_y & x=0\end{cases}
 $$
