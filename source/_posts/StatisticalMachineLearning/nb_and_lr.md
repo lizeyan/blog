@@ -98,11 +98,11 @@ $$
 $$
 ### Generalized NB
 
+applied to continious labels
 $$
 Y\sim\text{Bernoulli}(\pi)\\
 P()
 $$
-
 
 
 ### Decision Boundary of NB
