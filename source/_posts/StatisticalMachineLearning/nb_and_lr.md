@@ -98,5 +98,5 @@ $$
 
 ...
 
-#### Decision Boundary of NB
+### Decision Boundary of NB
 
