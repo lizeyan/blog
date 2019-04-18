@@ -49,3 +49,6 @@ $$
 [Conjugate_prior](https://en.wikipedia.org/wiki/Conjugate_prior)
 
 Use Beta distribution as the prior
+$$
+p(q_y)=
+$$
