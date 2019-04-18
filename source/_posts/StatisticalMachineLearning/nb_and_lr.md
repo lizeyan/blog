@@ -210,6 +210,6 @@ $$
 #### Multivariate Gaussian
 
 $$
-p(\vv{x}|\vv\mu, \mathbf{\Sigma})=\frac{1}{}
+p(\vv{x}|\vv\mu, \mathbf{\Sigma})=\frac{1}{(2\pi)}
 $$
 
