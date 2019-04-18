@@ -11,5 +11,6 @@ p(x|y, q)=\begin{cases}q_y & x=1 \\ 1-q_y & x=0\end{cases}
 $$
 Log likelihood:
 $$
-\mathcal{L} = \log \prod_{i=1}^{N}p(x_i, y_i)
+\mathcal{L} = \log \prod_{i=1}^{N}p(x_i, y_i)\\
+=\sum_{i=1}^{N}
 $$
