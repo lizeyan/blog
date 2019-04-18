@@ -103,12 +103,7 @@ $$
 Y\sim\text{Bernoulli}(\pi)\\
 P(X|Y)=\mathcal{N}(\mu_{Y}, \sigma_{Y}^2)
 $$
-
-$$
-\mu_Y=\frac{\sum_{y=Y}x_i}{N_Y}
-$$
-
-
+The 
 
 ### Decision Boundary of NB
 
