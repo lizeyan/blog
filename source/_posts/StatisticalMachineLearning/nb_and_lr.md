@@ -87,8 +87,8 @@ $$
 p(\vv{w})=\mathcal{N}(\mathbf{0}, \mathbf{\Sigma})
 $$
 Since the posterior is Gaussian, we only need to determine the mean and covariance.
-
-Consider the 
+$$
+-\frac{1}{2}
 $$
 
-$$
+
