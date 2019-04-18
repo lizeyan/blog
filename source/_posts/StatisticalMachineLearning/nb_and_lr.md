@@ -79,6 +79,6 @@ y=f(\vv{x})+\epsilon, \epsilon \sim \mathcal{N}(0, \sigma^2)
 $$
 
 $$
-p(\vv{y}|\mathbf{X}, \vv{w})=\prod_{i=1}^{N}p(y_i|\vv{x_i}, \vv{w})=N(X^w)
+p(\vv{y}|\mathbf{X}, \vv{w})=\prod_{i=1}^{N}p(y_i|\vv{x_i}, \vv{w})=N(X^\top\vv{w}, \sigma^2\mathbf{I})
 $$
 
