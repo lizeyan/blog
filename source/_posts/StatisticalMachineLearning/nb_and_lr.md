@@ -125,6 +125,7 @@ But if the variances are not equal, it is not linear.
 ### From NB to LR
 
 $$
-P(y=1|\vv{x})=\frac{p(y=1, \vv{x})}{p(y=1, \vv{x}) + p(y=0, \vv{x})}
+P(y=1|\vv{x})=\frac{p(y=1, \vv{x})}{p(y=1, \vv{x}) + p(y=0, \vv{x})} \\
+=\frac{}{}
 $$
 
