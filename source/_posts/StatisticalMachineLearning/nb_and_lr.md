@@ -96,8 +96,6 @@ $$
 \therefore \vv{\mu}^\top \mathbf{A}=\sigma^{-2}\vv{y}^\top\mathbf{X}^\top\\
 \therefore \vv{\mu}=\sigma^{-2} \mathbf{A}^{-1}\mathbf{X}\vv{y}
 $$
-...
-
 ### Generalized NB
 
 $$
