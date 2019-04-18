@@ -1,5 +1,7 @@
 ---
 title: NB and LR
+categories:
+  - StatisticalMachineLearning
 ---
 
 

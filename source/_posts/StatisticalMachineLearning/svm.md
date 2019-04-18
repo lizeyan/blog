@@ -1,7 +1,8 @@
 ---
 title: SVM
 Mathjax: true
-categories: []
+categories:
+  - StatisticalMachineLearning
 ---
 
 SVM
