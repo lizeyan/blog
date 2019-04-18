@@ -148,3 +148,4 @@ decision boundary is not linear, it is piecewise linear
 
 ### Maximum Conditional Likelihood Estimate
 
+MLE is $\max P(X, Y)$
