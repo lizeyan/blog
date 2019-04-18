@@ -173,6 +173,7 @@ $g(\vv\eta)$ is the normalization coefficient.
 #### Bernoulli
 
 $$
-p(x|\mu)=
+p(x|\mu)=\mu^{x}(1-\mu)^{1-x} \\
+\exp
 $$
 
