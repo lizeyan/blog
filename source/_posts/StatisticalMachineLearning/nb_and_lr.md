@@ -50,5 +50,5 @@ $$
 
 Use Beta distribution as the prior
 $$
-p(q_y)=
+p(q_y)=\frac{\Gamma()}{}
 $$
