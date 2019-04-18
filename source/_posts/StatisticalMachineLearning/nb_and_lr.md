@@ -185,6 +185,6 @@ $$
 $$
 p(\vv{x}|\vv{\mu})=\prod_{k=1}^{M}\mu_k^{x_k}\\
 =\exp(\sum x_k\log \mu_k) \\
-=\exp(\sum_{i=1}^{M-1}x_k)
+=\exp(\sum_{i=1}^{M-1}x_k\log \mu_k
 $$
 
