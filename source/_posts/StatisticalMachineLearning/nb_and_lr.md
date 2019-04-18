@@ -132,3 +132,7 @@ $$
 
 #### sigmoid function
 
+$$
+\sigma(x)=\frac{1}{1+\exp(-x)}
+$$
+
