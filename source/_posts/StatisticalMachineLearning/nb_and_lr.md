@@ -75,6 +75,6 @@ $$
 
 $$
 \newcommand{\vv}[1]{\boldsymbol{#1}}
-\vv{x}
+y=f(\vv{x})+\epsilon, \epsilon \sim \mathcal{N}(0, \sigma^2)
 $$
 
