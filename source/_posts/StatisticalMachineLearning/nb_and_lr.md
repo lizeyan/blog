@@ -101,7 +101,7 @@ $$
 applied to continious labels
 $$
 Y\sim\text{Bernoulli}(\pi)\\
-P()
+P(X|)
 $$
 
 
