@@ -84,5 +84,5 @@ $$
 
 Prior is Gaussian
 $$
-p(\vv{w})=\mathcal{N}()
+p(\vv{w})=\mathcal{N}(\mathbf{0}, \mathbf{\Sigma})
 $$
