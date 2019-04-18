@@ -111,7 +111,7 @@ The MLE estimated mean and variance is the sample mean variance on those samples
 
 NB's decisiion boundary depends on its distribution assumptions.
 
-
+for GNB with equal variance
 
 ## Linear Regression
 
