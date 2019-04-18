@@ -209,3 +209,7 @@ $$
 
 #### Multivariate Gaussian
 
+$$
+p(\vv{x}|\vv\mu, \mathbf{\Sigma})
+$$
+
