@@ -113,7 +113,7 @@ NB's decisiion boundary depends on its distribution assumptions.
 
 for GNB with equal variance:
 $$
-\log \frac{}{}=0
+\log \frac{\prod_{i=1}^{n}}{}=0
 $$
 
 
