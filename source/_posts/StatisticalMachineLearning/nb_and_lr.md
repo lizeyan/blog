@@ -162,3 +162,7 @@ In MCLE, we do $\max P(Y|X)$
 
 ## Exponential Family
 
+### General Form
+
+#### Bernoulli
+
