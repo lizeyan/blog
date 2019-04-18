@@ -6,5 +6,5 @@ title: NB and LR
 
 settings:
 $$
-p(y|\pi)
+p(y|\pi)=\begin{cases}\pi & y=1 \\ 1-\pi & y=0\end{cases}
 $$
