@@ -183,6 +183,6 @@ $$
 #### Multinominal
 
 $$
-p(\vv{x}|\vv{\mu})=\prod_{k=1}^{M}\mu_k^{x_k}=\exp(\sum
+p(\vv{x}|\vv{\mu})=\prod_{k=1}^{M}\mu_k^{x_k}=\exp(\sum x_k\log \mu_k)
 $$
 
