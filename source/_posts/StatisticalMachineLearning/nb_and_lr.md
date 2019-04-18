@@ -116,7 +116,9 @@ $$
 \log \frac{\prod_{i=1}^{d}P(X_i|Y_i=0)P(Y_i=0)}{\prod_{i=1}^{d}P(X_i|Y_i=1)P(Y_i=1)}=0 \\
 \log \frac{1-\pi}{\pi}+\sum_i \frac{\mu_{i1}^2-\mu_{i0}^2}{\sigma_i^2}+\sum_i\frac{\mu_{i0}-\mu_{i1}}{\sigma_i^2}x_i = 0
 $$
+therefore the decision boundary is linear
 
+But if the variances are not equal, it is not linear.
 
 ## Linear Regression
 
