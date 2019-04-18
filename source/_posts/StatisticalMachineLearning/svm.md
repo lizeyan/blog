@@ -7,7 +7,7 @@ categories:
 
 SVM
 
-<!-- more -->
+<!-- more -->
 
 ## SVM: Max Margin and Dual Problem
 
