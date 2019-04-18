@@ -105,6 +105,8 @@ P(X|Y)=\mathcal{N}(\mu_{Y}, \sigma_{Y}^2)
 $$
 The MLE estimated mean and variance is the sample mean variance on those samples with corresponding $Y$.
 
+![image-20190418212303876](nb_and_lr/image-20190418212303876.png)
+
 ### Decision Boundary of NB
 
 
