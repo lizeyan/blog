@@ -2,6 +2,12 @@
 title: NB and LR
 ---
 
+
+
+Naive Bayesian and Logistic Regression
+
+<!-- more -->
+
 ## NB
 
 ### Settings:
