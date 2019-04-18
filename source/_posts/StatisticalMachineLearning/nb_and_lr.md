@@ -86,3 +86,4 @@ Prior is Gaussian
 $$
 p(\vv{w})=\mathcal{N}(\mathbf{0}, \mathbf{\Sigma})
 $$
+Since the posterior is Gaussian, we only need to determine the average and variance
