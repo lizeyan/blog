@@ -101,7 +101,7 @@ $$
 applied to continious features
 $$
 Y\sim\text{Bernoulli}(\pi)\\
-P(X|Y)=\mathcal{N}()
+P(X|Y)=\mathcal{N}(\mu_{Y}, \sigma_{Y})
 $$
 
 
