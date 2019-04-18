@@ -160,4 +160,5 @@ In MCLE, we do $\max P(Y|X)$
 
 
 
-## Exponential 
+## Exponential Family
+
