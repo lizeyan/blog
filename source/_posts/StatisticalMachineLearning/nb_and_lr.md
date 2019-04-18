@@ -46,4 +46,6 @@ $$
 
 ### MAP
 
-refer to [Conjugate_prior](https://en.wikipedia.org/wiki/Conjugate_prior)
+[Conjugate_prior](https://en.wikipedia.org/wiki/Conjugate_prior)
+
+Use Beta distribution as the prior
