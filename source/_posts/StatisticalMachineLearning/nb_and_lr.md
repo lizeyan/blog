@@ -207,3 +207,5 @@ h(\vv{x})=1\\
 g(\eta)=1
 $$
 
+#### Multivariate Gaussian
+
