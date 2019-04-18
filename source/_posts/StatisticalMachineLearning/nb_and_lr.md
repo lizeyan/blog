@@ -82,3 +82,7 @@ $$
 p(\vv{y}|\mathbf{X}, \vv{w})=\prod_{i=1}^{N}p(y_i|\vv{x_i}, \vv{w})=N(X^\top\vv{w}, \sigma^2\mathbf{I})
 $$
 
+Prior is Gaussian
+$$
+p(\vv{w})=\mathcal{N}()
+$$
