@@ -52,3 +52,7 @@ Use Beta distribution as the prior
 $$
 p(q_y)=\frac{\Gamma(\alpha_1+\alpha_2)}{\Gamma(\alpha_1)\Gamma(\alpha_2)}q_y^{\alpha-1}(1-q_y)^{\alpha_2-1}
 $$
+Now the log likelihood is:
+$$
+
+$$
