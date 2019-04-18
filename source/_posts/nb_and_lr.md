@@ -11,5 +11,5 @@ p(x|y, q)=\begin{cases}q_y & x=1 \\ 1-q_y & x=0\end{cases}
 $$
 Log likelihood:
 $$
-
+\mathcal{L} = 
 $$
