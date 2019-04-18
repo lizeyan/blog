@@ -98,10 +98,10 @@ $$
 $$
 ### Generalized NB
 
-applied to continious labels
+applied to continious features
 $$
 Y\sim\text{Bernoulli}(\pi)\\
-P(X|)
+P(X|Y)
 $$
 
 
