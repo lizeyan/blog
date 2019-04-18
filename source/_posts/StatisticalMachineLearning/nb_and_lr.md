@@ -96,6 +96,10 @@ $$
 
 ### Generalized NB
 
+$$
+Y\sim\text{Bernoulli}(\pi)
+$$
+
 
 
 ### Decision Boundary of NB
