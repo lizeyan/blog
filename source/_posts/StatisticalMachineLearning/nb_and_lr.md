@@ -158,3 +158,6 @@ In MCLE, we do $\max P(Y|X)$
 
 #### Newton Method
 
+
+
+## Exponential 
