@@ -168,7 +168,7 @@ $$
 p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta^\top\vv u(\vv{x}))
 $$
 
-$g(\vv\eta)$ is the normalization 
+$g(\vv\eta)$ is the normalization coefficient.
 
 #### Bernoulli
 
