@@ -4,6 +4,10 @@ Mathjax: true
 categories: []
 ---
 
+SVM
+
+<!-- more -->
+
 ## SVM: Max Margin and Dual Problem
 
 The basic idea of SVM is max margin: maximize the closest distance of each class to hy classification hyperplane.
