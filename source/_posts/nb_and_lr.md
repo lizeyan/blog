@@ -17,5 +17,5 @@ $$
 $$
 MLE:
 $$
-\frac{\partial \mathcal{L}}{\partial \pi}=
+\frac{\partial \mathcal{L}}{\partial \pi}=\sum_{i=1}^{N}
 $$
