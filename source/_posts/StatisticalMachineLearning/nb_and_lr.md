@@ -172,3 +172,4 @@ $g(\vv\eta)$ is the normalization coefficient.
 
 #### Bernoulli
 
+$p(x|u)$
