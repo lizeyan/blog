@@ -100,3 +100,9 @@ $$
 
 ### Decision Boundary of NB
 
+
+
+## Linear Regression
+
+### From NB to LR
+
