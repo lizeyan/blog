@@ -140,3 +140,5 @@ $$
 #### Multiclass LR
 
 ![image-20190418213726821](nb_and_lr/image-20190418213726821.png)
+
+decision boundary is not linear.
