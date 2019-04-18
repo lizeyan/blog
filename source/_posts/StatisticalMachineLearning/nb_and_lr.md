@@ -181,7 +181,7 @@ p(x|\mu)=\mu^{x}(1-\mu)^{1-x} \\
 $$
 
 $$
-\eta=
+\eta=\log\frac{\mu}{1-\mu}\\
 h(x)=1\\
 g(\eta)=\sigma(-\eta)\\
 u(x)=x
