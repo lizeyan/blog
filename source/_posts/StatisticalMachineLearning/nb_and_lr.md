@@ -8,7 +8,7 @@ categories:
 
 Naive Bayesian and Logistic Regression
 
-<!-- more -->
+<!-- more -->
 
 ## NB
 
