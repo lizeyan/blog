@@ -111,10 +111,10 @@ The MLE estimated mean and variance is the sample mean variance on those samples
 
 NB's decisiion boundary depends on its distribution assumptions.
 
-for GNB with equal variance:
+for GNB:
 $$
 \log \frac{\prod_{i=1}^{n}P(x_i|y_i=0)P(y_i=0)}{\prod_{i=1}^{n}P(x_i|y_i=1)P(y_i=1)}=0 \\
-\log \frac{1-\pi}{\pi}+\log 
+\log \frac{1-\pi}{\pi}+\log\frac{}{}
 $$
 
 
