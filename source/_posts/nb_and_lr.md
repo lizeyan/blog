@@ -22,6 +22,6 @@ $$
 $$
 Therefore $\pi=\frac{N_1}{N}$
 $$
-\frac{\partial \mathcal{L}}{\partial q_y}=\sum_{i=1}^{N}1_{y+i=y}\frac{1}{\pi}1_{y_i=1}-\frac{1}{1-\pi}1_{y_i=0}\\
+\frac{\partial \mathcal{L}}{\partial q_y}=\sum_{i=1}^{N}1_{y_i=y}(\frac{1}{\pi}1_{y_i=1}-\frac{1}{1-\pi}1_{y_i=0})\\
 =\frac{1}{1-\pi}\sum_{i=1}^{N}\frac{1}{\pi}1_{y_i=1}-1
 $$
