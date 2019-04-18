@@ -152,3 +152,4 @@ MLE is $\max P(X, Y)$, but we don't have it in LR.
 
 In MCLE, we do $\max P(Y|X)$
 
+#### Convec Problem
