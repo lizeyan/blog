@@ -181,6 +181,7 @@ p(x|\mu)=\mu^{x}(1-\mu)^{1-x} \\
 $$
 
 $$
+\eta=
 h(x)=1\\
 g(\eta)=\sigma(-\eta)\\
 u(x)=x
