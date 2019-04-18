@@ -78,3 +78,7 @@ $$
 y=f(\vv{x})+\epsilon, \epsilon \sim \mathcal{N}(0, \sigma^2)
 $$
 
+$$
+p(\vv{y}|\mathbf{X}, \vv{w})
+$$
+
