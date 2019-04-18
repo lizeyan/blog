@@ -90,7 +90,7 @@ p(\vv{w})=\mathcal{N}(\mathbf{0}, \mathbf{\Sigma})
 $$
 Since the posterior is Gaussian, we only need to determine the mean and covariance.
 $$
--\frac{1}{2}\sigma^{-2}(\vv{y}^\top\vv{y})
+-\frac{1}{2}\sigma^{-2}(\vv{y}^\top\vv{y}-2\vv{y}^\top\mathbf{X}^\top\vv{w})
 $$
 ...
 
