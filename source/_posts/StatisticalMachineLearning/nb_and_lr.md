@@ -48,7 +48,7 @@ $$
 \pi=\frac{N_1+\alpha}{N+2\alpha}
 $$
 
-#### MAP
+### MAP
 
 [Conjugate_prior](https://en.wikipedia.org/wiki/Conjugate_prior)
 
