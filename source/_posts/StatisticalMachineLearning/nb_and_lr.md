@@ -109,7 +109,7 @@ The MLE estimated mean and variance is the sample mean variance on those samples
 
 ### Decision Boundary of NB
 
-
+NB's decisiion boundary depends on its distribution
 
 ## Linear Regression
 
