@@ -183,6 +183,6 @@ $$
 #### Multinominal
 
 $$
-p(\vv{x}|\vv{\mu})=\pi
+p(\vv{x}|\vv{\mu})=\prod_{k=1}^{M}
 $$
 
