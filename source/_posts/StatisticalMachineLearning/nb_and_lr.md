@@ -182,7 +182,8 @@ $$
 
 $$
 h(x)=1\\
-g(\eta)=\sigma(-\eta)
+g(\eta)=\sigma(-\eta)\\
+u(x)=x
 $$
 
 
