@@ -199,6 +199,6 @@ p(\vv{x}|\vv{\mu})=\prod_{k=1}^{M}\mu_k^{x_k}\\
 $$
 
 $$
-\vv\eta=
+\vv\eta=(\log u_k)
 $$
 
