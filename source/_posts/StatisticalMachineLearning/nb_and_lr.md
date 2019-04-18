@@ -12,7 +12,9 @@ Naive Bayesian and Logistic Regression
 
 ## NB
 
-### Settings:
+### MLE
+
+#### Settings:
 
 $$
 p(y|\pi)=\begin{cases}\pi & y=1 \\ 1-\pi & y=0\end{cases} \\
