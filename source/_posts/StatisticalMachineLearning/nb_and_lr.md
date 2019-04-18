@@ -137,3 +137,5 @@ $$
 \frac{d\sigma}{dx}=\sigma(x)(1-\sigma(x))
 $$
 
+#### Multiclass LR
+
