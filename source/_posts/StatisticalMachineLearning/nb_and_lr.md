@@ -96,7 +96,7 @@ $$
 
 ### Generalized NB
 
-...
+
 
 ### Decision Boundary of NB
 
