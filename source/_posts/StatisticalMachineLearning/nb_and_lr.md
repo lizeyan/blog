@@ -180,6 +180,12 @@ p(x|\mu)=\mu^{x}(1-\mu)^{1-x} \\
 = \sigma(-\eta)\exp(\eta x)
 $$
 
+$$
+
+$$
+
+
+
 #### Multinominal
 
 $$
