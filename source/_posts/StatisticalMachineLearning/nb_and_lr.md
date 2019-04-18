@@ -73,3 +73,4 @@ $$
 
 ### Beyesian Regression
 
+$y=f(\vv{x})$
