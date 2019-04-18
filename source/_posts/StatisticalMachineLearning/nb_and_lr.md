@@ -130,3 +130,5 @@ P(y=1|\vv{x})=\frac{p(y=1, \vv{x})}{p(y=1, \vv{x}) + p(y=0, \vv{x})} \\
 =\frac{1}{1+\exp(-\vv{w}^\top\vv{x}-b)}
 $$
 
+#### sigmoid function
+
