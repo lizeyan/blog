@@ -34,3 +34,9 @@ Therefore $q_y=\frac{N_{y, 1}}{N_y}$
 
 ### Laplace smoothing
 
+$$
+\pi=\frac{N_1+\alpha}{N+2\alpha}
+$$
+
+### MAP
+
