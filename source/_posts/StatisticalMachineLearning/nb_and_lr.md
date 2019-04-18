@@ -177,3 +177,4 @@ p(x|\mu)=\mu^{x}(1-\mu)^{1-x} \\
 =\exp(x\log\mu+(1-x)\log(1-\mu)) \\
 =(1-\mu)\exp(\log\frac{\mu}{1-\mu}x)
 $$
+
