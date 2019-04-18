@@ -97,7 +97,8 @@ $$
 ### Generalized NB
 
 $$
-Y\sim\text{Bernoulli}(\pi)
+Y\sim\text{Bernoulli}(\pi)\\
+P()
 $$
 
 
