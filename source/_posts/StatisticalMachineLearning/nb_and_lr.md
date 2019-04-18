@@ -165,7 +165,7 @@ In MCLE, we do $\max P(Y|X)$
 ### General Form
 
 $$
-p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta)
+p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta^\top\vv\mu())
 $$
 
 
