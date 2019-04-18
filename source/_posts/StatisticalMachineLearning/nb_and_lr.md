@@ -67,3 +67,5 @@ $$
 \therefore q_y=\frac{N_{y,1}+\alpha_1-1}{N+\alpha_1+\alpha_2-2}
 $$
 
+![image-20190418201126654](nb_and_lr/image-20190418201126654.png)
+
