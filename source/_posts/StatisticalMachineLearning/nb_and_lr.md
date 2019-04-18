@@ -28,7 +28,7 @@ $$
 =\sum_{i=1}^{N}x_i\log q_{y_i} + (1-x_i)\log (1 - q_{y_i}) + y_i\log \pi + (1-y_i)\log (1 - \pi)
 $$
 
-### MLE
+#### MLE
 
 $$
 \frac{\partial \mathcal{L}}{\partial \pi}=\sum_{i=1}^{N}\frac{1}{\pi}1_{y_i=1}-\frac{1}{1-\pi}1_{y_i=0}\\
@@ -42,13 +42,13 @@ $$
 $$
 Therefore $q_y=\frac{N_{y, 1}}{N_y}$
 
-### Laplace smoothing
+#### Laplace smoothing
 
 $$
 \pi=\frac{N_1+\alpha}{N+2\alpha}
 $$
 
-### MAP
+#### MAP
 
 [Conjugate_prior](https://en.wikipedia.org/wiki/Conjugate_prior)
 
@@ -73,7 +73,7 @@ $$
 
 ![image-20190418201126654](nb_and_lr/image-20190418201126654.png)
 
-### Beyesian Regression
+#### Beyesian Regression
 
 $$
 \newcommand{\vv}[1]{\boldsymbol{#1}}
@@ -98,5 +98,5 @@ $$
 
 ...
 
-### Decision Boundary of NB
+#### Decision Boundary of NB
 
