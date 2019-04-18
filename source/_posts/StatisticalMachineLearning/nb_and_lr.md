@@ -114,7 +114,7 @@ NB's decisiion boundary depends on its distribution assumptions.
 for GNB:
 $$
 \log \frac{\prod_{i=1}^{n}P(x_i|y_i=0)P(y_i=0)}{\prod_{i=1}^{n}P(x_i|y_i=1)P(y_i=1)}=0 \\
-\log \frac{1-\pi}{\pi}+\log\frac{\sigma_1}{\sigma_2}+\sum_i 
+\log \frac{1-\pi}{\pi}+\log\frac{\sigma_1}{\sigma_2}+\sum_i \frac{\mu_{i1}^2-\mu_{i0}^2}{}
 $$
 
 
