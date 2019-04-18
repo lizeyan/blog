@@ -183,6 +183,6 @@ $$
 #### Multinominal
 
 $$
-p(\vv{x}|\vv{\mu})=
+p(\vv{x}|\vv{\mu})=\pi
 $$
 
