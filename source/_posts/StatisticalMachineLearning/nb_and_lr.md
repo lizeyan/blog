@@ -103,7 +103,7 @@ $$
 Y\sim\text{Bernoulli}(\pi)\\
 P(X|Y)=\mathcal{N}(\mu_{Y}, \sigma_{Y}^2)
 $$
-The 
+The MLE estimated mean and variance is the sample mean variance on 
 
 ### Decision Boundary of NB
 
