@@ -72,5 +72,9 @@ $$
 $$
 Then $\vv x$ can be represented by $\vv{x}=\sum_i \alpha_i \vv u_i, \alpha_i=\vv{x}^\top\vv u_i$
 
+Consider a low-dimension representation:
+$$
+\vv{x}_n=\sum_{i=1}^{d}z_{ni}\vv u_i + \sum_{i=d+1}^{N}b_i\vv u_i
+$$
 
 
