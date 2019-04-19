@@ -103,5 +103,6 @@ Let $\gamma(z_k)=p(z_k=1|x)$
 Then
 $$
 \because \frac{\partial \mathcal L}{\partial \mu_k}
-=\sum_{n=1}^{N}\frac{}{\sum_{k=1}^{K}}
+=-\sum_{n=1}^{N}\frac{\pi_k\mathcal N(x|\mu_k, \Sigma_k)}{\sum_{j=1}^{K}\pi_j\mathcal{N}(x|\mu_j,\Sigma_j)}\cdot \Sigma_k^{-1}(x_n-\mu_k)\\
+=\sum_{n=1}^{N}\gamma(z_k)
 $$
