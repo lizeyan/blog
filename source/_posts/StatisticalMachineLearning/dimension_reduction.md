@@ -43,7 +43,7 @@ $$
 
 Solve it, we get
 $$
-
+\mathbf{S}\vv{u}=\lambda\vv{u}
 $$
 
 
