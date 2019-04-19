@@ -61,9 +61,9 @@ $$
 
 3.  return $C(x)=\text{sign}(\sum_{i=1}^{M}\alpha_mC_m(x))$
 
-#### Error Rate Analysis
-
-
-
 ## Additive Model
 
+Boosting build a additive model:
+$$
+f(x)=\sum_{k=1}^{M}\beta_kC(x;\gamma_k)
+$$
