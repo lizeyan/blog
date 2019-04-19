@@ -93,6 +93,12 @@ $$
 =\sum_{n=1}^{N}\log(\sum_{k=1}^{K}\pi_k\mathcal N(x|\mu_k, \Sigma_k))
 $$
 
+Because of the constraints, we should use Lagrange multiplier method:
+$$
+\mathcal{L}=\mathcal{L}_0+\lambda(\sum_{k=1}^{K}\pi_k-1)
+$$
+
+
 Before do MLE, let's first take a look at the posterior:
 $$
 p(z_k=1|x)=\frac{p(x|z_k=1)p(z_k=1)}{p(x)}\\
@@ -129,5 +135,9 @@ $$
 
 $$
 \Sigma_k=\frac{\sum_{n=1}^{N}\gamma(z_{nk})(x_n-\mu_k)(x_n-\mu_k)^\top}{\sum_{n=1}^{N}\gamma(z_{nk})}
+$$
+
+$$
+
 $$
 
