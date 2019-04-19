@@ -90,6 +90,6 @@ $$
 
 $$
 \mathcal{L}=\log p(D)\\
-=\sum_{n=1}^{N}\sum_{k=1}^{K}\log \pi_k + \log ()
+=\sum_{n=1}^{N}\sum_{k=1}^{K}(\log \pi_k - \frac{1}{2}\log (2\pi) - \frac{1}{2}\log |\Sigma_k|-\frac{1}{2}(x-\mu_k)^\top\Sigma_k^{-1}(x-\mu_k))
 $$
 
