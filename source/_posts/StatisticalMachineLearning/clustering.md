@@ -50,3 +50,9 @@ In each expection step, we keep $\mu_k$ fixed and optimize $J$ with respect to $
 It has closed form solution:
 $$r_{nk}=\begin{cases}1 & k=\text{argmin}_i ||x_n-\mu_i||^2 \\ 0 & otherwise\end{cases}$$​	
 
+In each maimization step, we keep $r_{nk}$ fixed and optimize $J$ with respect to $\mu_k$
+
+It has closed form solution:
+$$
+\frac{\partial J}{\partial \mu_k}=\sum_i\sum_k 2 r_{nk} (x_i-\mu_k)
+$$
