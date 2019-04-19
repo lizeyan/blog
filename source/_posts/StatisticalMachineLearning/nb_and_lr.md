@@ -304,3 +304,4 @@ $$
 \nabla_{\vv\eta}\log P=\sum_{i=1}^{N}\vv{u}(\vv{x}_i)-N\nabla_{\eta}A(\vv\eta)\\
 \therefore \vv{\mu}=\frac{1}{N}\sum_{i=1}^{N}\vv u(\vv{x}_i)
 $$
+![image-20190419111147456](nb_and_lr/image-20190419111147456.png)
