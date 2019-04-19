@@ -28,3 +28,7 @@ Decode: $ \mathbf{U} \mathbf Z$
 
 #### 1-d case
 
+The projection direction $\vv{u}$ satisfies $||\vv{u}||=1$
+
+
+
