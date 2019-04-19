@@ -271,6 +271,7 @@ $$
 
 $$
 g(\vv{\eta})=|\Sigma|^{-\frac{1}{2}}\exp(-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv{\mu})\\
-=|-2\vv{\eta}_2|^{\frac{1}{2}}\exp(\vv\eta_1\vv\eta_1^\top)
+=|-2\vv{\eta}_2|^{\frac{1}{2}}\exp(-\frac{1}{2}((-2\vv\eta_2)^{-1}\vv\eta_1)^\top\vv\eta_1)\\
+=|-2\vv{\eta}_2|^{\frac{1}{2}}\exp(+\frac{1}{4}\vv\eta_1^\top\vv\eta_2^\top\vv\eta_1)
 $$
 
