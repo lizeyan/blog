@@ -33,8 +33,15 @@ Examples:
 
 #### Algorithm
 
-1.  Initialize $\mu_1, ..., \mu_k$
+1.  Initialize $\mu_1, ..., \mu_K$
 2.  Repeat until no change happens
     1.  For each $k$, $C_k=\{i\>s.t.\> x_i\text{ is closest to }\mu_k\}$
-    2.  For each $k$, update $\mu_k=$
+    2.  For each $k$, update $\mu_k=\frac{1}{|C_k|}\sum_{i\in C_k}x_i$
+
+#### Optimization problem
+
+$$
+J=\sum_{i=1}^{N}\sum_{k=1}^{K}r_{nk}||x_n-\mu_k||^2 \\
+s.t. \>\> \sum_{k=1}^{K}
+$$
 
