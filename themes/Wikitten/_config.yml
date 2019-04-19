@@ -12,7 +12,7 @@ customize:
         enabled: false
         width: 40
         height: 40
-        url: /blog/img/chitanta.png
+        url: /img/chitanta.png
     profile:
         enabled: true # Whether to show profile bar
         # avatar: /img/chitanta.png # css/images/avatar.png
