@@ -139,6 +139,7 @@ $$
 
 $$
 \because \nabla_{\pi_k}\mathcal{L}=\sum_{n=1}^{N}\frac{N(x_n|\mu_k, \Sigma_k)}{\sum_{i=1}^{K}\pi_i\mathcal N(x_n|\mu_i, \Sigma_i)}+\lambda=0 \\
-\therefore \lambda\sum_{i=1}^{K}(\pi_k+\gamma(z_{nk}))
+\therefore \lambda\sum_{i=1}^{K}(\pi_k)+\sum_{n=1}^{N}\gamma(z_{nk})=0 \\
+\therefore \lambda = -N = - \sum_{n=1}^{N}\gamma(z_{nk})
 $$
 
