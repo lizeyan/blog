@@ -96,5 +96,11 @@ $$
 Before do MLE, let's first take a look at the posterior:
 $$
 p(z_k=1|x)=\frac{p(x|z_k=1)p(z_k=1)}{p(x)}\\
-=\frac{\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)}{\sum_i\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)}
+=\frac{\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)}{\sum_{i=1}^{K}\pi_i\mathcal{N}(x|\mu_i, \Sigma_i)}
+$$
+Let $\gamma(z_k)=p(z_k=1|x)$
+
+Then
+$$
+\because \frac{\partial \mathcal L}{\partial \mu_k}=\sum_{n=1}^{N}
 $$
