@@ -95,5 +95,7 @@ $$
 
 Therefore the error $J$ equals
 $$
-J=\sum_{n=1}^{N}\sum_{i=d+1}^{D}((x_i-\bar x)^\top u_i)u_i=\sum_{i=d+1}^{D}u_i
+J=\sum_{n=1}^{N}\sum_{i=d+1}^{D}((x_i-\bar x)^\top u_i)u_i\\
+=\sum_{i=d+1}^{D}u_i^\top S u_i
 $$
+It can be prove similarly that $u_i$ should be the $D-d$ smallest eigen-values' eigen-vectors.
