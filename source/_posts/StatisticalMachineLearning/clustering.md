@@ -41,7 +41,7 @@ Examples:
 #### Optimization problem
 
 $$
-J=\sum_{i=1}^{N}\sum_{k=1}^{K}r_{nk}||x_n-\mu_k||^2 \\
+J=\sum_{n=1}^{N}\sum_{k=1}^{K}r_{nk}||x_n-\mu_k||^2 \\
 s.t. \>\> \sum_{k=1}^{K}r_{nk}=1, r_{nk}\in\{0, 1\}\\
 \mu_k=\frac{\sum_ix_i1_{r_{nk}=1}}{\sum_i1_{r_{nk}=1}}
 $$
@@ -54,5 +54,6 @@ In each maimization step, we keep $r_{nk}$ fixed and optimize $J$ with respect t
 
 It has closed form solution:
 $$
-\frac{\partial J}{\partial \mu_k}=\sum_i\sum_k 2 r_{nk} (x_i-\mu_k)
+\because \frac{\partial J}{\partial \mu_k}=\sum_i2 r_{ik} (x_i-\mu_k)=0\\
+\therefore \mu_k=\frac{\sum_n x_nr_{nk}}{\sum_n r_{nk}}
 $$
