@@ -167,7 +167,8 @@ Let $\mathcal{L}_1=\sum_{n=1}^{N}\sum_{z_n}p(z_n)\log p(x_n|z_n)$
 The gap between $\log P(D)$ and $\mathcal L_1$:
 $$
 \mathcal{L_1}=\sum_{n=1}^{N}(\sum_{z_n}p(z_n)\log p(x_n|z_n))\\
-=\sum_{n=1}^{N}(\sum_{z_n}p(z_n)\log)
+=\sum_{n=1}^{N}(\sum_{z_n}p(z_n)\log(x_n, z_n)- \sum_{z_n}p(z_n)\log(z_n))\\
+=\sum_{n=1}^{N}(\sum_{z_n}p(z_n)\log(x_n, z_n)- \sum_{z_n}p(z_n)\log(z_n))
 $$
 
 
