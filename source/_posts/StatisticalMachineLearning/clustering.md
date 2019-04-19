@@ -124,6 +124,10 @@ $$
 $$
 
 $$
+\nabla_{S}\mathcal{L}=\sum_{n=1}^{N}\gamma(z_{nk})(\Sigma_k-(x_n-\mu_k)(x_n-\mu_k)^\top)=0
+$$
 
+$$
+\Sigma_k=\frac{\sum_{n=1}^{N}\gamma(z_{nk})(x_n-\mu_k)(x_n-\mu_k)^\top}{\sum_{n=1}^{N}\gamma(z_{nk})}
 $$
 
