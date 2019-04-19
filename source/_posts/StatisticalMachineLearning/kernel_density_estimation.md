@@ -1,7 +1,8 @@
 ---
 title: Kernel Density Estimation
 mathjax: true
-categories: []
+categories:
+  - StatisticalMachineLearning
 ---
 
 ## KDE

@@ -1,6 +1,7 @@
 ---
 title: LaTex Snippets
-categories: []
+categories:
+  - Latex
 ---
 
 
