@@ -155,9 +155,30 @@ In MCLE, we do $\max P(Y|X)$
 
 #### It is a Convex Problem
 
+$$
+\mathcal{L}(\vv{w})=\sum_{i=1}^{N}\log p(y_i|\vv{x}_i, \vv{w})\\
+=\sum_{i=1}^{N}y_i\vv{w}^\top\vv{x}_i-\log(1+\exp(\vv{w}^\top\vv{x}_i))
+$$
+
 #### Gradient Descent
 
+$$
+\frac{\partial \mathcal{L}}{\partial \vv{w}}=\sum_{i=1}^{N}\vv{x}_i(y_i-u_i)\\
+u_i=p(y_i=1|\vv{x}_i, \vv{w})=\sigma(-\vv{w}^\top\vv{x})
+$$
+
+$$
+\vv{w}_{t+1}\leftarrow \vv{w}_t + \frac{\partial \mathcal{L}}{\partial \vv{w}}
+$$
+
+
+
 #### Newton Method
+
+$$
+\vv{w}_{t+1}\leftarrow \vv{w}_t + \mathbf{H}^{-1}\frac{\partial \mathcal{L}}{\partial \vv{w}}\\
+\mathbf{H} = \frac{\partial^2 \mathcal{L}}{\partial\vv{w}\partial\vv{w}}
+$$
 
 
 
