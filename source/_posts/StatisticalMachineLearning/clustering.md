@@ -162,20 +162,12 @@ $$
 \ge\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)
 $$
 
-Let $\mathcal{L}_1=
+Let $\mathcal{L}_1=\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)$
 
-<div contenteditable="plaintext-only">\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)</div>
-1\log P(D)=\sum_{n=1}^{N}\log P(x_n)\\2=\sum_{n=1}^{N}\log (\sum_{z_n}p(z_n)p(x_n|z_n))\\3\ge\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)
+The gap between $\log P(D)$ and $\mathcal L_1$:
+$$
+\mathcal{L_1}=\sum_{n=1}^{N}(\sum_{z_n}\log p(x_n|z_n))\\
+=
+$$
 
-$$ 
-
-
-
-
-
-
-
-Let 
-
-$
 
