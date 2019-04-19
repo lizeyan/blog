@@ -58,5 +58,8 @@ $$
 
 
 $$
-
+\mathbf{S} \vv u_2 - \lambda \vv u_2 - \gamma \vv u_1=0\\
+\vv u_1^\top \mathbf{S} \vv u_2 - 0 - \gamma = 0\\
+\mathbf{S} \vv u_2 - \lambda \vv u_2=0\\
+\lambda=\vv u_2^\top \mathbf{S} \vv u_2
 $$
