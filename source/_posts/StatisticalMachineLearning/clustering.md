@@ -82,3 +82,12 @@ MLE for Gaussian leads to natual solutions
 
 #### Gaussian Mixture
 
+$$
+p(x)=\sum_{k=1}^{K}\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)\\
+p(x|z_k=1)=\mathcal{N}(x|\mu_k, \Sigma_k)
+$$
+
+$$
+\mathcal{L}=
+$$
+
