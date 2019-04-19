@@ -33,7 +33,17 @@ $$
 y=\vv{u}^\top\vv{x}\\
 \bar{\vv{y}}=\vv{u}^\top\bar{\vv{x}}\\
 var(\vv{y})=\frac{1}{N}\sum_{i=1}^{N}(\vv u^\top\vv{x}_n-\vv{u}^\top\bar{\vv{x}})^2\\
-=\vv{u}^\top \mathbf{S} \vv{u}, \mathbf{S}=\frac{1}{N}(\vv{x}_n)
+=\vv{u}^\top \mathbf{S} \vv{u}, \mathbf{S}=\frac{1}{N}(\vv{x}_n-\bar{\vv{x}})(\vv{x}_n-\bar{\vv{x}})^\top
+$$
+
+$$
+\hat{\vv{u}}=\text{argmax}_\vv{u}\vv{u}^\top \mathbf{S} \vv{u}\\
+s.t.\>\> \vv{u}^\top\vv{u}=1
+$$
+
+Solve it, we get
+$$
+
 $$
 
 
