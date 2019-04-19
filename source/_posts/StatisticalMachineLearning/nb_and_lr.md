@@ -205,7 +205,9 @@ $$
 
 Genrative model has assumptions on $P(X|Y)$, discrimitive models has assumptions on $P(Y|X)$.
 
+![image-20190419102050758](nb_and_lr.assets/image-20190419102050758.png)
 
+![image-20190419102100816](nb_and_lr.assets/image-20190419102100816.png)
 
 ## Exponential Family
 
@@ -257,6 +259,10 @@ $$
 
 $$
 p(\vv{x}|\vv\mu, \mathbf{\Sigma})=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2}(\vv x - \vv\mu)^\top\Sigma^{-1}(\vv x - \vv\mu))\\
-=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2})
+=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2}\text{tr}(\Sigma^{-1}\vv{x}\vv{x}^\top)+\vv\mu^\top\Sigma^{-1}\vv{x}-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv\mu)\\
 $$
 
+let
+$$
+\vv{\eta}=\begin{bmatrix}\Sigma^{-1}\vv{\mu}, -\frac{1}{2}\text{vec}(\Sigma^{-1}) \end{bmatrix} \\
+$$
