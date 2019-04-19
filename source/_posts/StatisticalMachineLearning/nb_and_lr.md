@@ -290,7 +290,12 @@ $$
 
 #### Moment
 
+![image-20190419110333901](nb_and_lr/image-20190419110333901.png)
+
+#### MLE for Exponential Falimy with i.i.d. samples
+
 $$
-\nabla_{A(\vv{\eta})}=   
+P(D|\vv\eta)=\prod_{i=1}^{N}P(\vv{x}|\vv\eta)\\
+=
 $$
 
