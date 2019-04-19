@@ -195,8 +195,16 @@ $$
 IRLS:
 $$
 \vv{w}_{t+1}\leftarrow\vv{w}_t - \mathbf{H}^{-1}\nabla_\vv{w}\mathcal{L}\\
-=\vv{w}_t-
+=\vv{w}_t-(\mathbf{X}\mathbf{R}\mathbf{X}^\top)^{-1}\mathbf{X}(\vv{u}-\vv{y})\\
+=(\mathbf{X}\mathbf{R}\mathbf{X}^\top)^{-1}(\mathbf{X}\mathbf{R}\mathbf{X}^\top\vv{w}_t - \mathbf{X}(\vv{u}-\vv{y}))\\
+=(\mathbf{X}\mathbf{R}\mathbf{X}^\top)^{-1}\mathbf{X}\mathbf{R}(\mathbf{X}^\top\vv{w}_t - \mathbf{R}^{-1}(\vv{u}-\vv{y}))
 $$
+
+
+## Generative v.s. Discrimitive
+
+Genrative model has assumptions on $P(X|Y)$, discrimitive models has assumptions on $P(Y|X)$.
+
 
 
 ## Exponential Family
@@ -249,6 +257,6 @@ $$
 
 $$
 p(\vv{x}|\vv\mu, \mathbf{\Sigma})=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2}(\vv x - \vv\mu)^\top\Sigma^{-1}(\vv x - \vv\mu))\\
-=\frac{}{}
+=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2})
 $$
 
