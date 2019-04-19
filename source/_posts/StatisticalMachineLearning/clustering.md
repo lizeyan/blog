@@ -159,15 +159,15 @@ update $\mu, \Sigma, \pi$
 $$
 \log P(D)=\sum_{n=1}^{N}\log P(x_n)\\
 =\sum_{n=1}^{N}\log (\sum_{z_n}p(z_n)p(x_n|z_n))\\
-\ge\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)
+\ge\sum_{n=1}^{N}\sum_{z_n}p(z_n)\log p(x_n|z_n)
 $$
 
-Let $\mathcal{L}_1=\sum_{n=1}^{N}\sum_{z_n}\log p(x_n|z_n)$
+Let $\mathcal{L}_1=\sum_{n=1}^{N}\sum_{z_n}p(z_n)\log p(x_n|z_n)$
 
 The gap between $\log P(D)$ and $\mathcal L_1$:
 $$
-\mathcal{L_1}=\sum_{n=1}^{N}(\sum_{z_n}\log p(x_n|z_n))\\
-=
+\mathcal{L_1}=\sum_{n=1}^{N}(\sum_{z_n}p(z_n)\log p(x_n|z_n))\\
+=\sum_{n=1}^{N}(\sum_{z_n})
 $$
 
 
