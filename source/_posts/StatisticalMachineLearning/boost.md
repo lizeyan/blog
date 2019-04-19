@@ -77,3 +77,17 @@ $$
 $$
 
 
+Given $f_{M-1}(x)$, the solution to $\beta_M, \gamma_M$ is 
+$$
+\text{argmin}_{\beta, \gamma}\sum_{i=1}^{N}\exp(-y_i(f_{M-1}(x_i)+\beta C(x_i;\gamma)))
+$$
+
+##### Why Exponential Loss
+
+![image-20190419140355191](boost/image-20190419140355191.png)
+
+exp loss is a upper bound of 0-1 loss.
+
+It leads to simple reweighting scheme.
+
+binomial deviance can be more robust
