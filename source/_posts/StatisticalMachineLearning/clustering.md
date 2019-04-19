@@ -107,3 +107,9 @@ $$
 =\sum_{n=1}^{N}\gamma(z_{nk})\Sigma_k^{-1}(x_n-\mu_k)=0 \\
 \therefore \mu_k=\frac{\sum_{n=1}^{N}\gamma(z_{nk})x_n}{\sum_{n=1}^{N}\gamma(z_{nk})}
 $$
+$\mu$ looks like a weighted mean of $x$, but it is not a closed form solution.
+
+Maximize $\mathcal L$ with respect to $\Sigma$ is difficult, so we optimize it with respect to $\Sigma^{-1}$, which will be denoted as $S$
+$$
+
+$$
