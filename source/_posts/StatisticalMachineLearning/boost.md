@@ -61,9 +61,19 @@ $$
 
 3.  return $C(x)=\text{sign}(\sum_{i=1}^{M}\alpha_mC_m(x))$
 
-## Additive Model
+#### Additive Model
 
 Boosting build a additive model:
 $$
 f(x)=\sum_{k=1}^{M}\beta_kC(x;\gamma_k)
 $$
+Traditional methods fit the parameters jointly. But Adaboost do it stagewisely.
+
+#### Adaboost: Stagewise Modeling
+
+Adaboost fit a stagewise logistic regression model $f(x)$ by stagewisely fit the loss:
+$$
+\mathcal{L}=\exp(-yf(x))
+$$
+
+
