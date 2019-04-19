@@ -18,8 +18,13 @@ Given data matrix $\mathbf{X}$, get the $d$-largest eigenvalues $\lambda_1, ...,
 
 let $\mathbf{U}=\begin{bmatrix}\vv u_1, \vv u_2,..., \vv u_d\end{bmatrix}$
 
-Encode: $UX$
+Encode: $\mathbf{U}^\top \mathbf X$
 
-Decode: $ZU^\top$
+Decode: $ \mathbf{U} \mathbf Z$
 
 ​	
+
+### Maximum Variance Formulation
+
+#### 1-d case
+
