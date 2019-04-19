@@ -184,7 +184,7 @@ $$
 
 $$
 \nabla_\vv{w}\mathcal{L}=\sum_{i=1}^{N}\vv{x}_i(y_i-u_i)=\mathbf{X}(\vv{y}-\vv{u})\\
-\mathbf{H}=\nabla^2_\vv{w}
+\mathbf{H}=\nabla^2_\vv{w}\mathcal{L}=\sum_{i=1}^{N}-\vv{x}_iu_i(1-u_i)\vv{x}_i^\top
 $$
 
 
