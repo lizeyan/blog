@@ -35,5 +35,9 @@ $$
 C(x)=\text{sign}\sum_{n}\alpha_nC_n(x)
 $$
 
+#### Adaboost
+
+1.  initialize observations' weights $w_i=\frac{1}{N}, i = 1, 2, ..., N$
+
 ## Additive Model
 
