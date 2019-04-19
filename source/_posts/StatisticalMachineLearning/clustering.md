@@ -42,6 +42,8 @@ Examples:
 
 $$
 J=\sum_{i=1}^{N}\sum_{k=1}^{K}r_{nk}||x_n-\mu_k||^2 \\
-s.t. \>\> \sum_{k=1}^{K}
+s.t. \>\> \sum_{k=1}^{K}r_{nk}=1, r_{nk}\in\{0, 1\}\\
+\mu_k=\frac{\sum_ix_i1_{r_{nk}=1}}{\sum_i1_{r_{nk}=1}}
 $$
 
+​	
