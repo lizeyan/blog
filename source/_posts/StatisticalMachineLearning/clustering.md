@@ -66,8 +66,19 @@ Gradient descent can be applied.
 
 Second oder gradient descent leads to the same update rule as k-means.
 
-#### find a good optimum
+#### Find a Good Optimum
 
 K-means leads to a local optimum
 
--   
+-   find a good start point
+-   Run many times of k-means and choose a best one
+-   ....
+
+### Gaussian Mixture
+
+#### Gaussian
+
+MLE for Gaussian leads to natual solutions
+
+#### Gaussian Mixture
+
