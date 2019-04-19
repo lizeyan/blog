@@ -32,7 +32,8 @@ The projection direction $\vv{u}$ satisfies $||\vv{u}||=1$
 $$
 y=\vv{u}^\top\vv{x}\\
 \bar{\vv{y}}=\vv{u}^\top\bar{\vv{x}}\\
-var(\vv{y})=\frac{1}{N}\sum_{i=1}^{N}(\vv u^\top\vv{x}_n-\vv{u}^\top\bar{\vv{x}})=
+var(\vv{y})=\frac{1}{N}\sum_{i=1}^{N}(\vv u^\top\vv{x}_n-\vv{u}^\top\bar{\vv{x}})^2\\
+=\vv{u}^\top \mathbf{S} \vv{u}, \mathbf{S}=\frac{1}{N}(\vv{x}_n)
 $$
 
 
