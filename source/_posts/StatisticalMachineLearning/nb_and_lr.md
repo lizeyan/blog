@@ -262,7 +262,15 @@ p(\vv{x}|\vv\mu, \mathbf{\Sigma})=\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2
 =\frac{1}{(2\pi)^\frac{d}{2}|\Sigma|^\frac{1}{2}}\exp(-\frac{1}{2}\text{tr}(\Sigma^{-1}\vv{x}\vv{x}^\top)+\vv\mu^\top\Sigma^{-1}\vv{x}-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv\mu)\\
 $$
 
-let
+then
 $$
 \vv{\eta}=\begin{bmatrix}\Sigma^{-1}\vv{\mu}, -\frac{1}{2}\text{vec}(\Sigma^{-1}) \end{bmatrix} \\
+=[\vv\eta_1, \text{vec}(\vv{\eta}_2)]\\
+\vv{u}(\vv{x})=\begin{bmatrix}\vv{x}, \text{vec}(\vv{x}\vv{x}^\top)\end{bmatrix}
 $$
+
+$$
+g(\vv{\eta})=|\Sigma|^{-\frac{1}{2}}\exp(-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv{\mu})\\
+=|-2\vv{\eta}_2|^{\frac{1}{2}}\exp()
+$$
+
