@@ -49,8 +49,9 @@ $$
         $$
 
 
-    3.  Update ratio $\alpha_m=\log\frac{1-err_m}{err_m}$
 
+    3.  Update ratio $\alpha_m=\log\frac{1-err_m}{err_m}$
+    
     4.  Update weights
         $$
         w_i \leftarrow w_i \cdot \exp(\alpha_m1_{C_m(x_i)\neq y_i})
@@ -91,3 +92,10 @@ exp loss is a upper bound of 0-1 loss.
 It leads to simple reweighting scheme.
 
 binomial deviance can be more robust
+
+#### General Stagewise Algorithm
+
+![image-20190419140524731](boost/image-20190419140524731.png)
+
+## Learning from Crowds
+
