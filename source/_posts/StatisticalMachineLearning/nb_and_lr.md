@@ -176,8 +176,15 @@ $$
 #### Newton Method
 
 $$
-\vv{w}_{t+1}\leftarrow \vv{w}_t + \mathbf{H}^{-1}\frac{\partial \mathcal{L}}{\partial \vv{w}}\\
+\vv{w}_{t+1}\leftarrow \vv{w}_t - \mathbf{H}^{-1}\frac{\partial \mathcal{L}}{\partial \vv{w}}\\
 \mathbf{H} = \frac{\partial^2 \mathcal{L}}{\partial\vv{w}\partial\vv{w}}
+$$
+
+#### IRLS
+
+$$
+\nabla_\vv{w}\mathcal{L}=\sum_{i=1}^{N}\vv{x}_i(y_i-u_i)=\mathbf{X}(\vv{y}-\vv{u})\\
+\mathbf{H}=\nabla^2_\vv{w}
 $$
 
 
