@@ -138,6 +138,6 @@ $$
 $$
 
 $$
-\because \nabla
+\because \nabla_{\pi_k}\mathcal{L}=
 $$
 
