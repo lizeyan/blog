@@ -57,3 +57,11 @@ $$
 \because \frac{\partial J}{\partial \mu_k}=\sum_i2 r_{ik} (x_i-\mu_k)=0\\
 \therefore \mu_k=\frac{\sum_n x_nr_{nk}}{\sum_n r_{nk}}
 $$
+
+#### K-Means as Gradient Descent
+
+![image-20190419151655736](kernel_density_estimation/image-20190419151655736.png)
+
+Gradient descent can be applied.
+
+Second oder gradient descent leads to the same update rule as k-means.
