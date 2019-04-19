@@ -111,5 +111,5 @@ $\mu$ looks like a weighted mean of $x$, but it is not a closed form solution.
 
 Maximize $\mathcal L$ with respect to $\Sigma$ is difficult, so we optimize it with respect to $\Sigma^{-1}$, which will be denoted as $S$
 $$
-\nabla_{S}\mathcal{L}
+\nabla_{S}\mathcal{L}=\sum_{n=1}^{N}\frac{\pi_k}{\sum_{k=1}^{K}\pi_k\mathcal N(x_n|\mu_k, \Sigma_k)}\nabla_SN(x_n|\mu_k, \Sigma_k)
 $$
