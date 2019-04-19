@@ -214,7 +214,8 @@ Genrative model has assumptions on $P(X|Y)$, discrimitive models has assumptions
 ### General Form
 
 $$
-p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta^\top\vv u(\vv{x}))
+p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta^\top\vv u(\vv{x}))\\
+=h(\vv{x})\exp(\vv\eta^\top\vv{u}(\vv{x})-A(\vv\eta))
 $$
 
 $g(\vv\eta)$ is the normalization coefficient.
@@ -285,4 +286,11 @@ g(\vv{\eta})=|\Sigma|^{-\frac{1}{2}}\exp(-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv{\
 =|-2\vv{\eta}_2|^{\frac{1}{2}}\exp(+\frac{1}{4}\vv\eta_1^\top\vv\eta_2^{-1}\vv\eta_1)
 $$
 
-### 
+### Why Exponential Family
+
+#### Moment
+
+$$
+\nabla_{A(\vv{\eta})}=   
+$$
+
