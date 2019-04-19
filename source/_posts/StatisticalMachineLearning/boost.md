@@ -34,3 +34,6 @@ Average many trees, but each grown from reweighed samples.
 $$
 C(x)=\text{sign}\sum_{n}\alpha_nC_n(x)
 $$
+
+## Additive Model
+
