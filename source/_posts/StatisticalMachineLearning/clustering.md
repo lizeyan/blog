@@ -144,3 +144,17 @@ $$
 \therefore \pi_k=\frac{N_k}{N}=\frac{\sum_{n=1}^{N}\gamma(z_{nk})}{\sum_{n=1}^{N}\sum_{i=1}^{K}\gamma(z_{ni})}
 $$
 
+#### EM algorithm
+
+Expection:
+
+calulate $\gamma(z_{nk})$
+
+Maximization:
+
+update $\mu, \Sigma, \pi$
+
+#### Variational Inference
+
+
+
