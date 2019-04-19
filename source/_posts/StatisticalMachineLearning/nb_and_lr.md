@@ -305,3 +305,12 @@ $$
 \therefore \vv{\mu}=\frac{1}{N}\sum_{i=1}^{N}\vv u(\vv{x}_i)
 $$
 ![image-20190419111147456](nb_and_lr/image-20190419111147456.png)
+
+
+
+### Generailized Linear Models (GLIM)
+
+$$
+\mathbb{E}[y]=u=f()
+$$
+
