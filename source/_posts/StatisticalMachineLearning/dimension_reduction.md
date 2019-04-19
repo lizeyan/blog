@@ -48,5 +48,12 @@ $$
 $$
 Therefore $\lambda$ is the largest eigen-value.
 
+#### add more component
+
+$$
+\hat{\vv{u}}=\text{argmax}_\vv{u}\vv{u}^\top \mathbf{S} \vv{u}\\
+s.t.\>\> \vv{u}^\top\vv{u}=1
+$$
+
 
 
