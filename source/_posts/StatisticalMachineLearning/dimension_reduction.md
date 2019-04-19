@@ -105,3 +105,5 @@ $$
 $$
 ![image-20190419195806342](clustering/image-20190419195806342.png)
 
+## Probabilistic PCA
+
