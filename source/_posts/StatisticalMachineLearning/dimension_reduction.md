@@ -99,6 +99,9 @@ J=\sum_{n=1}^{N}\sum_{i=d+1}^{D}((x_i-\bar x)^\top u_i)u_i\\
 =\sum_{i=d+1}^{D}u_i^\top S u_i
 $$
 It can be prove similarly that $u_i$ should be the $D-d$ smallest eigen-values' eigen-vectors.
-
-#### Representation of PCA
+$$
+\hat x_n = \sum_{i=1}^{d}(x_n^\top u_i + \bar x ^\top u_i - \bar x ^\top u_i)u_i + \sum_{i=d+1}^{D}(\bar x^\top u_i)u_i\\
+=\bar x + \sum_{i=1}^{d}(x_n-\bar x)^\top u_i u_i
+$$
+![image-20190419195806342](clustering/image-20190419195806342.png)
 
