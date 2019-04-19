@@ -65,3 +65,9 @@ $$
 Gradient descent can be applied.
 
 Second oder gradient descent leads to the same update rule as k-means.
+
+#### find a good optimum
+
+K-means leads to a local optimum
+
+-   
