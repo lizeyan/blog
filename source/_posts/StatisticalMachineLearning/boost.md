@@ -1,5 +1,7 @@
 ---
 title: boost
+categories:
+  - StatisticalMachineLearning
 ---
 
 ## Model Averaging: from CT to Boosting
