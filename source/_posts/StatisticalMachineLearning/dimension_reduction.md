@@ -63,3 +63,14 @@ $$
 \mathbf{S} \vv u_2 - \lambda \vv u_2=0\\
 \lambda=\vv u_2^\top \mathbf{S} \vv u_2
 $$
+
+### Minimum Error Formulation
+
+A set of complete orthonormal basis
+$$
+\{\vv u_1,\vv  u_2, ..., \vv u_n\}
+$$
+Then $\vv x$ can be represented by $\vv{x}=\sum_i \alpha_i \vv u_i, \alpha_i=\vv{x}^\top\vv u_i$
+
+
+
