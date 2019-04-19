@@ -90,7 +90,7 @@ $$
 
 $$
 \mathcal{L}=\log p(D)\\
-=\sum_{n=1}^{N}\sum_{k=1}^{K}(\log \pi_k - \frac{1}{2}\log (2\pi) - \frac{1}{2}\log |\Sigma_k|-\frac{1}{2}(x-\mu_k)^\top\Sigma_k^{-1}(x-\mu_k))
+=\sum_{n=1}^{N}\log(\sum_{k=1}^{K}\pi_k\mathcal N(x|\mu_k, \Sigma_k))
 $$
 
 Before do MLE, let's first take a look at the posterior:
@@ -102,5 +102,6 @@ Let $\gamma(z_k)=p(z_k=1|x)$
 
 Then
 $$
-\because \frac{\partial \mathcal L}{\partial \mu_k}=\sum_{n=1}^{N}
+\because \frac{\partial \mathcal L}{\partial \mu_k}
+=\sum_{n=1}^{N}\frac{}{\sum_{k=1}^{K}}
 $$
