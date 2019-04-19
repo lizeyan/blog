@@ -60,7 +60,7 @@ $$
 
 #### K-Means as Gradient Descent
 
-![image-20190419151655736](kernel_density_estimation/image-20190419151655736.png)
+![image-20190419151655736](clustering/image-20190419151655736.png)s
 
 Gradient descent can be applied.
 
@@ -174,7 +174,7 @@ $$
 $$
 
 
-![image-20190419173117190](kernel_density_estimation/image-20190419173117190.png)
+![image-20190419173117190](clustering/image-20190419173117190.png)
 
 Minimize the gap with respect to $p(z)$: E
 
