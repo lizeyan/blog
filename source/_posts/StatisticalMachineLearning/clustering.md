@@ -113,3 +113,8 @@ Maximize $\mathcal L$ with respect to $\Sigma$ is difficult, so we optimize it w
 $$
 \nabla_{S}\mathcal{L}=\sum_{n=1}^{N}\frac{\pi_k}{\sum_{i=1}^{K}\pi_i\mathcal N(x_n|\mu_i, \Sigma_i)}\nabla_SN(x_n|\mu_k, \Sigma_k)
 $$
+
+$$
+
+$$
+
