@@ -311,6 +311,14 @@ $$
 ### Generailized Linear Models (GLIM)
 
 $$
-\mathbb{E}[y]=u=f()
+\mathbb{E}[y]=u=f(\vv\theta^\top\vv{x})
 $$
 
+$$
+p(y|\vv{x})=h(\vv u)\exp(\vv\eta^\top \vv u - A(\vv\eta)), \vv u = f(\vv\theta^\top\vv{x})
+$$
+
+When $p(y|\vv{x})$ is a bernoulli distribution, $\vv{u}=\sigma(-\vv{w}^\top\vv{x})$, it is basic linear regression.
+$$
+\mathcal{L}=\sum_{n}\log h(\vv u_n)+\sum_n({\vv\eta^\top\vv{x}_n-(\vv\eta_n)})
+$$
