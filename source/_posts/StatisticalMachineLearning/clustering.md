@@ -35,8 +35,8 @@ Examples:
 
 1.  Initialize $\mu_1, ..., \mu_K$
 2.  Repeat until no change happens
-    1.  For each $k$, $C_k=\{i\>s.t.\> x_i\text{ is closest to }\mu_k\}$
-    2.  For each $k$, update $\mu_k=\frac{1}{|C_k|}\sum_{i\in C_k}x_i$
+    1.  Expectation: for each $k$, $C_k=\{i\>s.t.\> x_i\text{ is closest to }\mu_k\}$
+    2.  Maximization: for each $k$, update $\mu_k=\frac{1}{|C_k|}\sum_{i\in C_k}x_i$
 
 #### Optimization problem
 
@@ -46,4 +46,6 @@ s.t. \>\> \sum_{k=1}^{K}r_{nk}=1, r_{nk}\in\{0, 1\}\\
 \mu_k=\frac{\sum_ix_i1_{r_{nk}=1}}{\sum_i1_{r_{nk}=1}}
 $$
 
-​	
+In each expection step, we keep $\mu_k$ fixed and optimize $J$ with respect to $r_{nk}$
+
+It has closed form solution:	
