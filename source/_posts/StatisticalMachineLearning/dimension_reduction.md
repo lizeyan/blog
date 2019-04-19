@@ -76,9 +76,15 @@ Then $\vv x$ can be represented by $\vv{x}=\sum_i \alpha_i \vv u_i, \alpha_i=\vv
 
 Consider a low-dimension representation:
 $$
-\vv{x}_n=\sum_{i=1}^{d}z_{ni}\vv u_i + \sum_{i=d+1}^{N}b_i\vv u_i
+\vv{x}_n=\sum_{i=1}^{d}z_{ni}\vv u_i + \sum_{i=d+1}^{D}b_i\vv u_i
 $$
 
 $$
 J=\frac{1}{N}\sum_{n=1}^{N}||x_n-\hat x_n||^2
 $$
+
+$$
+\frac{dJ}{dz_{ni}}=2(x_n-\sum_{i=1}^dz_{ni}u_i-\sum_{i=d+1}^Db_iu_i)u_i=0\\
+x_n
+$$
+
