@@ -205,9 +205,9 @@ $$
 
 Genrative model has assumptions on $P(X|Y)$, discrimitive models has assumptions on $P(Y|X)$.
 
-![image-20190419102050758](nb_and_lr.assets/image-20190419102050758.png)
+![image-20190419102050758](nb_and_lr/image-20190419102050758.png)
 
-![image-20190419102100816](nb_and_lr.assets/image-20190419102100816.png)
+![image-20190419102100816](nb_and_lr/image-20190419102100816.png)
 
 ## Exponential Family
 
@@ -218,6 +218,16 @@ p(\vv{x}|\vv{\eta})=h(\vv{x})g(\vv{\eta})\exp(\vv\eta^\top\vv u(\vv{x}))
 $$
 
 $g(\vv\eta)$ is the normalization coefficient.
+
+More refefence [here](https://en.wikipedia.org/wiki/Exponential_family)
+
+![image-20190419104811404](nb_and_lr/image-20190419104811404.png)
+
+![image-20190419104825706](nb_and_lr/image-20190419104825706.png)
+
+![image-20190419104845782](nb_and_lr/image-20190419104845782.png)
+
+![image-20190419104916055](nb_and_lr/image-20190419104916055.png)
 
 #### Bernoulli
 
@@ -275,3 +285,4 @@ g(\vv{\eta})=|\Sigma|^{-\frac{1}{2}}\exp(-\frac{1}{2}\vv\mu^\top\Sigma^{-1}\vv{\
 =|-2\vv{\eta}_2|^{\frac{1}{2}}\exp(+\frac{1}{4}\vv\eta_1^\top\vv\eta_2^{-1}\vv\eta_1)
 $$
 
+### 
