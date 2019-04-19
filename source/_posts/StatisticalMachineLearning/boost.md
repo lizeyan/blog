@@ -39,5 +39,23 @@ $$
 
 1.  initialize observations' weights $w_i=\frac{1}{N}, i = 1, 2, ..., N$
 
+2.  For m from 1 to M:
+
+    1.  fit $C_m$ with observations with weights $w_i$
+
+    2.  Compute weighted error rate:
+        $$
+        err_m=\frac{\sum_i w_i1_{C_m(x_i)\neq y_i}}{\sum_i w_i}
+        $$
+
+
+    3.  Update ratio $\alpha_m=\log\frac{1-err_m}{err_m}$
+
+    4.  Update weights
+        $$
+        w_i \leftarrow w_i \cdot \exp(\alpha_m)
+        $$
+
+
 ## Additive Model
 
