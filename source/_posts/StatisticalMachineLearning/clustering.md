@@ -176,4 +176,3 @@ $$
 
 ![image-20190419173117190](kernel_density_estimation/image-20190419173117190.png)
 
-In exception step, 
