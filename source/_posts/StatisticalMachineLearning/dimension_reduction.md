@@ -18,3 +18,8 @@ Given data matrix $\mathbf{X}$, get the $d$-largest eigenvalues $\lambda_1, ...,
 
 let $\mathbf{U}=\begin{bmatrix}\vv u_1, \vv u_2,..., \vv u_d\end{bmatrix}$
 
+Encode: $UX$
+
+Decode: $ZU^\top$
+
+​	
