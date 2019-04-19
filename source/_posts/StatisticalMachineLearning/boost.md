@@ -53,8 +53,16 @@ $$
 
     4.  Update weights
         $$
-        w_i \leftarrow w_i \cdot \exp(\alpha_m)
+        w_i \leftarrow w_i \cdot \exp(\alpha_m1_{C_m(x_i)\neq y_i})
         $$
+
+
+    5.  Renormalize sum of $w_i$ to 1s
+
+3.  return $C(x)=\text{sign}(\sum_{i=1}^{M}\alpha_mC_m(x))$
+
+#### Error Rate Analysis
+
 
 
 ## Additive Model
