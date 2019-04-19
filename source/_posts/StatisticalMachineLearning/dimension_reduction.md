@@ -43,7 +43,10 @@ $$
 
 Solve it, we get
 $$
-\mathbf{S}\vv{u}=\lambda\vv{u}
+\mathbf{S}\vv{u}=\lambda\vv{u}\\
+\lambda=\vv{u}^\top \mathbf{S} \vv{u}
 $$
+Therefore $\lambda$ is the largest eigen-value.
+
 
 
