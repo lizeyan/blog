@@ -93,3 +93,8 @@ $$
 =\sum_{n=1}^{N}\sum_{k=1}^{K}(\log \pi_k - \frac{1}{2}\log (2\pi) - \frac{1}{2}\log |\Sigma_k|-\frac{1}{2}(x-\mu_k)^\top\Sigma_k^{-1}(x-\mu_k))
 $$
 
+Before do MLE, let's first take a look at the posterior:
+$$
+p(z_k=1|x)=\frac{p(x|z_k=1)p(z_k=1)}{p(x)}\\
+=\frac{\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)}{\sum_i\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)}
+$$
