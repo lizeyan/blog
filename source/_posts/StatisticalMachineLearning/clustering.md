@@ -28,3 +28,10 @@ Examples:
 -   hamming distance
 -   Cosine distance
 -   Non-metric distances,  e.g. DTW, perceptual loss
+
+### K-Means
+
+#### Algorithm
+
+
+
