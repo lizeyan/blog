@@ -88,3 +88,8 @@ $$
 x_n^\top u_i -z_{ni}=0
 $$
 
+$$
+\frac{dJ}{db_i}=2\sum_{n=1}^N(x_n-\sum_{i=1}^dz_{ni}u_i-\sum_{i=d+1}^Db_iu_i)^\top u_i=0\\
+\sum_{n=1}^{N}x_n^\top u_i-N b_i=0
+$$
+
