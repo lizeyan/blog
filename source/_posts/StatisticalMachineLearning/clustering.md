@@ -47,5 +47,6 @@ s.t. \>\> \sum_{k=1}^{K}r_{nk}=1, r_{nk}\in\{0, 1\}\\
 $$
 
 In each expection step, we keep $\mu_k$ fixed and optimize $J$ with respect to $r_{nk}$
+It has closed form solution:
+$$r_{nk}=\begin{cases}1 & k=\text{argmin}_i ||x_n-\mu_i||^2 \\ 0 & otherwise\end{cases}$$​	
 
-It has closed form solution:	
