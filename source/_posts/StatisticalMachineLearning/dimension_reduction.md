@@ -8,11 +8,13 @@ categories:
 
 ### Algorithm
 
+{% raw %}
 $$
 \newcommand{\vv}[1]{\boldsymbol{#1}}
 $$
 
 
+{% endraw %}
 
 Given data matrix $\mathbf{X}$, get the $d$-largest eigenvalues $\lambda_1, ..., \lambda_d$ and correbounding egivenvectors $\vv{u}_1, \vv{u}_2, ..., \vv{u}_d$
 
@@ -77,4 +79,6 @@ $$
 \vv{x}_n=\sum_{i=1}^{d}z_{ni}\vv u_i + \sum_{i=d+1}^{N}b_i\vv u_i
 $$
 
-
+$$
+J=\frac{1}{N}\sum_{n=1}^{N}||x-x_n||^2
+$$
