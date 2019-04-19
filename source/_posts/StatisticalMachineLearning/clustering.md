@@ -176,3 +176,6 @@ $$
 
 ![image-20190419173117190](kernel_density_estimation/image-20190419173117190.png)
 
+Minimize the gap with respect to $p(z)$: E
+
+Maximize the lower bbound with respect to $\Theta$: M
