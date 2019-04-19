@@ -84,10 +84,12 @@ MLE for Gaussian leads to natual solutions
 
 $$
 p(x)=\sum_{k=1}^{K}\pi_k\mathcal{N}(x|\mu_k, \Sigma_k)\\
-p(x|z_k=1)=\mathcal{N}(x|\mu_k, \Sigma_k)
+p(x|z_k=1)=\mathcal{N}(x|\mu_k, \Sigma_k)\\
+p(z)=\prod_{k=1}^{K}\pi_k^{z_k}, \pi_k\in[0, 1], \sum_{k=1}^{K}\pi_k=1
 $$
 
 $$
-\mathcal{L}=
+\mathcal{L}=\log p(D)\\
+=\sum_{n=1}^{N}\sum_{k=1}^{K}\log \pi_k + \log ()
 $$
 
