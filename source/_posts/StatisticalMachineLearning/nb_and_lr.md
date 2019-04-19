@@ -296,6 +296,11 @@ $$
 
 $$
 P(D|\vv\eta)=\prod_{i=1}^{N}P(\vv{x}|\vv\eta)\\
-=
+=(\prod_{i=1}^{N}h(\vv{x}_i))\exp(\vv\eta^\top\sum_{i=1}^{N}\vv{u}(\vv{x}_i)-NA(\vv\eta))
 $$
 
+It is still a exponential family distribution
+$$
+\nabla_{\vv\eta}\log P=\sum_{i=1}^{N}\vv{u}(\vv{x}_i)-N\nabla_{\eta}A(\vv\eta)\\
+\therefore \vv{\mu}=\frac{1}{N}\sum_{i=1}^{N}\vv u(\vv{x}_i)
+$$
