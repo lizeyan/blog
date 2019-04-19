@@ -93,3 +93,7 @@ $$
 \sum_{n=1}^{N}x_n^\top u_i-N b_i=0
 $$
 
+Therefore the error $J$ equals
+$$
+J=\sum_{n=1}^{N}\sum_{i=d+1}^{D}((x_i-\bar x)^\top u_i)u_i=\sum_{i=d+1}^{D}u_i
+$$
