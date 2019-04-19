@@ -33,5 +33,8 @@ Examples:
 
 #### Algorithm
 
-1.  
+1.  Initialize $\mu_1, ..., \mu_k$
+2.  Repeat until no change happens
+    1.  For each $k$, $C_k=\{i\>s.t.\> x_i\text{ is closest to }\mu_k\}$
+    2.  For each $k$, update $\mu_k=$
 
