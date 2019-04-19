@@ -118,6 +118,12 @@ $$
 \frac{\partial N(x_n|\mu_k, \Sigma_k)}{\partial S}=\frac{\partial N(x_n|\mu_k, \Sigma_k)}{\partial \log N(x_n|\mu_k, \Sigma_k)}\cdot\frac{\partial \log N(x_n|\mu_k, \Sigma_k)}{\partial S}\\
 \because \frac{\partial N(x_n|\mu_k, \Sigma_k)}{\partial \log N(x_n|\mu_k, \Sigma_k)}=N(x_n|\mu_k, \Sigma_k) \\
 \frac{\partial \log N(x_n|\mu_k, \Sigma_k)}{\partial S}=\frac{1}{2}\frac{\partial \log|S|}{\partial S}-\frac{1}{2}\cdot\frac{\partial (x_n-\mu_k)^\top S (x_n-\mu_k)}{\partial S}\\
-=\frac{}{}
+=\frac{S^*}{2|S|}-\frac{1}{2}(x_n-\mu_k)(x_n-\mu_k)^\top \\
+=\frac{1}{2}(\Sigma_k-(x_n-\mu_k)(x_n-\mu_k)^\top)\\
+\therefore \frac{\partial N(x_n|\mu_k, \Sigma_k)}{\partial S}=\frac{1}{2}N(x_n|\mu_k, \Sigma_k)(\Sigma_k-(x_n-\mu_k)(x_n-\mu_k)^\top)
+$$
+
+$$
+
 $$
 
