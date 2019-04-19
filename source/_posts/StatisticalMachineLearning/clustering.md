@@ -89,7 +89,7 @@ p(z)=\prod_{k=1}^{K}\pi_k^{z_k}, \pi_k\in[0, 1], \sum_{k=1}^{K}\pi_k=1
 $$
 
 $$
-\mathcal{L}=\log p(D)\\
+\mathcal{L}_0=\log p(D)\\
 =\sum_{n=1}^{N}\log(\sum_{k=1}^{K}\pi_k\mathcal N(x|\mu_k, \Sigma_k))
 $$
 
