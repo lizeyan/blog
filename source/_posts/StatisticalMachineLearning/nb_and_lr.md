@@ -188,10 +188,15 @@ $$
 \mathbf{R}_{ii}=u_i(1-u_i)
 $$
 
+For least square of linear regression, we have
 $$
-
+\vv{w}=(\mathbf{X}\mathbf{X}^\top)^{-1}\mathbf{X}\vv{y}
 $$
-
+IRLS:
+$$
+\vv{w}_{t+1}\leftarrow\vv{w}_t - \mathbf{H}^{-1}\nabla_\vv{w}\mathcal{L}\\
+=\vv{w}_t-
+$$
 
 
 ## Exponential Family
