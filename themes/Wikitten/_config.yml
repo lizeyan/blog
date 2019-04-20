@@ -1,10 +1,10 @@
 # Menus
 menu:
-  首页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  关于: /about
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+  About: /about
 
 # Customize
 customize:
@@ -34,7 +34,7 @@ customize:
 # Widgets
 widgets: # default use category only
     - category
-    # - recent_posts
+    - recent_posts
     # - archive
     # - tag
     # - tagcloud
@@ -75,7 +75,7 @@ plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
     mathjax: true # options: true, false - to enable use Mathjax in your article
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: UA-138651056-1 # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
     busuanzi_count: false # options: true, false - to enable busuanzi site pv statistics
