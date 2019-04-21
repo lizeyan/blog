@@ -10,8 +10,6 @@ In generally, Boosting > Random Forest > Bagging > Single Tree
 
 ### Classification Trees
 
-![image-20190419114603181](Untitled/image-20190419114603181.png)
-
 The decision boundaries are along the axes.
 
 ### Bagging

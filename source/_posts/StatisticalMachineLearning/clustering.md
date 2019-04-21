@@ -179,3 +179,47 @@ $$
 Minimize the gap with respect to $p(z)$: E
 
 Maximize the lower bbound with respect to $\Theta$: M
+
+### EM example: multinomial distribution
+
+![image-20190421141432302](clustering/image-20190421141432302.png)
+
+In the expectation step, we calculate the posterior
+$$
+\gamma_{dk}=P(c_d=k|d)\\
+=\frac{p(d|c_d=k)p(k)}{p(d)}\\
+=\frac
+{\pi_k\frac{n_d!}{\prod_wT_{dw}!}\prod_w\mu_{wk}^{T_{dw}}}
+{\sum_{k'} \frac{n_d!}{\prod_wT_{dw}!}\prod_w\mu_{wk'}^{T_{dw}}}
+$$
+In the maximization step, apply MLE with $\gamma_{dk}$ fixed.
+$$
+\mathcal{L}_0=\log P(D)\\
+=\sum_{d}\log P(d)\\
+=\sum_{d}\log(\sum_k P(d|c_d=k)P(c_d=k))
+$$
+
+The lagrange function is that
+$$
+\mathcal{L}=\sum_{d}\log(\sum_k P(d|c_d=k)P(c_d=k))\\
+-\sum_k[\lambda_k(\sum_w\mu_{wk}-1)]\\
+-\beta(\sum_k \pi_k-1)
+$$
+
+$$
+\frac{d \mathcal{L}}{du_{wk}}=\sum_d
+\frac{p(d|c_d=k)p(c_d=k)\cdot\frac{T_{dw}}{\mu_{wk}}}
+{\sum_kp(d|c_d=k)p(c_d=k)}-\lambda_k=0\\
+\therefore \sum_w(\sum_d\gamma_{dk}T_{dw}-\mu_{wk}\lambda_k)\\
+\therefore \sum_d\gamma_{dk}T_d-\lambda_k=0\\
+\therefore \mu_{wk}=\frac{\sum_d\gamma_{dk}T_{dw}}{\sum_d\gamma_{dk}T_d}
+$$
+
+$$
+\frac{d\mathcal{L}}{d\pi_k}=\sum_d\frac{P(d|c_d=k)}{\sum_kP(d|c_d=k)P(d_d=k)}-\beta=0\\
+\because \sum_k(\sum_d\frac{P(d|c_d=k)\pi_k}{\sum_kP(d|c_d=k)P(d_d=k)}-\pi_k\beta)=0\\
+\therefore \sum_k\sum_d\gamma_{dk}-\beta=0\\
+\therefore \beta=D\\
+\therefore \sum_d\gamma_{dl}-D\pi_k=0\\
+\therefore \pi_k=\frac{\sum_d\gamma_{dk}}{D}
+$$
