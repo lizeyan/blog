@@ -145,5 +145,5 @@ $$
 
 Apply MLE on $p(x)$
 $$
-
+\nabla_{u}p(x)=
 $$
