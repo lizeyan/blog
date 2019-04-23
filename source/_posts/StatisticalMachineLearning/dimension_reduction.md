@@ -68,7 +68,7 @@ $$
 $$
 
 $$
-\hat{\vv\mu_3}=\argmax_{mu}
+\hat{\vv\mu_3}=\text{argmax}_{\mu}\vv\mu^\top
 $$
 
 
