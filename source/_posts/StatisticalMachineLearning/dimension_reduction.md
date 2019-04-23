@@ -130,5 +130,6 @@ Assume that $x=Wz+\mu+\epsilon, \epsilon\sim N(0, \sigma^2 I)$
 
 Therefore
 $$
-p(x|z)=N(x|Wz+\mu, \sigma^2I)
+p(x|z)=N(x|Wz+\mu, \sigma^2I)\\
+p(x)
 $$
