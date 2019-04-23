@@ -77,7 +77,7 @@ $$
 \vv\mu_1^\top\mathbf{S}\vv\mu_3-0-0-\gamma_1=0\\
 \vv\mu_2^\top\mathbf{S}\vv\mu_3-0-\gamma_2-0=0\\
 \therefore \gamma_1=\gamma_2=0\\
-\therefore \mathbf{S}\mu_3
+\therefore \mathbf{S}\vv\mu_3=\lambda \vv\mu_3
 $$
 
 
