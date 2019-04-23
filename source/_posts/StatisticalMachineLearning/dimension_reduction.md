@@ -154,3 +154,4 @@ $$
 \log p(x)=-\frac{N}{2}(p\log(2\pi)+\log|C|+tr(C^{-1}S))
 $$
 
+![image-20190423153437444](dimension_reduction/image-20190423153437444.png)
