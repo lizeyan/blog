@@ -73,7 +73,7 @@ s.t. \>\> \vv{\mu_3}^\top\vv\mu_3=1, \vv\mu_3^\top\vv\mu_2=0, \vv\mu_3^\top\vv\m
 $$
 
 $$
-
+S\vv\mu_3
 $$
 
 
