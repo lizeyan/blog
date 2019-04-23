@@ -296,7 +296,7 @@ $$
 \because \int_xp(x)=1\\
  \therefore\nabla_\eta\int_xh(x)\exp(\eta^\top u(x)-A(\eta))=0\\
  \therefore\int_x h(x)\exp(\eta^\top u(x)-A(\eta))(u(x)-\nabla_\eta A(\eta))=0\\
- \therefore \nabla_\eta A(\eta)=\mathbb{E}
+ \therefore \nabla_\eta A(\eta)=\mathbb{E}[u(x)]
 $$
 
 
