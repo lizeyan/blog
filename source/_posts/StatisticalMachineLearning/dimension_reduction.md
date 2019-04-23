@@ -146,5 +146,5 @@ $$
 Apply MLE on $p(x)$
 $$
 \nabla_{u}p(x)=\nabla_{u}-\frac{Np}{2}\log(2\pi)-\frac{N}{2}\log|C|-\frac{1}{2}\sum_{n=1}^{N}(x_n-\mu)^\top C^{-1}(x_n-\mu)\\
-=\sum_{n=1}^{N}
+=C^{-1}\sum_{n=1}^{N}(x_n-\mu)=0
 $$
