@@ -169,7 +169,7 @@ Let $\mathcal{L}_1==\sum_{n=1}^{N}\mathbb{E}_q[\log p(x_n, z_n)-\log q(z_n)]$
 The gap between $\log P(D)$ and $\mathcal L_1$:
 $$
 \mathcal{L_1}=\sum_{n=1}^{N}\mathbb{E}_q[\log p(x_n, z_n)-\log q(z_n)]\\
-=\sum_{n=1}^N\mathbb{E}_q[\log p(x_n)]
+=\sum_{n=1}^N\mathbb{E}_q[\log p(x_n)+\log p(z_n|x_n)]
 $$
 
 
