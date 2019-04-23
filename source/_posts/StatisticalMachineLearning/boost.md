@@ -62,7 +62,7 @@ $$
 
 3.  return $C(x)=\text{sign}(\sum_{i=1}^{M}\alpha_mC_m(x))$
 
-Trainning error theorem 
+[Trainning error theorem](boost/)
 
 #### Additive Model
 
