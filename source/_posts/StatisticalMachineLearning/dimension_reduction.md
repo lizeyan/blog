@@ -133,3 +133,8 @@ $$
 p(x|z)=N(x|Wz+\mu, \sigma^2I)\\
 p(x)=\int_zp(x|z)p(z)dz=N(x|\mu, C=WW^\top+\sigma^2I)
 $$
+
+$$
+C^{-1}
+$$
+
