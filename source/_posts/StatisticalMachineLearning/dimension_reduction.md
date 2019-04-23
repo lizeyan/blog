@@ -81,7 +81,7 @@ $$
 \therefore \vv\mu_3^\top\mathbf{S}\vv\mu_3=\lambda
 $$
 
-
+Therefore $\vv\mu_2, \vv\mu_3$ must be the eigenvector with 2nd and 3rd largest engienvalues.
 
 ### Minimum Error Formulation
 
