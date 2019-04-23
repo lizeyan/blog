@@ -75,7 +75,8 @@ $$
 $$
 \mathbf S\vv\mu_3-\lambda \vv\mu_3-\gamma_2\vv\mu_2-\gamma_1\vv\mu_1=0\\
 \vv\mu_1^\top\mathbf{S}\vv\mu_3-0-0-\gamma_1=0\\
-\vv\mu_2^\top\mathbf{S}\vv\mu_3-0-\gamma_2-0=0
+\vv\mu_2^\top\mathbf{S}\vv\mu_3-0-\gamma_2-0=0\\
+\therefore \gamma_1=\gamma_2=0
 $$
 
 
