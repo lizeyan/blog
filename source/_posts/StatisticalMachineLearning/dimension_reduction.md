@@ -80,8 +80,6 @@ $$
 \therefore \mathbf{S}\vv\mu_3=\lambda \vv\mu_3
 $$
 
-
-
 ### Minimum Error Formulation
 
 A set of complete orthonormal basis
