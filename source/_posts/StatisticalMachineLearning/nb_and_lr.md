@@ -293,7 +293,8 @@ $$
 ![image-20190419110333901](nb_and_lr/image-20190419110333901.png)
 
 $$
- \because \int_xp(x)
+ \because \int_xp(x)=1\\
+ \therefore\nabla_\eta
 $$
 
 
