@@ -156,3 +156,5 @@ $$
 
 ![image-20190423153437444](dimension_reduction/image-20190423153437444.png)
 
+We can choose $R=I$
+
