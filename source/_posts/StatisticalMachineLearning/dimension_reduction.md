@@ -73,7 +73,7 @@ s.t. \>\> \vv{\mu_3}^\top\vv\mu_3=1, \vv\mu_3^\top\vv\mu_2=0, \vv\mu_3^\top\vv\m
 $$
 
 $$
-\mathbf S\vv\mu_3-\lambda \mu_3
+\mathbf S\vv\mu_3-\lambda \vv\mu_3-\gamma2\mu_3
 $$
 
 
