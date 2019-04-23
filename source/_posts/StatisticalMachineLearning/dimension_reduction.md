@@ -157,6 +157,8 @@ $$
 ![image-20190423153437444](dimension_reduction/image-20190423153437444.png)
 
 We can choose $R=I$
+
+Let $\sigma^2\to 0$
 $$
 \mathbb{E}[z|x]=M^{-1}W^\top
 $$
