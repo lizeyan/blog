@@ -178,7 +178,8 @@ $$
 
 Minimize the gap with respect to $p(z)$: E
 $$
-\because \mathcal{L}=\log p(D)-KL[q(Z)||p(Z|D)]
+\because \mathcal{L}=\log p(D)-KL[q(Z)||p(Z|D)]\\
+\therefore p(z)
 $$
 
 
