@@ -143,3 +143,7 @@ $$
 p(z|x)=\mathcal N(z|M^{-1}W^\top(x-u), \sigma^{-2}M)
 $$
 
+Apply MLE on $p(x)$
+$$
+
+$$
