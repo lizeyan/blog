@@ -69,7 +69,7 @@ $$
 
 $$
 \hat{\vv\mu_3}=\text{argmax}_{\mu_3}\vv\mu_3^\top\mathbf{S}\vv\mu_3\\
-s.t. \>\> \vv{\mu_3}^\top\vv\mu_3=1
+s.t. \>\> \vv{\mu_3}^\top\vv\mu_3=1, \vv\mu_3^\top\vv\mu_2=0, \vv\mu_3
 $$
 
 
