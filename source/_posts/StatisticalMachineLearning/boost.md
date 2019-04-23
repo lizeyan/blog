@@ -61,7 +61,8 @@ $$
     5.  Renormalize sum of $w_i$ to 1s
 
 3.  return $C(x)=\text{sign}(\sum_{i=1}^{M}\alpha_mC_m(x))$
-4.  
+
+
 
 #### Additive Model
 
