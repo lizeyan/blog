@@ -135,6 +135,6 @@ p(x)=\int_zp(x|z)p(z)dz=N(x|\mu, C=WW^\top+\sigma^2I)
 $$
 
 $$
-C^{-1}=\sigma^{I-\sigma^{-2}WM^{-1}W-2}
+C^{-1}=\sigma^{-2} I-\sigma^{-2}WM^{-1}W-2
 $$
 
