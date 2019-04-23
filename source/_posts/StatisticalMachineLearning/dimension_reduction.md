@@ -16,7 +16,7 @@ $$
 
 {% endraw %}
 
-Given data matrix $\mathbf{X}$, get the $d$-largest eigenvalues $\lambda_1, ..., \lambda_d$ and correbounding egivenvectors $\vv{u}_1, \vv{u}_2, ..., \vv{u}_d$
+Given data matrix $\mathbf{X}​$, get the $d​$-largest eigenvalues $\lambda_1, ..., \lambda_d​$ and correbounding egivenvectors $\vv{u}_1, \vv{u}_2, ..., \vv{u}_d​$
 
 let $\mathbf{U}=\begin{bmatrix}\vv u_1, \vv u_2,..., \vv u_d\end{bmatrix}$
 
