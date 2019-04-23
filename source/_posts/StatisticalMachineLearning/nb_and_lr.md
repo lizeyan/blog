@@ -293,7 +293,7 @@ $$
 ![image-20190419110333901](nb_and_lr/image-20190419110333901.png)
 
 $$
- \because \int_xp(x)=1\\
+\because \int_xp(x)=1\\
  \therefore\nabla_\eta\int_xh(x)\exp(\eta^\top u(x)-A(\eta))=0\\
  \therefore\int_x h(x)\exp(\eta^\top u(x)-A(\eta))(u(x)-\nabla_\eta A(\eta))=0\\
  \therefore \nabla_\eta A(\eta)=\mathbb{E}
