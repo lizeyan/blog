@@ -177,7 +177,9 @@ $$
 ![image-20190419173117190](clustering/image-20190419173117190.png)
 
 Minimize the gap with respect to $p(z)$: E
+$$
 
+$$
 
 
 Maximize the lower bbound with respect to $\Theta$: M
