@@ -68,7 +68,7 @@ $$
 $$
 
 $$
-\hat{\vv\mu_3}=\text{argmax}_{\mu_3}\vv\mu^\top\mathbf{S}\vv\mu\\
+\hat{\vv\mu_3}=\text{argmax}_{\mu_3}\vv\mu_3^\top\mathbf{S}\vv\mu_3\\
 s.t. \>\> \vv{\mu_3}
 $$
 
