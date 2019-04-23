@@ -126,3 +126,4 @@ $$
 
 Let $z$ be a latent feature vector. We assume its prior $z\sim N(0, I)$
 
+Assume that $x=Wz+\mu+\epsilon, \epsilon\sim N(0, \sigma^2)$
