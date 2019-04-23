@@ -179,7 +179,7 @@ $$
 Minimize the gap with respect to $p(z)$: E
 $$
 \because \mathcal{L}=\log p(D)-KL[p(Z)||p(Z|D)]\\
-\therefore q(z)=\text{argmax}_{q} \mathcal{L}
+\therefore q(z)=\text{argmax}_{q} \mathcal{L}=\text{argmin}_q KL[q(Z)||p(Z|D)]
 $$
 
 
