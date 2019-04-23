@@ -178,7 +178,7 @@ $$
 
 Minimize the gap with respect to $p(z)$: E
 $$
-\because \mathcal{L}
+\because \mathcal{L}=\log p(D)-
 $$
 
 
