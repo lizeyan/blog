@@ -294,7 +294,8 @@ $$
 
 $$
  \because \int_xp(x)=1\\
- \therefore\nabla_\eta
+ \therefore\nabla_\eta\int_xp(x)=0\\
+ \therefore
 $$
 
 
