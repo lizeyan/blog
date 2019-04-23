@@ -10,6 +10,7 @@ categories:
 
 {% raw %}
 $$
+preamble
 \newcommand{\vv}[1]{\boldsymbol{#1}}
 $$
 
