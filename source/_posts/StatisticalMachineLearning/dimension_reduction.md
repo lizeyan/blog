@@ -124,5 +124,5 @@ $$
 
 ## Probabilistic PCA
 
-Let $z$ be a latent feature vector
+Let $z$ be a latent feature vector. We assume its prior $z\sum N(0, I)$
 
