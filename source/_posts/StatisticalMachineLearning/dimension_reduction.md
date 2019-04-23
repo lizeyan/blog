@@ -140,6 +140,6 @@ M=W^\top W+\sigma^2I
 $$
 
 $$
-p(z|x)
+p(z|x)=\mathcal N()
 $$
 
