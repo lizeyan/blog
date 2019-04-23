@@ -139,3 +139,7 @@ C^{-1}=\sigma^{-2} I-\sigma^{-2}WM^{-1}W^\top\\
 M=W^\top W+\sigma^2I
 $$
 
+$$
+p(z|x)
+$$
+
