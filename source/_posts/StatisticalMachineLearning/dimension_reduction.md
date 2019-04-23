@@ -151,6 +151,6 @@ $$
 $$
 
 $$
-\log p(x)=-\frac{N}{2}
+\log p(x)=-\frac{N}{2}(p\log(2\pi)+\log|C|)
 $$
 
