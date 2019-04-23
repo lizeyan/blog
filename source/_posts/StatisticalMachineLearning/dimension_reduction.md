@@ -124,3 +124,4 @@ $$
 
 ## Probabilistic PCA
 
+Let $z$ be a latent feature vector
