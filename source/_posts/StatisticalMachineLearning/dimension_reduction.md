@@ -68,8 +68,8 @@ $$
 $$
 
 $$
-\hat{\vv\mu_3}=\text{argmax}_{\mu}\vv\mu^\top\mathbf{S}\vv\mu\\
-s.t. \<\< \vv
+\hat{\vv\mu_3}=\text{argmax}_{\mu_3}\vv\mu^\top\mathbf{S}\vv\mu\\
+s.t. \>\> \vv{\mu_3}
 $$
 
 
