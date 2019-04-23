@@ -298,7 +298,7 @@ $$
  \therefore\int_x h(x)\exp(\eta^\top u(x)-A(\eta))(u(x)-\nabla_\eta A(\eta))dx=0\\
  \therefore \nabla_\eta A(\eta)=\mathbb{E}[u(x)]\\
  \because \nabla_\eta^2\int_xh(x)\exp(\eta^\top u(x)-A(\eta))dx=0\\
- \therefore \int_x h(x)\exp(\eta^\top u(x)-A(\eta))u^2(x)-h(x)\exp(\eta^\top u(x)-A(\eta))\nabla_n A(\eta)u(x) dx - \nabla_\eta^2 A(\eta)=0\\
+ \therefore \int_x h(x)\exp(\eta^\top u(x)-A(\eta))u^2(x)-h(x)\exp(\eta^\top u(x)-A(\eta))\nabla_n A(\eta) u(x) dx - \nabla_\eta^2 A(\eta)=0\\
  \therefore
 $$
 
