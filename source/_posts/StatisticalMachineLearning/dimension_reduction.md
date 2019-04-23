@@ -149,3 +149,8 @@ $$
 =C^{-1}\sum_{n=1}^{N}(x_n-\mu)=0\\
 \therefore \mu=\bar x
 $$
+
+$$
+
+$$
+
