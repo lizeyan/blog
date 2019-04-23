@@ -72,6 +72,10 @@ $$
 s.t. \>\> \vv{\mu_3}^\top\vv\mu_3=1, \vv\mu_3^\top\vv\mu_2=0, \vv\mu_3^\top\vv\mu_1=0,\vv\mu_2^\top\vv\mu_1=0
 $$
 
+$$
+
+$$
+
 
 
 ### Minimum Error Formulation
