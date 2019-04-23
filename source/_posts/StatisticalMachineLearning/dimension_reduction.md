@@ -160,5 +160,6 @@ We can choose $R=I$
 
 Let $\sigma^2\to 0$
 $$
-\mathbb{E}[z|x]=M^{-1}W^\top
+\mathbb{E}[z|x]=M^{-1}W^\top(x-\mu)\\
+=
 $$
