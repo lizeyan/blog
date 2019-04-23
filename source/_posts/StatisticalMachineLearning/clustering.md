@@ -183,9 +183,7 @@ $$
 \therefore q(z_n)=p(z_n|x_n)
 $$
 Maximize the lower bbound with respect to $\Theta$: M
-$$
 
-$$
 
 
 ### EM example: multinomial distribution
