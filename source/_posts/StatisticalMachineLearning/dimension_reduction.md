@@ -67,6 +67,8 @@ $$
 \lambda=\vv u_2^\top \mathbf{S} \vv u_2
 $$
 
+
+
 ### Minimum Error Formulation
 
 A set of complete orthonormal basis
