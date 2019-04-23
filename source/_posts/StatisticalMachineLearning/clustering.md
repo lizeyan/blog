@@ -178,6 +178,8 @@ $$
 
 Minimize the gap with respect to $p(z)$: E
 
+
+
 Maximize the lower bbound with respect to $\Theta$: M
 
 ### EM example: multinomial distribution
