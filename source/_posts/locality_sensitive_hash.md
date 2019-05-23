@@ -68,7 +68,7 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Multi-Probe LSH
 
-[^fn1]:  
+[^multi-probe-lsh]:   
 
 #### Dynamic Collision Counting for Search
 
