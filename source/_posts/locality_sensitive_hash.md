@@ -12,7 +12,7 @@ It is based on the definition of LSH family $\mathcal{H}$, a family of hash func
 
 A family $\mathcal{H}$ is $(R, cR, P_1, P_2)$-sensitive if for any two items $p$ and $q$:
 $$
-
+P(h(p))
 $$
 
 
