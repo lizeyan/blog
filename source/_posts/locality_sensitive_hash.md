@@ -32,7 +32,7 @@ To improve the recall, $L$ such compund hash function are sampled independently,
 
 
 
-To improve precision ,we 
+To improve precision, K should be large.
 
 ### $l_p$ distance
 
