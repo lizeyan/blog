@@ -50,4 +50,7 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 ### Rank Similarity
 
-### Shift invariant kernels
+### Shift Invariant Kernels
+
+### Non-Metric Distance
+
