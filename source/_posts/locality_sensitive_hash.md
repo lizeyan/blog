@@ -8,7 +8,7 @@ LSH is a randomized hasing framework for efficient approximate neasrest negibot 
 
 It is based on the definition of LSH family $\mathcal{H}$, a family of hash functions mapping similar input items into the same hash code with higher probability than dissimilar items.
 
-LSH aims to maximize the probability of collision of similar items, while tradition hash 
+LSH aims to maximize the probability of collision of similar items, while tradition hash always avoid collisions.
 
 ### The Family
 
