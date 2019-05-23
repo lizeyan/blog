@@ -16,7 +16,7 @@ If $d(p, q)\le R$, then $P(h(p)=h(q))\ge P_1​$
 
 If $d(p, q)\ge cR$, then $P(h(p)=h(q))\le P_2$
 
-
+Here $c>1$, $P_1>P_2$, $h\in\mathcal{H}$
 
 
 
