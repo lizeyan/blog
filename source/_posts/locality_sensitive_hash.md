@@ -64,6 +64,10 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### LSH forest
 
+#### Adaptative LSH
+
+#### Multi-Probe LSH
+
 
 
 ### SortingKeys-LSH
