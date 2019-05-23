@@ -10,5 +10,9 @@ It is based on the definition of LSH family $\mathcal{H}$, a family of hash func
 
 ### The Family
 
-Locality-sensitive hashing:
+#### Locality-sensitive hashing
+
+
+
+
 
