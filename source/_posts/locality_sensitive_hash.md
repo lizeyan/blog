@@ -10,10 +10,12 @@ It is based on the definition of LSH family $\mathcal{H}$, a family of hash func
 
 ### The Family
 
-A family $\mathcal{H}$ is $(R, cR, P_1, P_2)$-sensitive if for any two items $p$ and $q$:
-$$
-P(h(p))
-$$
+A family $\mathcal{H}$ is $(R, cR, P_1, P_2)$-sensitive if for any two items $p$ and $q$
+
+If $d(p, q)\le R$, then $P(h(p)=h(q))\ge P_1​$
+
+If $d(p, q)\ge cR$, then $P(h(p)=h(q))\le P_2$
+
 
 
 
