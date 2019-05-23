@@ -68,7 +68,11 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Multi-Probe LSH
 
-[^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8  
+
+
+
+
+[^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
 #### Dynamic Collision Counting for Search
 
