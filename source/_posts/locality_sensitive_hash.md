@@ -28,5 +28,5 @@ Define $g(x)=(h_1(x), ...., h_K(x))$, the output of $g$ identifies a hash bucket
 
 However, the compound hash function also reduce the probability of collsion of smiliar items.
 
-To improve the recall, 
+To improve the recall, $L$ such compund hash function are sampled independently, 
 
