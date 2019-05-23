@@ -38,5 +38,5 @@ To improve recall, L should be large.
 
 The items lying in the L hash buckets are retrieved as near item candidates.
 
-### $l_p$ distance
+### $l_p$ Distance
 
