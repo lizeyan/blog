@@ -70,7 +70,11 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Dynamic Collision Counting for Search
 
+#### Bayesian LSH
 
+#### Fast LSH
+
+#### Bi-Level LSH
 
 ### SortingKeys-LSH
 
