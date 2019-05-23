@@ -54,3 +54,5 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 ### Non-Metric Distance
 
+### Arbitrary Distance Measures
+
