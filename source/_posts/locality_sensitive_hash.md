@@ -42,4 +42,5 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 ### Angle-Based Distance
 
-### 
+### Hamming Distance
+
