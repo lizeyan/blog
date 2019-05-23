@@ -24,5 +24,7 @@ Define $\rho=\frac{\log P_1}{\log P_2}$, then there exists an algorithm for (R, 
 
 [^fn1]: Localitysensitive hashing scheme based on p-stable distributions.
 
-Define $g(x)=(h_1(x), ...., h_k(x))$
+Define $g(x)=(h_1(x), ...., h_K(x))$
+
+
 
