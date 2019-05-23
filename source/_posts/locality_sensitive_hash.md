@@ -60,4 +60,6 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 ### Search
 
-#### 
+### SortingKeys-LSH
+
+### Analysis and Modeling
