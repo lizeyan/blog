@@ -18,5 +18,5 @@ If $d(p, q)\ge cR$, then $P(h(p)=h(q))\le P_2$
 
 Here $c>1$, $P_1>P_2$, $h\in\mathcal{H}$
 
-Define $$
+Define $\rho=\frac{\log P_1}{\log P_2}$, then 
 
