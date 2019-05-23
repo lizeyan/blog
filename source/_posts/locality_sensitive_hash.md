@@ -30,5 +30,5 @@ However, the compound hash function also reduce the probability of collsion of s
 
 To improve the recall, $L$ such compund hash function are sampled independently, each of which corresponds to a hash table.
 
-
+#### $\mathcal{l}_p$
 
