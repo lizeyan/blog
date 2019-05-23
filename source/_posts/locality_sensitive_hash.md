@@ -1,4 +1,4 @@
 ---
-title: locality sensitive hashing
+title: Locality Sensitive Hashing
 ---
 
