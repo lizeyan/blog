@@ -26,3 +26,5 @@ Define $\rho=\frac{\log P_1}{\log P_2}$, then there exists an algorithm for (R, 
 
 Define $g(x)=(h_1(x), ...., h_K(x))$, the output of $g$ identifies a hash bucket id.
 
+However, the compound hash function 
+
