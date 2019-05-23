@@ -18,7 +18,9 @@ If $d(p, q)\ge cR$, then $P(h(p)=h(q))\le P_2$
 
 Here $c>1$, $P_1>P_2$, $h\in\mathcal{H}$
 
-Define $\rho=\frac{\log P_1}{\log P_2}$, then there exists an algorithm for (R, C)-near neighbor problem which uses $O(dn+n^{1+\rho})$ space, with query time dominated by $O(n^{\rho})$ distance computations and $O(n^{\rho}\log_{1/P_2}n)$ evaluations of hash functions.
+Define $\rho=\frac{\log P_1}{\log P_2}$, then there exists an algorithm for (R, C)-near neighbor problem which uses $O(dn+n^{1+\rho})$ space, with query time dominated by $O(n^{\rho})$ distance computations and $O(n^{\rho}\log_{1/P_2}n)$ evaluations of hash functions. [^fn1]
+
+[^fn1]: Localitysensitive hashing scheme based on p-stable distributions.
 
 
 
