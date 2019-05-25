@@ -1,5 +1,7 @@
 ---
 title: cjk
+categories:
+  - Latex
 ---
 
 ``` latex
