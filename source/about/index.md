@@ -10,7 +10,17 @@ Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsin
 
 ### Education
 
+-   August, 2018 -- Now
 
+    Tsinghua University Ph.D., Computer Science 
+
+    Research Focus: network management, software engineering 
+
+-   August, 2014 – June 2018
+
+    Tsinghua University B.E., Computer Science
 
 ### Publication
+
+-   
 
