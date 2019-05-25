@@ -69,9 +69,7 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Multi-Probe LSH [^multi-probe-lsh]
 
-Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi-probe LSH probes $g(q)+\Delta$. $\Delta=(\delta_1, ..., \delta_M), \delta_i\in\{-1, 0, 1\}$
-
-
+Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi-probe LSH probes $g(q)+\Delta$. $\Delta=(\delta_1, ..., \delta_M), \delta_i\in\{-1, 0, 1\}$, since 
 
 
 
