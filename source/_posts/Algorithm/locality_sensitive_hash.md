@@ -78,6 +78,8 @@ Firstly probe the 1-step buckets, then all the 2-step buckets, and so on.
 
 The total number of all $n$-step buckets is $L\times {M\choose n}\times2^n$.
 
+![image-20190525212643536](locality_sensitive_hash/image-20190525212643536.png)
+
  
 
 
