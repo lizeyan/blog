@@ -94,7 +94,7 @@ For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable ($a$ is a
 
 ![image-20190525215318390](locality_sensitive_hash/image-20190525215318390.png)
 
-
+Then it indicates that $score(\Delta)=\sum_{i=1}^{M}x_i(\delta_i)^2$
 
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
