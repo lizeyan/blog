@@ -1,6 +1,7 @@
 ---
 title: Locality Sensitive Hashing
-categories: []
+categories:
+- Algorithm
 ---
 
 ## Definition and Instances
