@@ -88,7 +88,7 @@ Using the step-wise probing method, all coordinates in the hash values are treat
 
 Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$.
 
-Let $x_i(\delta)$ ne the distance of $q$ from the boundary of the slot $h_i(q)+\delta$, then $x_i(1)=W-f_i(q)$
+Let $x_i(\delta)$ ne the distance of $q$ from the boundary of the slot $h_i(q)+\delta$, then $x_i(-1)=W-f_i(q)$
 
 
 
