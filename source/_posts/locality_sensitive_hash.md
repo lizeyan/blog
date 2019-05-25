@@ -71,6 +71,8 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi-probe LSH probes $g(q)+\Delta$. $\Delta=(\delta_1, ..., \delta_M), \delta_i\in\{-1, 0, 1\}$, since similar objects should hash to the same or adjacent buckets with high probability. A approriate pertubation sequence will make multi-probe LSH achieves similar recall with less hash tables and similar time complexity.
 
+#### Step-Wise Probing
+
 
 
 
