@@ -76,7 +76,7 @@ Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi
 
 Firstly probe the 1-step buckets, then all the 2-step buckets, and so on.
 
-
+The total number of all  
 
 
 
