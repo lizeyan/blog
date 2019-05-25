@@ -8,6 +8,8 @@ Zeyan LI 李则言, Ph.D. student at Tsinghua University.
 
 Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsinghua.edu.cn](mailto://zy-li18@mails.tsinghua.edu.cn)
 
+GitHub: 
+
 ### Education
 
 -   August, 2018 -- Now
@@ -26,4 +28,5 @@ Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsin
 
 -   Li, Zeyan, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*. IEEE, 2018.
 -   Nan, Guoshun, et al. "The Frame Latency of Personalized Livestreaming Can Be Significantly Slowed Down by WiFi." *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*. IEEE, 2018.
+-   Xu, Haowen, et al. "Unsupervised anomaly detection via variational auto-encoder for seasonal kpis in web applications." *Proceedings of the 2018 World Wide Web Conference on World Wide Web*. International World Wide Web Conferences Steering Committee, 2018.
 
