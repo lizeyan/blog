@@ -67,9 +67,9 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Adaptative LSH
 
-#### Multi-Probe LSH
+#### Multi-Probe LSH [^multi-probe-lsh]
 
-use  [^multi-probe-lsh]
+
 
 
 
