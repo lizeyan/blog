@@ -1,5 +1,6 @@
 ---
 title: Locality Sensitive Hashing
+categories: []
 ---
 
 ## Definition and Instances
