@@ -88,7 +88,7 @@ Using the step-wise probing method, all coordinates in the hash values are treat
 
 Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$.
 
-
+Let 
 
 
 
