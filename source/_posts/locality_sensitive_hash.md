@@ -69,7 +69,7 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 #### Multi-Probe LSH
 
-[^ multi-probe-lsh]
+use  [^multi-probe-lsh]
 
 
 
