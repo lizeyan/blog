@@ -86,7 +86,9 @@ Using the step-wise probing method, all coordinates in the hash values are treat
 
 ![image-20190525213133478](locality_sensitive_hash/image-20190525213133478.png)
 
-Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$
+Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$.
+
+
 
 
 
