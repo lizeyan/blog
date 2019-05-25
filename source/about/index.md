@@ -24,5 +24,6 @@ Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsin
 
 ### Publication
 
--   
+-   Li, Zeyan, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*. IEEE, 2018.
+-   Nan, Guoshun, et al. "The Frame Latency of Personalized Livestreaming Can Be Significantly Slowed Down by WiFi." *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*. IEEE, 2018.
 
