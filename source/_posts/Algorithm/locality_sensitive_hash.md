@@ -90,7 +90,7 @@ Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$.
 
 Let $x_i(\delta)$ ne the distance of $q$ from the boundary of the slot $h_i(q)+\delta$, then $x_i(-1)=f_i(q)-W\cdot f_i(q)$, where $f_i(q)=a\cdot q + b$. $x_i(1)=W-x_i(-1)$
 
-For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable, with 0 mean, and the variance is proportional to $||p-q||_2^2$.
+For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable (with ), with 0 mean, and the variance is proportional to $||p-q||_2^2$.
 
 
 
