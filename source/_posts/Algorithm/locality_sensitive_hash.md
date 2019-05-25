@@ -80,7 +80,7 @@ The total number of all $n$-step buckets is $L\times {M\choose n}\times2^n$.
 
 ![image-20190525212643536](locality_sensitive_hash/image-20190525212643536.png)
 
- Using the step-wise probing method, all coordinates in the hash values are treated indentically.
+Using the step-wise probing method, all coordinates in the hash values are treated indentically.
 
 
 
