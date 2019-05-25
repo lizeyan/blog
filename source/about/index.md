@@ -16,6 +16,8 @@ Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsin
 
     Research Focus: network management, software engineering 
 
+    At [NetMan](<https://netman.aiops.org/>) lab.
+
 -   August, 2014 – June 2018
 
     Tsinghua University B.E., Computer Science
