@@ -72,7 +72,7 @@ The items lying in the L hash buckets are retrieved as near item candidates.
 
 Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi-probe LSH probes $g(q)+\Delta$. $\Delta=(\delta_1, ..., \delta_M), \delta_i\in\{-1, 0, 1\}$, since similar objects should hash to the same or adjacent buckets with high probability. A approriate pertubation sequence will make multi-probe LSH achieves similar recall with less hash tables and similar time complexity.
 
-##### Step-Wise Probing
+##### Step-Wise Probing Sequence
 
 Firstly probe the 1-step buckets, then all the 2-step buckets, and so on.
 
@@ -80,9 +80,7 @@ The total number of all $n$-step buckets is $L\times {M\choose n}\times2^n$.
 
 ![image-20190525212643536](locality_sensitive_hash/image-20190525212643536.png)
 
-Using the step-wise probing method, all coordinates in the hash values are treated indentically.
-
-
+##### Query-Directed Probing Sequence
 
 
 
