@@ -92,7 +92,7 @@ Let $x_i(\delta)$ ne the distance of $q$ from the boundary of the slot $h_i(q)+\
 
 For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable ($a$ is a sampled from a standard Gaussian), with 0 mean, and the variance is $||p-q||_2^2$.
 
-
+![image-20190525215318390](locality_sensitive_hash/image-20190525215318390.png)
 
 
 
