@@ -82,6 +82,8 @@ The total number of all $n$-step buckets is $L\times {M\choose n}\times2^n$.
 
 ##### Query-Directed Probing Sequence
 
+Using the step-wise probing method, all coordinates in the hash values are treated identically. And the probability of adding 1 and substracting 1 from each coordinate is equal as well.
+
 
 
 
