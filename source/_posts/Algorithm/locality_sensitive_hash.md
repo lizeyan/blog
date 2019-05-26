@@ -147,7 +147,7 @@ $h^R(o)=\lfloor\frac{h(o)}{R}\rfloor$
 
 An objects o's level-R bucket identified by the level-R bid, consists of R consecutive level-1 buckets identified by the level-1 bids.
 
-##### C2LSH
+##### C2LSH for $(R, c)$-NN Search
 
 
 
