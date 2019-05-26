@@ -114,9 +114,9 @@ To avoid the overhead of maintaining the querying such a heap at query time, we 
 
 We approximate the $z_j^2$ values by their expectations.
 
-Note that $x_i(\delta)$ is uniformly distributed in $[0, W]$
+Note that $x_i(\delta)$ is uniformly distributed in $[0, W]$, and $x_i(\delta)+x_i(-\delta)=W$.
 
-
+The joint distribution of 
 
 
 
