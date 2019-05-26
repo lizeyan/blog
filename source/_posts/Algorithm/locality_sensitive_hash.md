@@ -153,7 +153,9 @@ Then we compute #collides(o) for every $o$ and hence identify the set $C$ of all
 
 Collison threshold: $\alpha m$
 
+These two properties should hold to ensure C2LSH correct:
 
+$\mathcal{P}_1$: 
 
 
 
