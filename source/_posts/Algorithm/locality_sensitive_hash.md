@@ -100,7 +100,7 @@ Then we firstly calculate $x_i(\delta), i=1, 2, ..., M, \delta\in\{-1,1\}$. We s
 
 Let $\pi_j=(i, \delta)$ if $z_j=x_i(\delta)$. Since $x_i(-1)+x_i(1)=W$, if $\pi_j=(i, \delta)$, then $\pi_{2M+1-j}=(i, -\delta)$.
 
-
+Then 
 
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
