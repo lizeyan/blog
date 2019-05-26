@@ -157,7 +157,7 @@ These two properties should hold to ensure C2LSH correct:
 
 $\mathcal{P}_1$: If there exists a data object o, s.t. $o\in B(q, R)$, then o's collison number is at least l. 
 
-$\mathcal{P}_2$: 
+$\mathcal{P}_2$: The total number of false positives is less than $\beta n$
 
 
 
