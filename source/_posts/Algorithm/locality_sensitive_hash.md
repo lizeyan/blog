@@ -141,9 +141,7 @@ A data object is called frequence if its collision number #collision(o) is great
 
 Level-1: $h(o)=\lfloor\frac{\vec a \cdot \vec o + b^*}{W}\rfloor$, it is $(1, c, p_1, p_2)$ sensitive.
 
-Level-R hash function:
-
-$h^R(o)=\lfloor\frac{h(o)}{R}\rfloor$
+Level-R hash function: $h^R(o)=\lfloor\frac{h(o)}{R}\rfloor$, it is $(R, cR, p_1, p_2)$-sensitive
 
 An objects o's level-R bucket identified by the level-R bid, consists of R consecutive level-1 buckets identified by the level-1 bids.
 
