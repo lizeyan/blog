@@ -139,7 +139,7 @@ A data object is called frequence if its collision number #collision(o) is great
 
 ##### LSH Functions for C2LSH
 
-
+Level-1, Level-R hash function
 
 ##### C2LSH
 
