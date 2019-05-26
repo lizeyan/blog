@@ -165,7 +165,7 @@ $\mathcal{P}_2$: The total number of false positives is less than $\beta n$
 
 ###### Virtual Rehashing
 
-
+Given a query, object Q, there may not exist any data object within the ball centered at q with the radius $R=1$.
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
