@@ -171,7 +171,7 @@ According to observation above, locating the level-c bucket is equivalent to loc
 
 ###### Neatest Neighbor Algorithm
 
-
+![image-20190526162845491](locality_sensitive_hash/image-20190526162845491.png)
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
