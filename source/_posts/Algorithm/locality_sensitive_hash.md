@@ -129,7 +129,7 @@ $$
 
 Use dynamic compound hash function rather than a static one.
 
-
+C2
 
 #### Bayesian LSH
 
