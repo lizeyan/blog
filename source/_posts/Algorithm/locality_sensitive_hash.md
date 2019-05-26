@@ -145,6 +145,8 @@ Level-R hash function:
 
 $h^R(o)=\lfloor\frac{h(o)}{R}\rfloor$
 
+
+
 ##### C2LSH
 
 
