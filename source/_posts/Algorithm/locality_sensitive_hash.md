@@ -102,6 +102,8 @@ Let $\pi_j=(i, \delta)$ if $z_j=x_i(\delta)$. Since $x_i(-1)+x_i(1)=W$, if $\pi_
 
 Then the problem reduces to the problem of generating perturbation sets in increasing order of their scores.
 
+![image-20190526142038241](locality_sensitive_hash/image-20190526142038241.png)
+
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
 #### Dynamic Collision Counting for Search
