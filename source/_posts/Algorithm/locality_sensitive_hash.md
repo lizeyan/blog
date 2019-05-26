@@ -139,7 +139,7 @@ A data object is called frequence if its collision number #collision(o) is great
 
 ##### LSH Functions for C2LSH
 
-Level-1: $h(o)=\lfloor\frac{\vec a \cdot \vec o + b^*}{W}\rfloor$
+Level-1: $h(o)=\lfloor\frac{\vec a \cdot \vec o + b^*}{W}\rfloor$, it is $(1, c, p_1, p_2)$ sensitive.
 
 Level-R hash function
 
