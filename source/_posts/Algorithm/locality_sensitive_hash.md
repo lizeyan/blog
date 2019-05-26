@@ -169,6 +169,8 @@ Given a query, object Q, there may not exist any data object within the ball cen
 
 According to observation above, locating the level-c bucket is equivalent to locating c level-1 buckets.
 
+###### Neatest Neighbor Algorithm
+
 
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
