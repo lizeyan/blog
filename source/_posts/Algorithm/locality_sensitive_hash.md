@@ -116,7 +116,7 @@ We approximate the $z_j^2$ values by their expectations.
 
 Note that $x_i(\delta)$ is uniformly distributed in $[0, W]$, and $x_i(\delta)+x_i(-\delta)=W$.
 
-The joint distribution of $z_j$ for $j=1,2,...,M$ is the following: pick $M$ numbers uniformaly and at random from $[0, \frac{W}{2}]$
+The joint distribution of $z_j$ for $j=1,2,...,M$ is the following: pick $M$ numbers uniformaly and at random from $[0, \frac{W}{2}]$. $z_j$ is the $j$-th largest nuber in this set.
 
 
 
