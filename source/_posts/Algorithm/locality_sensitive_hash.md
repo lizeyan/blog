@@ -155,7 +155,7 @@ Collison threshold: $\alpha m$
 
 These two properties should hold to ensure C2LSH correct:
 
-$\mathcal{P}_1$: If there exists a data object o, s.t. $o\in B(q, R)$, 
+$\mathcal{P}_1$: If there exists a data object o, s.t. $o\in B(q, R)$, then o's collison number is at least l.
 
 
 
