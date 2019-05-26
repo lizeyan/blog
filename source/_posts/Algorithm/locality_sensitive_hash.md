@@ -147,7 +147,7 @@ An objects o's level-R bucket identified by the level-R bid, consists of R conse
 
 ##### C2LSH for $(R, c)$-NN Search
 
-Fristly calculate the buckets that $q$ falls in by $h_i(q)$
+Fristly calculate the buckets that $q$ falls in by $h_i(q), i=1,2,...,m$
 
 
 
