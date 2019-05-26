@@ -159,6 +159,8 @@ $\mathcal{P}_1$: If there exists a data object o, s.t. $o\in B(q, R)$, then o's 
 
 $\mathcal{P}_2$: The total number of false positives is less than $\beta n$
 
+![image-20190526160936851](locality_sensitive_hash/image-20190526160936851.png)
+
 
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
