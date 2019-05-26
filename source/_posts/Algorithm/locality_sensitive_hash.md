@@ -149,7 +149,9 @@ An objects o's level-R bucket identified by the level-R bid, consists of R conse
 
 Fristly calculate the buckets that $q$ falls in by $h_i(q), i=1,2,...,m$, and find the objects collides with $q$.
 
-Then 
+Then we compute #collides(o) for every $o$ and hence identify the set $C$ of all frequent objects.
+
+
 
 
 
