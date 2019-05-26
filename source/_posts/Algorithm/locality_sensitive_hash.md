@@ -112,7 +112,7 @@ Then the problem reduces to the problem of generating perturbation sets in incre
 
 To avoid the overhead of maintaining the querying such a heap at query time, we precompute a certain sequence and reduce the generation of pertibation vectors to performing lookups instead of heap queries and updates.
 
-
+We approximate the $z_j^2$ values by their expectations.
 
 
 
