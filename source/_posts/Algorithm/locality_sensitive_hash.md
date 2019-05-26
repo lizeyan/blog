@@ -96,7 +96,7 @@ For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable ($a$ is a
 
 Then it indicates that $score(\Delta)=\sum_{i=1}^{M}x_i(\delta_i)^2$
 
-Then we firstly calculate $x_i(\delta), i=1, 2, ..., M, \delta\in\{-1,1\}$. We sort these $2M$ valus in increasing order.
+Then we firstly calculate $x_i(\delta), i=1, 2, ..., M, \delta\in\{-1,1\}$. We sort these $2M$ valus in increasing order. Let $z_j$ denote the $j$th element in this sorted order.
 
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
