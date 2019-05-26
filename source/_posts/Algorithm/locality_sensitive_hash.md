@@ -151,7 +151,7 @@ Fristly calculate the buckets that $q$ falls in by $h_i(q), i=1,2,...,m$, and fi
 
 Then we compute #collides(o) for every $o$ and hence identify the set $C$ of all frequent objects. Then we compute $max(\#C, \beta n)$ frequent members of C.
 
-Collison threshold: $\alpha m$
+Collison threshold: $l=\alpha m$
 
 These two properties should hold to ensure C2LSH correct:
 
