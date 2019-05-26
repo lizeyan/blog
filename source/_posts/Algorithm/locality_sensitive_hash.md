@@ -151,6 +151,8 @@ An objects o's level-R bucket identified by the level-R bid, consists of R conse
 
 
 
+
+
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
 #### Bayesian LSH
