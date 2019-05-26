@@ -129,7 +129,9 @@ $$
 
 Use dynamic compound hash function rather than a static one.
 
-C2LSH firstly 
+C2LSH firstly randomly chooses a set of $m$ LSDH functions with appropriately small interval $W$.
+
+
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
