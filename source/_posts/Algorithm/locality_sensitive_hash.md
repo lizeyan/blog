@@ -135,6 +135,8 @@ Only data objects with large enough collison counts need to have their distances
 
 ##### Collision Number and Frequent Object
 
+A data object is called frequence if its collision number #collision(o) is greater than or equal to a pre-specified collision threshold l.
+
 
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
