@@ -163,6 +163,8 @@ $\mathcal{P}_2$: The total number of false positives is less than $\beta n$
 
 ##### C2LSH for c-Approxinate NN Search
 
+###### Virtual Rehashing
+
 
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
