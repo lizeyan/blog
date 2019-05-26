@@ -133,6 +133,8 @@ C2LSH firstly randomly chooses a set of $m$ LSDH functions with appropriately sm
 
 Only data objects with large enough collison counts need to have their distances computed.
 
+##### Collision Number and Frequent Object
+
 
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
