@@ -123,11 +123,11 @@ E[z_j^2]=\frac{j(j+1)}{4(M+1)(M+2)}W^2
 $$
 
 
-
-
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
 #### Dynamic Collision Counting for Search
+
+
 
 #### Bayesian LSH
 
