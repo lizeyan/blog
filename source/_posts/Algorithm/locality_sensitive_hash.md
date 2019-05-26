@@ -127,7 +127,7 @@ $$
 
 #### Dynamic Collision Counting for Search
 
-
+Use dynamic compound hash function rather than a static one.
 
 #### Bayesian LSH
 
