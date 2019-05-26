@@ -125,11 +125,13 @@ $$
 
 [^multi-probe-lsh]: Q. Lv, W. Josephson, Z. Wang, M. Charikar, and K. Li. Multiprobe lsh: Efﬁcient indexing for high-dimensional similarity search. In VLDB, pages 950–961, 2007. 3, 8
 
-#### Dynamic Collision Counting for Search
+#### Dynamic Collision Counting for Search [^c2lsh]
 
 Use dynamic compound hash function rather than a static one.
 
-C2
+
+
+[^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
 #### Bayesian LSH
 
