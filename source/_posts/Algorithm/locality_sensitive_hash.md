@@ -167,7 +167,9 @@ $\mathcal{P}_2$: The total number of false positives is less than $\beta n$
 
 Given a query, object Q, there may not exist any data object within the ball centered at q with the radius $R=1$. C2LSH then simulates the search of E2LSH at $1, c, c^2, ....$
 
-According to observation above, locating the level-c bucket is equivalent to locating c level-1 buckeys
+According to observation above, locating the level-c bucket is equivalent to locating c level-1 buckets.
+
+
 
 [^c2lsh]: Gan, Junhao, et al. "Locality-sensitive hashing scheme based on dynamic collision counting." *Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data*. ACM, 2012.
 
