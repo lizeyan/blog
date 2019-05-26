@@ -98,7 +98,7 @@ Then it indicates that $score(\Delta)=\sum_{i=1}^{M}x_i(\delta_i)^2$. Pertutatio
 
 Then we firstly calculate $x_i(\delta), i=1, 2, ..., M, \delta\in\{-1,1\}$. We sort these $2M$ valus in increasing order. Let $z_j$ denote the $j$th element in this sorted order.
 
-Ley $\pi_j=(i, \delta)$ if $z_j=x_i(\delta)$. Since $x_i(-1)+x_i(1)=W$, if $\pi_j=(i, \delta)$, then $\pi_{2M+1-j}=(i, -\delta)$.
+Let $\pi_j=(i, \delta)$ if $z_j=x_i(\delta)$. Since $x_i(-1)+x_i(1)=W$, if $\pi_j=(i, \delta)$, then $\pi_{2M+1-j}=(i, -\delta)$.
 
 
 
