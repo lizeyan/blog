@@ -129,7 +129,7 @@ $$
 
 Use dynamic compound hash function rather than a static one.
 
-C2LSH firstly randomly chooses a set of $m$ LSDH functions with appropriately small interval $W$, which form a function base $\mathcal{B}$.
+C2LSH firstly randomly chooses a set of $m​$ LSDH functions with appropriately small interval $W​$, which form a function base $\mathcal{B}​$.
 
 Only data objects with large enough collison counts need to have their distances computed.
 
