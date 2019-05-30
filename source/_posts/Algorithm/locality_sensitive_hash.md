@@ -78,7 +78,7 @@ Given a query $q$, the basic LSH query $g(q)=(h_1(q), ..., h_M(q))$, while multi
 
 Firstly probe the 1-step buckets, then all the 2-step buckets, and so on.
 
-The total number of all $n$-step buckets is $L\times {M\choose n}\times2^n$.
+The total number of all $n​$-step buckets is $L\times {M\choose n}\times2^n​$.
 
 ![image-20190525212643536](locality_sensitive_hash/image-20190525212643536.png)
 
@@ -88,9 +88,9 @@ Using the step-wise probing method, all coordinates in the hash values are treat
 
 ![image-20190525213133478](locality_sensitive_hash/image-20190525213133478.png)
 
-Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor$.
+Consider the hash function $h(q)=\lfloor\frac{a\cdot q+b}{W}\rfloor​$.
 
-Let $x_i(\delta)$ ne the distance of $q$ from the boundary of the slot $h_i(q)+\delta$, then $x_i(-1)=f_i(q)-W\cdot f_i(q)$, where $f_i(q)=a\cdot q + b$. $x_i(1)=W-x_i(-1)$. And we define $x(0)=0$
+Let $x_i(\delta)​$ ne the distance of $q​$ from the boundary of the slot $h_i(q)+\delta​$, then $x_i(-1)=f_i(q)-W\cdot f_i(q)​$, where $f_i(q)=a\cdot q + b​$. $x_i(1)=W-x_i(-1)​$. And we define $x(0)=0​$
 
 For any fixed point $p$, $f_i(p)-f_i(q)$ is a Gaussian random variable ($a$ is a sampled from a standard Gaussian), with 0 mean, and the variance is $||p-q||_2^2$.
 
