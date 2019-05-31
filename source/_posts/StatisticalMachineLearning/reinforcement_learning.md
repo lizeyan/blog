@@ -73,6 +73,8 @@ $$
 $$
 The state is a sufficient statictic of the future. Once you get the state, you can throw the history away.
 
+A Markov Decision Process is a tuple $<\mathcal S,\mathcal A,\mathcal P,\mathcal R,\gamma>$
+
 ## Value Based Methods
 
 ## Policy Search
