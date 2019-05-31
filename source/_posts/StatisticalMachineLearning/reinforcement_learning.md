@@ -75,7 +75,7 @@ The state is a sufficient statictic of the future. Once you get the state, you c
 
 A Markov Decision Process is a tuple $<\mathcal S,\mathcal A,\mathcal P,\mathcal R,\gamma>$
 
-
+S is a finite set of states.
 
 ## Value Based Methods
 
