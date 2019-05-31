@@ -95,7 +95,7 @@ How to solve the optimal policy in MDP?
 
 
 
-State value function $V^{\pi}(s)=E[]$
+State value function $V^{\pi}(s)=E[\sum_{t=1}^{T}]$
 
 ## Value Based Methods
 
