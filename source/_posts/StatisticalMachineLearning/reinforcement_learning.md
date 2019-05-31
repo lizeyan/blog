@@ -63,6 +63,10 @@ History is the sequence of observations ,actions, rewards
 $$
 H_t=O_1,R_1,A_1,...,A_{t-1},O_t,R_t
 $$
+Formmaly, state is a function of the history
+$$
+S_t=f(H_t)
+$$
 
 
 ## Value Based Methods
