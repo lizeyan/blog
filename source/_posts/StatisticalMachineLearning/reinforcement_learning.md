@@ -69,7 +69,7 @@ S_t=f(H_t)
 $$
 A state $S_t$ is Markov iff
 $$
-\mathbb{P}[S_{t+1}|S_t]=\mathbb{P}
+\mathbb{P}[S_{t+1}|S_t]=\mathbb{P}[S_{t+1}|S_1,...,S_t]
 $$
 
 
