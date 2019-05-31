@@ -48,6 +48,6 @@ title: Reinforcement Learning
 
     A model predicts what the environment will do next
     $$
-    \mathcal{P}_{ss'}^a
+    \mathcal{P}_{ss'}^a=\mathbb{P}
     $$
     
