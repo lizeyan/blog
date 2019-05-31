@@ -18,4 +18,6 @@ title: Reinforcement Learning
 
     -   Receives action $a_t$
     -   Emits state $s_t$
-    -   
+    -   Emits scalar reward $r_t$
+
+-   
