@@ -81,7 +81,7 @@ $\mathcal A$ is a finite set of actions
 
 $\mathcal P$ is a state transition probability matrix
 
-
+$\mathcal R$ is a reward function
 
 ## Value Based Methods
 
