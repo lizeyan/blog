@@ -47,5 +47,7 @@ title: Reinforcement Learning
 -   Model
 
     A model predicts what the environment will do next
-
+    $$
+    \mathcal{T}
+    $$
     
