@@ -20,4 +20,4 @@ title: Reinforcement Learning
     -   Emits state $s_t$
     -   Emits scalar reward $r_t$
 
--   
+-   Policy
