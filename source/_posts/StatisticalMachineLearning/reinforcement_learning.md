@@ -59,3 +59,12 @@ title: Reinforcement Learning
 
 ## Markov Decision Process
 
+
+
+## Value Based Methods
+
+## Policy Search
+
+## Model-Based Method
+
+## Deep Reinforcement Learning
