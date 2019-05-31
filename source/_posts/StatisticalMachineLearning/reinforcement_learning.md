@@ -33,7 +33,7 @@ title: Reinforcement Learning
 
 -   Value Function
 
-    the prediction of future reward
+    the prediction of future reward given a state and an action
 
     Q-value function gives expected total reward
     $$
