@@ -21,3 +21,7 @@ title: Reinforcement Learning
     -   Emits scalar reward $r_t$
 
 -   Policy
+
+    Agent's behavior
+
+    
