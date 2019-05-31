@@ -43,4 +43,7 @@ title: Reinforcement Learning
     $$
     Q^{\pi}(s, a)=\mathbb{E}_{s',a'}[r+\gamma Q^\pi(s',a')|s,a]
     $$
+
+-   Model
+
     
