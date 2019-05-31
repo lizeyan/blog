@@ -28,6 +28,6 @@ title: Reinforcement Learning
     $$
     or
     $$
-    \pi(a|s)=\mathbb{P}[]
+    \pi(a|s)=\mathbb{P}[A_t=a|S_t=s]
     $$
     
