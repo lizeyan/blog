@@ -16,7 +16,7 @@ title: Reinforcement Learning
 
     Agent's goal is learn a policy to maximize long-term total reward:
 
-    $\sum_{t=1}^{T}r_t$ or $\sum_{t=1}^{\infty}$
+    $\sum_{t=1}^{T}r_t$ or $\sum_{t=1}^{\infty}\gamma^tr_t$
 
 -   Environment
 
