@@ -23,5 +23,11 @@ title: Reinforcement Learning
 -   Policy
 
     Agent's behavior
-
+    $$
+    a=\pi(s)
+    $$
+    or
+    $$
+    
+    $$
     
