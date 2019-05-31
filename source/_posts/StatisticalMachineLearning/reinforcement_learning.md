@@ -71,7 +71,7 @@ A state $S_t$ is Markov iff
 $$
 \mathbb{P}[S_{t+1}|S_t]=\mathbb{P}[S_{t+1}|S_1,...,S_t]
 $$
-
+The state is a sufficient statictic of the future. Once you get the state, you can throw the history away.
 
 ## Value Based Methods
 
