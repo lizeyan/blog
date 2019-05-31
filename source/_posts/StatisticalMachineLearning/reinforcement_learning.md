@@ -87,6 +87,10 @@ $\gamma$ is a discount factor
 
 
 
+How to solve the optimal policy in MDP?
+
+-    Value-Based RL
+
 ## Value Based Methods
 
 ## Policy Search
