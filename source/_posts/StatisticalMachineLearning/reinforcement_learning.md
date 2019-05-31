@@ -35,4 +35,6 @@ title: Reinforcement Learning
 
     the prediction of future reward
 
+    Q-value function gives expected total reward
+
     
