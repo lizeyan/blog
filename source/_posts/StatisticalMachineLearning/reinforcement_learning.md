@@ -14,7 +14,9 @@ title: Reinforcement Learning
     -   Receives scalar reward $r_t$
     -   Executes action $a_t$
 
-    Agent's goal
+    Agent's goal is learn a policy to maximize long-term total reward:
+
+    
 
 -   Environment
 
