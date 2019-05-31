@@ -37,6 +37,6 @@ title: Reinforcement Learning
 
     Q-value function gives expected total reward
     $$
-    Q^{\pi}(s, a)=\mathbb{E}[r_{t+1}+\gammar_{t+2}]
+    Q^{\pi}(s, a)=\mathbb{E}[r_{t+1}+\gamma r_{t+2}+\gamma^2r_{t+3}+...|s,a]
     $$
     
