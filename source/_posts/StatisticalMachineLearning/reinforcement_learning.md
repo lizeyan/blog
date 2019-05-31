@@ -97,7 +97,7 @@ How to solve the optimal policy in MDP?
 
 State value function $V^{\pi}(s)=E[\sum_{t=1}^{T}r_t|s]$
 
-State-action value function $Q^{\pi}$
+State-action value function $Q^{\pi}​$
 
 ## Value Based Methods
 
