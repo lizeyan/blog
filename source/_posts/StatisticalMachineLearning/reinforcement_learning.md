@@ -67,6 +67,10 @@ Formmaly, state is a function of the history
 $$
 S_t=f(H_t)
 $$
+A state $S_t$ is Markov iff
+$$
+
+$$
 
 
 ## Value Based Methods
