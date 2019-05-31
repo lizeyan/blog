@@ -48,6 +48,6 @@ title: Reinforcement Learning
 
     A model predicts what the environment will do next
     $$
-    \mathcal{P}_{ss'}^a=\mathbb{P}
+    \mathcal{P}_{ss'}^a=\mathbb{P}[S_{t+1}=s'|S_t=s,A_t=a]
     $$
     
