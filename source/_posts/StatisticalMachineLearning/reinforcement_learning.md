@@ -6,4 +6,5 @@ title: Reinforcement Learning
 
 ## Introduction
 
-Agent:
+-   Agent:
+    -   Receives 
