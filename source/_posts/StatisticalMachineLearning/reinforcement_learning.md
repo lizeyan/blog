@@ -14,6 +14,8 @@ title: Reinforcement Learning
     -   Receives scalar reward $r_t$
     -   Executes action $a_t$
 
+    Agent's goal
+
 -   Environment
 
     -   Receives action $a_t$
@@ -52,4 +54,3 @@ title: Reinforcement Learning
     \mathcal{R}_s^a=\mathbb{E}[R_{t+1}|S_t=s,A_t=a]
     $$
     
-
