@@ -41,6 +41,6 @@ title: Reinforcement Learning
     $$
     It can be decompose into a Bellman equation
     $$
-    
+    Q^{\pi}(s, a)=
     $$
     
