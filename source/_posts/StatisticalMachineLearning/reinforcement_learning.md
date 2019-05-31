@@ -85,6 +85,8 @@ $\mathcal R$ is a reward function
 
 $\gamma$ is a discount factor
 
+
+
 ## Value Based Methods
 
 ## Policy Search
