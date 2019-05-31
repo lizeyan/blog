@@ -95,7 +95,7 @@ How to solve the optimal policy in MDP?
 
 
 
-State 
+State value function 
 
 ## Value Based Methods
 
