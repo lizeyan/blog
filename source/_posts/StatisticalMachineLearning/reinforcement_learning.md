@@ -7,4 +7,7 @@ title: Reinforcement Learning
 ## Introduction
 
 -   Agent:
-    -   Receives 
+
+    At each step $t$, the agent
+
+    -    
