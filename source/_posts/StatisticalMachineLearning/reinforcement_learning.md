@@ -92,7 +92,6 @@ How to solve the optimal policy in MDP?
 -   Value-Based RL
 -   Policy-Based RL
 -   Molde-Based RL
--   
 
 ## Value Based Methods
 
