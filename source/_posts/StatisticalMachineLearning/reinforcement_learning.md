@@ -41,6 +41,6 @@ title: Reinforcement Learning
     $$
     It can be decompose into a Bellman equation
     $$
-    Q^{\pi}(s, a)=\mathbb{E}_{s',a'}[r+\gammaQ^\pi]
+    Q^{\pi}(s, a)=\mathbb{E}_{s',a'}[r+\gamma Q^\pi(s',a')|s,a]
     $$
     
