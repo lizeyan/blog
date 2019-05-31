@@ -33,4 +33,6 @@ title: Reinforcement Learning
 
 -   Value Function
 
+    the prediction of future reward
+
     
