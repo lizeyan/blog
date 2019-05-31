@@ -30,4 +30,7 @@ title: Reinforcement Learning
     $$
     \pi(a|s)=\mathbb{P}[A_t=a|S_t=s]
     $$
+
+-   Value Function
+
     
