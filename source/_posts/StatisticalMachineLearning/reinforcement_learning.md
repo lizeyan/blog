@@ -81,6 +81,8 @@ $\mathcal A$ is a finite set of actions
 
 $\mathcal P$ is a state transition probability matrix
 
+
+
 ## Value Based Methods
 
 ## Policy Search
