@@ -129,7 +129,7 @@ $$
 
 Use dynamic compound hash function rather than a static one.
 
-C2LSH firstly randomly chooses a set of $m​$ LSDH functions with appropriately small interval $W​$, which form a function base $\mathcal{B}​$.
+C2LSH firstly randomly chooses a set of $m$ LSDH functions with appropriately small interval $W$, which form a function base $\mathcal{B}​$.
 
 Only data objects with large enough collison counts need to have their distances computed.
 
@@ -157,7 +157,7 @@ These two properties should hold to ensure C2LSH correct:
 
 $\mathcal{P}_1$: If there exists a data object o, s.t. $o\in B(q, R)$, then o's collison number is at least l. 
 
-$\mathcal{P}_2$: The total number of false positives is less than $\beta n$
+$\mathcal{P}_2$: The total number of false positives is less than $\beta n​$
 
 ![image-20190526160936851](locality_sensitive_hash/image-20190526160936851.png)
 
