@@ -1,6 +1,8 @@
 ---
 title: Reinforcement Learning
 category: StatisticalMachineLaerning
+categories:
+  - StatisticalMachineLearning
 ---
 
 [TOC]

@@ -1,7 +1,7 @@
 ---
 title: Locality Sensitive Hashing
 categories:
-- Algorithm
+  - Algorithm
 ---
 
 [TOC]
