@@ -93,6 +93,13 @@ $$
 =\sum_{n=1}^{N}\log(\sum_{k=1}^{K}\pi_k\mathcal N(x|\mu_k, \Sigma_k))
 $$
 
+Here, we assume that $\pi_k$ uniformly dsitrbuted. However, we can use another prior like Dirichlet distribution.
+$$
+\mathcal{L}_0=\log p(D)\\
+=\sum_{n=1}^{N}\log(\sum_{k=1}^{K}p(\pi_k)\pi_k\mathcal N(x|\mu_k, \Sigma_k))
+$$
+
+
 Because of the constraints, we should use Lagrange multiplier method:
 $$
 \mathcal{L}=\mathcal{L}_0+\lambda(\sum_{k=1}^{K}\pi_k-1)
