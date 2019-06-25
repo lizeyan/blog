@@ -62,7 +62,7 @@ $m_{ji}(\lambda)$表示邻居$j$认为$i$处于状态$\lambda$的belief
 $$
 m_{ij}(\lambda)=\sum_{\lambda'}\Phi(\lambda,\omega_i)\Psi(\lambda,\lambda')\prod_{n\in N(i)/j}m_{ni}(\lambda')
 $$
-
+其中$\Psi(\lambda,\lambda')$表示
 
 
 
