@@ -140,7 +140,7 @@ $$
 
 ### Algorithm
 
-
+定义矩阵 $\mathbf{U}_{n\times k}$
 
 
 
