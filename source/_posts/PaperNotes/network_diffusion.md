@@ -87,7 +87,7 @@ DCG_p=\sum_{i=1}^{p}\frac{2^{rel_i-1}}{\log_2{1+i}}
 $$
 ​	$rel_i$是第i名在ground truth中的名次。IDCG是ground truth的DCG
 
-但是从结果看来，
+但是从结果看来，LBP比直接用RB并不好太多
 
 ## Label Propagation and Network Diffusion[^kdd2016]
 
