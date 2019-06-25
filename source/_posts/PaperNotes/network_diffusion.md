@@ -35,6 +35,8 @@ $$
 
 通过检测哪些组件导致了broken link可以引导运维人员找到故障的根因。
 
+![image-20190625152129817](network_diffusion/image-20190625152129817.png)
+
 ## MRF Model
 
 ### Algorithm
