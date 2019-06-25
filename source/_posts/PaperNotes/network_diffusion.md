@@ -56,7 +56,7 @@ $$
 $$
 每个节点是根因的belief，$b(\lambda)$为：
 $$
-b_i(\lambda)=k
+b_i(\lambda)=k\Phi(\lambda, \omega_i)\prod_{}
 $$
 
 
