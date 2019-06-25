@@ -54,7 +54,11 @@ node compatibility function定义为
 $$
 \Phi(\lambda, \omega)=\begin{cases}\omega & \lambda=abnormal\\1-\omega & \lambda =normal\end{cases}
 $$
-每个节点是根因的
+每个节点是根因的belief，$b(\lambda)$为：
+$$
+
+$$
+
 
 
 
