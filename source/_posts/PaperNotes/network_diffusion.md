@@ -12,7 +12,7 @@ title: Network Diffusion
 
 具体的做法是用ARX模型[^tkde2007]。给定两个时间序列$x(t), y(t)$。若将$x$作为输入，那么记
 $$
-\phi(t)=
+\phi(t)=[-y(t-1),...,-y(t-n)]
 $$
 
 
