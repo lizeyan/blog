@@ -12,4 +12,6 @@ title: Network Diffusion
 
 具体的做法是用ARX模型。
 
+
+
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
