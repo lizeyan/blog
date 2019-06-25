@@ -93,6 +93,8 @@ $$
 
 ![image-20190625151846712](network_diffusion/image-20190625151846712.png)
 
+![image-20190625151900114](network_diffusion/image-20190625151900114.png)
+
 ## Label Propagation and Network Diffusion[^kdd2016]
 
 
