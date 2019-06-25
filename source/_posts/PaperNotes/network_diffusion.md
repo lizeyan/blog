@@ -46,7 +46,7 @@ $$
 RB_{v_i}=\frac{number\>of\>borken\>links\>of\>v_i}{number\>of\>all\>links\>of\>v_i}\\
 RUB_{v_i}=1-\frac{number\>of\>broken\>links\>related\>to\>BINN}{number\>of\>all\>links\>related\>to\>BINN}
 $$
-BINN指的是
+BINN指的是节点的通过broken link连接起来的邻居
 
 
 
