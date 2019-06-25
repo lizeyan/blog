@@ -104,7 +104,11 @@ $$
 ## Label Propagation and Network Diffusion[^kdd2016]
 $\mathbf{A}_{n\times n}$, $\mathbf{P}_{n\times n}$是原本的IN和broken IN的邻接矩阵。$\mathbf{A}$的元素表示两个节点之间的相关性，比如fitness score。$\mathbf{P}$的元素表示两个节点之间的不相关性，比如residual。
 
+故障传播模型指的是，给定每个节点是否（根因）异常的$\mathbf{e}$，计算在IN上故障传播后每个节点的故障程度$\mathbf{r}$。 
 
+基本的假设是，故障沿着相关传播，$\mathbf{A}_{ij}$越大（根据度normalized之后），那么关联的两个节点之间的$\mathbf{r}_i, \mathbf{r}_j$就应该越接近。即$\mathbf{r}$在IN上是平滑的。 
+
+另一个假设是$\mathbf{e}$和$\mathbf{r}$之间要尽量接近。 
 
 
 
