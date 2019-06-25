@@ -144,6 +144,8 @@ $$
 
 通过doubly schchastic matrix decomposition方法计算$\mathbf{U}$。
 
+首先重构
+
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
