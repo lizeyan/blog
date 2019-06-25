@@ -144,7 +144,7 @@ $$
 
 通过doubly schchastic matrix decomposition方法计算$\mathbf{U}$。
 
-首先重构
+首先重构$$
 
 
 
