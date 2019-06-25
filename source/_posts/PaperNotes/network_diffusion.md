@@ -23,7 +23,7 @@ $$
 $$
 定义fitness score为
 $$
-F(\theta)=1 - \sqrt{\frac{\sum}{\sum_{t=1}^{N}|y(t)-\bar{y}|}}
+F(\theta)=1 - \sqrt{\frac{\sum_{t=1}^{N}}{\sum_{t=1}^{N}|y(t)-\bar{y}|^2}}
 $$
 
 
