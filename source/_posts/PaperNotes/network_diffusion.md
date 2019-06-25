@@ -116,7 +116,7 @@ $$
 
 Network diffusion指的是衡量根因重构出来的broken IN和真实的broken IN的差别。
 $$
-\min_{\mathbf{e}}||||
+\min_{\mathbf{e}}||\mathbf{r}\mathbf{r}^\top||
 $$
 
 
