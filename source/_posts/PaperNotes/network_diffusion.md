@@ -120,7 +120,7 @@ $$
 $$
 松弛形式
 $$
-\min_{\mathbf{e}\ge0}\>\lambda||(\mathbf{r}\mathbf{r}^\top)\odot\mathbf{M}-\tilde{\mathbf{P}}||_2^2 + c\mathbf{r}^\top(\mathbf{1}-\tilde{\mathbf{A}})\mathbf{r}+(1-c)||\mathbf{r}-\mathbf{e}||_2^2 + \tau
+\min_{\mathbf{e}\ge0}\>\lambda||(\mathbf{r}\mathbf{r}^\top)\odot\mathbf{M}-\tilde{\mathbf{P}}||_2^2 + c\mathbf{r}^\top(\mathbf{1}-\tilde{\mathbf{A}})\mathbf{r}+(1-c)||\mathbf{r}-\mathbf{e}||_2^2 + \tau||\mathbf{e}||_1
 $$
 
 
