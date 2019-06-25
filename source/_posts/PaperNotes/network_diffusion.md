@@ -148,6 +148,8 @@ $$
 
 然后优化$A$和$\hat{A}$的KL散度 $D_{KL}[A||\hat{A}]$
 
+通过给$\mathbf{U}$指定Dirichlet先验，
+
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
