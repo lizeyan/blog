@@ -27,7 +27,7 @@ F(\theta)=1 - \sqrt{\frac{\sum_{t=1}^{N}|y(t)-\hat{y}(t)|^2}{\sum_{t=1}^{N}|y(t)
 $$
 如果$F(\theta)$超过一个给定的阈值，那么就认为两个模型之间有相关关系。
 
-但是给定一组$x, y$，我们无法事先确定哪个是输入哪个是输出。[^tkde2007]中的方法是选择$F(\theta)​$较高的那一个，但是同时要求两个模型的fitness score都比较高。
+但是给定一组$x, y$，我们无法事先确定哪个是输入哪个是输出。[^tkde2007]中的方法是选择$F(\theta)$较高的那一个，但是同时要求两个模型的fitness score都比较高。
 
 ## Broken Links
 
@@ -37,7 +37,7 @@ $$
 
 ## MRF Model
 
-MRF模型可以用来建模invariant network和borken network[^icdm2014]。
+MRF（Markov random field）模型可以用来建模invariant network和borken network[^icdm2014]。
 
 MRF包含若干个变量，每个变量有隐状态和显状态，隐状态之间有互相的连接。
 
