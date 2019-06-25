@@ -31,7 +31,7 @@ $$
 
 ## Broken Links
 
-当系统发生异常时，组件之间的invariant link常常会发生变化。
+当系统发生异常时，组件之间的invariant link常常会发生变化。消失的invariant link就被称为broken link。
 
 
 
