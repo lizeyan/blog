@@ -60,7 +60,7 @@ b_i(\lambda)=k\Phi(\lambda, \omega_i)\prod_{j\in N(i)}m_{ji}(\lambda)
 $$
 $m_{ji}(\lambda)$表示邻居$j$认为$i$处于状态$\lambda$的belief
 $$
-m_{ij}(\lambda)=\sum_{\lambda'}\Phi(\lambda,\omega_i)
+m_{ij}(\lambda)=\sum_{\lambda'}\Phi(\lambda,\omega_i)\
 $$
 
 
