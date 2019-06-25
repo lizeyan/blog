@@ -124,6 +124,8 @@ $$
 $$
 上述优化问题的迭代解法参考了[^kdd2006]
 
+![image-20190625153725849](network_diffusion/image-20190625153725849.png)
+
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
