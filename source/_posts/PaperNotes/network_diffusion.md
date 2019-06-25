@@ -154,7 +154,9 @@ $$
 
 
 
-然后需要使用broken IN进行聚类。Intuition是如果两个节点在同一个发生故障的cluster中，那么他们之间更可能出现broken 
+然后需要使用broken IN进行聚类。Intuition是如果两个节点在同一个发生故障的cluster中，那么他们之间更可能出现broken link。
+
+
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
