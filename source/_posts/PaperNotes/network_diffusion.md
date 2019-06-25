@@ -158,7 +158,7 @@ $$
 
 
 
-定义$E_{i}$
+定义$E_{xi}$表示节点$x$是cluster $i$的根因。
 
 ### Evaluation
 
