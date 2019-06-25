@@ -69,7 +69,7 @@ $$
 | normal   | $\epsilon_0$ (很小)    | $1-\epsilon_0$ |
 | abnormal | $\epsilon$ （小于0.5） | $1-\epsilon$   |
 
-~[^icdm2014]中只把MRF model和直接用
+~[^icdm2014]中只把MRF model和直接用RB给节点排序的方法进行了对比，
 
 
 
