@@ -164,7 +164,7 @@ $$
 
 
 
-以上的两个
+以上的两个聚类方法通过联合优化的方法可以一起进行。
 
 
 
@@ -182,7 +182,7 @@ $$
 
 ### Evaluation
 
-BIS 
+数据集是BIS。 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
