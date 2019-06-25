@@ -136,7 +136,7 @@ $$
 
 ## Multiple Root Cause
 
-
+考虑到invariant network中会有不同的cluster，不同的cluster上的故障传播时不同
 
 
 
