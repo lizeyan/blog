@@ -160,7 +160,7 @@ $$
 
 定义$E_{xi}=1$表示节点$x$是cluster $i$的根因。仿照[^kdd2016]的推导，可以得到
 $$
-\min_{\mathbf{E}\ge0}\>||M\odot||_2^2
+\min_{\mathbf{E}\ge0}\>||\odotM||_2^2
 $$
 
 
