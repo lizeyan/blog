@@ -114,8 +114,7 @@ $$
 $$
 
 
-Network Diffusion指的是衡量
-
+Network diffusion指的是衡量根因重构出来的broken IN和真实的broken IN的差别。
 
 
 
