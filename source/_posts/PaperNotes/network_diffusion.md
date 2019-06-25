@@ -160,7 +160,11 @@ $$
 $$
 \mathbf{P}_{xy}\sim Bernoulli(\sum_{i=1}^{k}\mathbf{U}_{xi}\mathbf{U}_{yi}s_i)
 $$
-然后通过MLE学习$\mathbf{U}$和$\mathbf{s}$
+然后通过MLE学习$\mathbf{U}$和$\mathbf{s}$。
+
+
+
+以上的两个
 
 
 
