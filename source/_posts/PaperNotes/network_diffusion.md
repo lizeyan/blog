@@ -23,7 +23,7 @@ $$
 $$
 定义fitness score为
 $$
-F(\theta)=
+F(\theta)=1 - \sqrt{\frac{}{}}
 $$
 
 
