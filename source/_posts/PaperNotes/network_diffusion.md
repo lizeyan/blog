@@ -136,7 +136,7 @@ $$
 
 ## Multiple Root Cause
 
-考虑到invariant network中会有不同的cluster，故障是在cluster内传播的。同时
+考虑到invariant network中会有不同的cluster，故障是在cluster内传播的。同时系统中可能有多个cluster同时发生了故障。
 
 
 
