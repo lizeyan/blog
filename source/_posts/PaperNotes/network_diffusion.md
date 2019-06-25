@@ -15,7 +15,9 @@ $$
 \phi(t)=[-y(t-1),...,-y(t-n),x(t-k),...,x(t-k-m)]^\top\\
 \theta = [a_1,...,a_n,b_0,...,b_m]^\top
 $$
-模型定义为$\hat{y}(t)=\phi(t)^\top\theta$
+模型定义为$\hat{y}(t)=\phi(t)^\top\theta$。
+
+通过最小化
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
