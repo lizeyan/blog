@@ -39,7 +39,7 @@ $$
 
 MRF模型可以用来建模invariant network和borken network[^icdm2014]。
 
-MRF包含若干个变量，每个变量有隐状态和显状态
+MRF包含若干个变量，每个变量有隐状态和显状态，隐状态之间有互相的连接。
 
 
 
