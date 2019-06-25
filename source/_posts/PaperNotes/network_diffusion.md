@@ -50,6 +50,8 @@ BINN指的是节点的通过broken link连接起来的邻居
 
 RB被用来作为隐状态的初始值，RUB作为显状态[^icdm2014]。
 
+隐状态和显状态
+
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
