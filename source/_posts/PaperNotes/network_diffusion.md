@@ -144,7 +144,7 @@ $$
 
 通过doubly schchastic matrix decomposition方法计算$\mathbf{U}$。
 
-首先计算重构的邻接矩阵$\hat{A}$。$\hat{A}_{xy}=\sum_{i=1}^{k}\frac{\mathbf{U}}{}$
+首先计算重构的邻接矩阵$\hat{A}$。$\hat{A}_{xy}=\sum_{i=1}^{k}\frac{\mathbf{U_{xi}\mathbf{U}_{yi}s}}{}$
 
 
 
