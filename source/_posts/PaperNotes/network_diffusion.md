@@ -140,9 +140,7 @@ $$
 
 ### Algorithm
 
-定义矩阵 $\mathbf{U}_{n\times k}$为cluster membership矩阵，$\mathbf{U}_{xi}=p(i|x)$。
-
-
+定义矩阵 $\mathbf{U}_{n\times k}$为cluster membership矩阵，$\mathbf{U}_{xi}=p(i|x)， \mathbf{U}\mathbf{1}$。
 
 
 
