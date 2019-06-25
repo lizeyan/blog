@@ -102,7 +102,7 @@ $$
 
 
 ## Label Propagation and Network Diffusion[^kdd2016]
-$\mathbf{A}$, $\mathbf{P}_{n\times n}$是原本的IN和broken IN的邻接矩阵。$\mathbf{A}$的元素表示两个节点之间的相关性，比如fitness score。$\mathbf{P}$的元素表示两个节点之间的不相关性，比如residual。
+$\mathbf{A}_{n\times n}$, $\mathbf{P}_{n\times n}$是原本的IN和broken IN的邻接矩阵。$\mathbf{A}$的元素表示两个节点之间的相关性，比如fitness score。$\mathbf{P}$的元素表示两个节点之间的不相关性，比如residual。
 
 
 
