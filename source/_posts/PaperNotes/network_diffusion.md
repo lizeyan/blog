@@ -12,10 +12,10 @@ title: Network Diffusion
 
 具体的做法是用ARX模型[^tkde2007]。给定两个时间序列$x(t), y(t)$。若将$x$作为输入，那么记
 $$
-\phi(t)=[-y(t-1),...,-y(t-n),x(t-k),...,x(t-k-m)]%\top
+\phi(t)=[-y(t-1),...,-y(t-n),x(t-k),...,x(t-k-m)]^\top\\
+\theta = [a_1,...,a_n,b_0,...,b_m]^\top
 $$
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
-
