@@ -140,7 +140,7 @@ $$
 
 ### Algorithm
 
-定义矩阵 $\mathbf{U}_{n\times k}$
+定义矩阵 $\mathbf{U}_{n\times k}$为cluster membership矩阵，
 
 
 
