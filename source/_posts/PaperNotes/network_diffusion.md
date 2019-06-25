@@ -37,7 +37,7 @@ $$
 
 ## MRF Model
 
-有[^icdm2014]
+MRF模型可以用来建模[^icdm2014]
 
 
 
