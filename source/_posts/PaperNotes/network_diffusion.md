@@ -110,7 +110,7 @@ $\mathbf{A}_{n\times n}$, $\mathbf{P}_{n\times n}$是原本的IN和broken IN的�
 
 另一个假设是$\mathbf{e}$和$\mathbf{r}$之间要尽量接近。 
 $$
-\min_{r\ge 0}
+\min_{\mathbf{r}\ge 0}
 $$
 
 
