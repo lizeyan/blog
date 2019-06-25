@@ -89,7 +89,9 @@ $$
 
 但是从结果看来，LBP比直接用RB并不好太多
 
-![image-20190625151638557](network_diffusion/image-20190625151638557.png=250x)
+![image-20190625151638557](network_diffusion/image-20190625151638557.png)
+
+
 
 ## Label Propagation and Network Diffusion[^kdd2016]
 
