@@ -41,7 +41,7 @@ MRF（Markov random field）模型可以用来建模invariant network和borken n
 
 MRF包含若干个变量，每个变量有隐状态和显状态，隐状态之间有互相的连接。
 
-每个包含至少一条broken link的节点是MRF中的一个变量。其observed state是我们对每个节点的根因程度的直接观察。具体的定义可以为
+每个包含至少一条broken link的节点是MRF中的一个变量，broken link是变量之间的连接。其observed state是我们对每个节点的根因程度的直接观察。具体的定义可以为
 $$
 RB_{v_i}=\frac{number\>of\>borken\>links\>of\>v_i}{number\>of\>all\>links\>of\>v_i}\\
 RUB_{v_i}=1-\frac{number\>of\>broken\>links\>related\>to\>BINN}{number\>of\>all\>links\>related\>to\>BINN}
