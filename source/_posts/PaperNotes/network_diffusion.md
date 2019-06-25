@@ -69,7 +69,7 @@ $$
 | normal   | $\epsilon_0$ (很小)    | $1-\epsilon_0$ |
 | abnormal | $\epsilon$ （小于0.5） | $1-\epsilon$   |
 
-## Label Propagation and Network Diffusion
+## Label Propagation and Network Diffusion[^]
 
 
 
