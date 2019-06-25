@@ -157,7 +157,9 @@ $$
 然后需要使用broken IN进行聚类。Intuition是如果两个节点在同一个发生故障的cluster中，那么他们之间更可能出现broken link。
 
 定义参数$s_i$表示一个cluster的异常程度。
-
+$$
+\mathbf{P}_{xy}\sim Bernoulli()
+$$
 
 
 
