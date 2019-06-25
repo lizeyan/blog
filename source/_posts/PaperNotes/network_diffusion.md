@@ -162,7 +162,7 @@ $$
 $$
 \min_{\mathbf{E}\ge0}\>||(\mathbf{H}(\mathbf{U}\odot\mathbf{E})(\mathbf{U}\odot\mathbf{E})^\top\mathbf{H})\odot M - \tilde{\mathbf{P}}||_2^2 + \tau||\mathbf{E}||_1
 $$
-其中$\mathbf{H}=​$
+其中$\mathbf{H}=(1-c))$
 
 ### Evaluation
 
