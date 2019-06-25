@@ -64,7 +64,10 @@ m_{ij}(\lambda)=\sum_{\lambda'}\Phi(\lambda,\omega_i)\Psi(\lambda,\lambda')\prod
 $$
 其中$\Psi(\lambda,\lambda')$表示edge compatibility function。
 
-
+|          | normal       | abnormal       |
+| -------- | ------------ | -------------- |
+| normal   | $\epsilon_0$ | $1-\epsilon_0$ |
+| abnormal |              |                |
 
 
 
