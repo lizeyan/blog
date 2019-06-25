@@ -158,7 +158,7 @@ $$
 
 定义参数$s_i$表示一个cluster的异常程度。
 $$
-\mathbf{P}_{xy}\sim Bernoulli()
+\mathbf{P}_{xy}\sim Bernoulli(\sum_{i=1}^{k})
 $$
 
 
