@@ -166,7 +166,7 @@ $$
 
 
 
-最后的rank score是$f_x=\sum_{i=1}^{k}\mathbf{U}_{xi}$
+最后的rank score是$f_x=\sum_{i=1}^{k}\mathbf{U}_{xi}\odot\mathbf{E}_{xi} s_i$
 
 ### Evaluation
 
