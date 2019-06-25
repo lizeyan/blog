@@ -8,3 +8,4 @@ title: Network Diffusion
 
 ## Invariant Network
 
+[^icdm2014]: 
