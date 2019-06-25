@@ -83,7 +83,7 @@ $$
 $$
 DCG_p=\sum_{i=1}^{p}\frac{2^{rel_i-1}}{\log_2{1+i}}
 $$
-$rel_i$是第i名在ground truth中的名次。IDCG是ground truth的DCG
+​	$rel_i$是第i名在ground truth中的名次。IDCG是ground truth的DCG
 
 
 
