@@ -118,6 +118,8 @@ Network diffusion指的是衡量根因重构出来的broken IN和真实的broken
 $$
 \min_{\mathbf{e}}\>\lambda||(\mathbf{r}\mathbf{r}^\top)\odot\mathbf{M}-\tilde{\mathbf{P}}||_2^2 + c\mathbf{r}^\top(\mathbf{1}-\tilde{\mathbf{A}})\mathbf{r}+(1-c)||\mathbf{r}-\mathbf{e}||_2^2
 $$
+松弛形式
+
 
 
 
