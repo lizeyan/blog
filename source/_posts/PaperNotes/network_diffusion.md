@@ -132,7 +132,7 @@ $$
 
 同样是在人工随机生成的500条time series上进行的实验。评价指标仍然是top-k precision，top-k recall和nDCG。
 
-除此之外还随机注入了broken link作为噪声，检验robustness。实验表明噪声比例
+除此之外还随机注入了broken link作为噪声，检验robustness。实验表明噪声比例多至0.5时性能才会有明显下降。
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
