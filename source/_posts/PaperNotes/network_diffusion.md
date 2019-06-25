@@ -75,7 +75,15 @@ $$
 
 ~[^icdm2014]中只把MRF model和直接用RB给节点排序的方法进行了对比。评价指标是top-k precision，top-k recall，和nDCG。
 
-
+- Top-k precision and recall. k一般选择ground truth set大小的两倍 [^dcg]。
+- nDCG （cumulated gain vector with discount, [^dcg]）：表征top-p的排序结果。p一半比ground truth set略小。
+  $$
+  nDCG=\frac{DCG}{IDDCG}
+  $$
+  $$
+  DCG_p=\sum_{i=1}^{p}\frac{2^{rel_i-1}}{\log_2{1+i}}
+  $$
+  $rel_i$是第i名在ground truth中的名次。IDCG是ground truth的DCG
 
 
 
