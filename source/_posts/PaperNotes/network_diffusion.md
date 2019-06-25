@@ -134,7 +134,7 @@ $$
 
 除此之外还随机注入了broken link作为噪声，检验robustness。实验表明噪声比例多至0.5时性能才会有明显下降。
 
-
+## 
 
 
 
@@ -142,3 +142,4 @@ $$
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
 [^kdd2016]: Wei Cheng, Kai Zhang, Haifeng Chen, Guofei Jiang, Zhengzhang Chen, Wei Wang. Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations
 [^kdd2006]: Chris Ding , Tao Li , Wei Peng , Haesun Park, Orthogonal nonnegative matrix t-factorizations for clustering, Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining, August 20-23, 2006, Philadelphia, PA, USA
+[^icdm2017]: Ranking Causal Anomalies by Modeling Local Propagations on Networked Systems, ICDM 2017
