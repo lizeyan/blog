@@ -144,7 +144,9 @@ $$
 
 通过doubly schchastic matrix decomposition方法计算$\mathbf{U}$。
 
-首先计算重构的邻接矩阵$\hat{A}$。$\hat{A}_{xy}=\sum_{i=1}^{k}\frac{\mathbf{U_{xi}\mathbf{U}_{yi}s}}{\sum_{z=1}^n\mathbf{U}_{zi}}$
+首先计算重构的邻接矩阵$\hat{A}$。$\hat{A}_{xy}=\sum_{i=1}^{k}\frac{\mathbf{U_{xi}\mathbf{U}_{yi}}}{\sum_{z=1}^n\mathbf{U}_{zi}}$
+
+然后优化$A$和$\hat{A}$的KL三du
 
 
 
