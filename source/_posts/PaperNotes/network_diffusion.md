@@ -52,7 +52,7 @@ RB被用来作为隐状态的初始值，RUB作为显状态[^icdm2014]。
 
 node compatibility function定义为
 $$
-\Phi(\lambda, \omega)=\begin{cases}\end{cases}
+\Phi(\lambda, \omega)=\begin{cases}\omega & \end{cases}
 $$
 
 
