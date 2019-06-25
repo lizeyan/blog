@@ -138,6 +138,8 @@ $$
 
 考虑到invariant network中会有不同的cluster，故障是在cluster内传播的。同时系统中可能有多个cluster同时发生了故障。因此[^icdm2017]提出了基于聚类的故障定位方法CRD。
 
+### Algorithm
+
 
 
 
