@@ -8,4 +8,4 @@ title: Network Diffusion
 
 ## Invariant Network
 
-[^icdm2014]: 
+[^icdm2014]: Metric Ranking of Invariant Networks with Belief Propagation
