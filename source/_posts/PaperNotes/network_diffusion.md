@@ -122,12 +122,11 @@ $$
 $$
 \min_{\mathbf{e}\ge0}\>\lambda||(\mathbf{r}\mathbf{r}^\top)\odot\mathbf{M}-\tilde{\mathbf{P}}||_2^2 + c\mathbf{r}^\top(\mathbf{1}-\tilde{\mathbf{A}})\mathbf{r}+(1-c)||\mathbf{r}-\mathbf{e}||_2^2 + \tau||\mathbf{e}||_1
 $$
-上述优化问题的迭代解法参考了
+上述优化问题的迭代解法参考了[^kdd2006]
 
 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
 [^kdd2016]: Wei Cheng, Kai Zhang, Haifeng Chen, Guofei Jiang, Zhengzhang Chen, Wei Wang. Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations
-
 [^kdd2006]: Chris Ding , Tao Li , Wei Peng , Haesun Park, Orthogonal nonnegative matrix t-factorizations for clustering, Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining, August 20-23, 2006, Philadelphia, PA, USA
