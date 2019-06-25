@@ -19,7 +19,7 @@ $$
 
 通过最小化MSE得，$\theta$的解为
 $$
-\hat{\theta}_N=[\sum_{t=1}^{N}\phi(t)\phi(t)^\top]^{-1}
+\hat{\theta}_N=[\sum_{t=1}^{N}\phi(t)\phi(t)^\top]^{-1}\sum_{t=1}^{N}\phi(t)y(t)
 $$
 
 
