@@ -37,9 +37,7 @@ $$
 
 ## MRF Model
 
-MRF模型可以用来建模[^icdm2014]
-
-
+MRF模型可以用来建模invariant network和borken network[^icdm2014]。
 
 
 
