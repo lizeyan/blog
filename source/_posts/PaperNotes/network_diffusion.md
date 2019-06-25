@@ -67,7 +67,7 @@ $$
 |          | normal       | abnormal       |
 | -------- | ------------ | -------------- |
 | normal   | $\epsilon_0$ | $1-\epsilon_0$ |
-| abnormal |              |                |
+| abnormal | $\epsilon$   | $1-\epsilon$   |
 
 
 
