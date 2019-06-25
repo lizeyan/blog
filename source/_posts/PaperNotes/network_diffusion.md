@@ -182,7 +182,7 @@ $$
 
 ### Evaluation
 
-数据集是BIS。[^icdm2014][^kdd2016] 
+数据集是BIS。[^icdm2014][^kdd2016]中也用了这个数据集进行定性的评测，但是没有找到公开的下载地址。 
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
