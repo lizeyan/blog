@@ -164,6 +164,10 @@ $$
 $$
 其中$\mathbf{H}=(1-c)(\mathbf{I}-c\tilde{\mathbf{A}})^{-1}$
 
+
+
+
+
 ### Evaluation
 
 BIS 
