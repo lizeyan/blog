@@ -48,7 +48,7 @@ RUB_{v_i}=1-\frac{number\>of\>broken\>links\>related\>to\>BINN}{number\>of\>all\
 $$
 BINN指的是节点的通过broken link连接起来的邻居
 
-
+[^icdm]
 
 
 
