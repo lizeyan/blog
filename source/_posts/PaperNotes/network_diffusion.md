@@ -128,7 +128,9 @@ $$
 
 ![image-20190625153725849](network_diffusion/image-20190625153725849.png)
 
+### Evaluation
 
+同样是在人工随机生成的500条time series上进行的实验。
 
 [^tkde2007]: Guofei Jiang, Haifeng Chen, K. Yoshihira. Efficient and Scalable Algorithms for Inferring Likely Invariants in Distributed Systems
 [^icdm2014]: Changxia Tao, Yang Ge, Qinbao Song, Yuan Ge, Olufemi A. Omitaomu. Metric Ranking of Invariant Networks with Belief Propagation.
