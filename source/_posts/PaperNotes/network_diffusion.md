@@ -109,6 +109,10 @@ $\mathbf{A}_{n\times n}$, $\mathbf{P}_{n\times n}$是原本的IN和broken IN的�
 基本的假设是，故障沿着相关传播，$\mathbf{A}_{ij}$越大（根据度normalized之后），那么关联的两个节点之间的$\mathbf{r}_i, \mathbf{r}_j$就应该越接近。即$\mathbf{r}$在IN上是平滑的。 
 
 另一个假设是$\mathbf{e}$和$\mathbf{r}$之间要尽量接近。 
+$$
+
+$$
+
 
 
 
