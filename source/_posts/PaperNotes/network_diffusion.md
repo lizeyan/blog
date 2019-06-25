@@ -166,7 +166,7 @@ $$
 
 
 
-最后的
+最后的rank score是$f_x=\mathbf{U}_{xi}$
 
 ### Evaluation
 
