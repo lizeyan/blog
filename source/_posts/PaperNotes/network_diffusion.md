@@ -41,7 +41,7 @@ MRF（Markov random field）模型可以用来建模invariant network和borken n
 
 MRF包含若干个变量，每个变量有隐状态和显状态，隐状态之间有互相的连接。
 
-每个
+每个包含至少
 
 
 
