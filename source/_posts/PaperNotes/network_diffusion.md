@@ -6,3 +6,5 @@ title: Network Diffusion
 
 [TOC]
 
+## Invariant Network
+
