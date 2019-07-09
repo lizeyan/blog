@@ -17,5 +17,11 @@ where $F_{1,n}$ and $F_{2,m}$ are the empirical distribution functions of the fi
 
 Empirical distribution function is defined as follows:
 $$
-F_{n}(x)=\frac{1}{n}\sum_{i=1}^{n}I_{(-\infty]}
+F_{n}(x)=\frac{1}{n}\sum_{i=1}^{n}I_{(-\infty, x]}(X_i)
+$$
+Null hypothesis means 
+
+For large samples, the null hypothesis is rejected at level $\alpha$ if 
+$$
+
 $$
