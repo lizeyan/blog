@@ -19,7 +19,7 @@ Empirical distribution function is defined as follows:
 $$
 F_{n}(x)=\frac{1}{n}\sum_{i=1}^{n}I_{(-\infty, x]}(X_i)
 $$
-Null hypothesis means 
+Null hypothesis is a 
 
 For large samples, the null hypothesis is rejected at level $\alpha$ if 
 $$
