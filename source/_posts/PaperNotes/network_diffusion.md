@@ -1,6 +1,7 @@
 ---
 title: Network Diffusion
-categories: ['PaperNotes']
+categories:
+  - PaperNotes
 ---
 
 # Network Diffusion

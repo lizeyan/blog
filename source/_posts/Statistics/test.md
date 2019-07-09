@@ -1,6 +1,7 @@
 ---
 title: Statistical Test
-categories: [statistics]
+categories:
+  - Statistics
 ---
 
 [TOC]
