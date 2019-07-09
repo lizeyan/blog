@@ -19,9 +19,17 @@ Empirical distribution function is defined as follows:
 $$
 F_{n}(x)=\frac{1}{n}\sum_{i=1}^{n}I_{(-\infty, x]}(X_i)
 $$
-Null hypothesis is a 
+Null hypothesis is a statement of 'no effect' or 'no difference'.
 
 For large samples, the null hypothesis is rejected at level $\alpha$ if 
 $$
-
+D_{n,m}>c(\alpha)\sqrt{\frac{n+m}{nm}}
 $$
+
+
+In general, 
+$$
+c(\alpha)=\sqrt{-\frac{1}{2}\alpha}
+$$
+
+
