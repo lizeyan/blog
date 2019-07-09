@@ -5,5 +5,6 @@ categories: [statistics]
 
 [TOC]
 
-## Kolmogorov–Smirnov test
+## Two-Sample Kolmogorov–Smirnov Test
 
+Two-sample Kolmogorov–Smirnov test may be used to 
