@@ -28,7 +28,9 @@ $diag(A)$: `ii->i`
 
 $A^\top$: `ij->ji`
 
+$\mathbf{u}\cdot\mathbf{v}$: `i,i`
 
+$\mathbf{A}\mathbf{u}$: `ij,j->i`
 
 
 
