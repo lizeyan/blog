@@ -11,6 +11,10 @@ $$
 $$
 \mathbf{C}=\mathbf{A}\mathbf{B}\\
 \Rightarrow
-C^i_k=A_i
+C^i_k=A^i_{j}B^{j}_k
+$$
+
+$$
+trace(\mathbf{A})=A^i_{i}
 $$
 
