@@ -18,3 +18,17 @@ $$
 trace(\mathbf{A})=A^i_{i}
 $$
 
+## NumPy Convention
+
+$trace(A)$: `ii`
+
+$diag(A)$: `ii->i`
+
+`sum(A, axis=1)`: `ij->i`
+
+$A^\top$: `ij->ji`
+
+
+
+
+
