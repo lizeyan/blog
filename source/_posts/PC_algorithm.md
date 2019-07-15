@@ -53,9 +53,11 @@ D and E are not marginally independent.
 
 D and E are not independent given A and B.
 
-#### Skeleton
+#### Skeleton and V-Struture
 
-The skeleton of a DAG $G$ is the undirected graph obtained from $G$ by substudte 
+The skeleton of a DAG $G$ is the undirected graph obtained from $G$ by substudting undirected edges for directed edges.
+
+A v-structure 
 
 [^jmlr2005]: Kalisch, Markus, and Peter Bühlmann. "Estimating high-dimensional directed acyclic graphs with the PC-algorithm." *Journal of Machine Learning Research* 8.Mar (2007): 613-636.
 [^mit6.034]: http://web.mit.edu/jmn/www/6.034/d-separation.pdf
