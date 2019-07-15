@@ -1,5 +1,7 @@
 ---
 title: Einstein Summation Convention
+categories:
+  - NumPy
 ---
 
 ## Common operations in this notation
