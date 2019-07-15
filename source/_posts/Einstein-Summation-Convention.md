@@ -1,7 +1,6 @@
 ---
 title: Einstein Summation Convention
-categories:
-  - NumPy
+categories: []
 ---
 
 ## Common operations in this notation

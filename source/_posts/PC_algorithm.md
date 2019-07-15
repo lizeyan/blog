@@ -1,6 +1,6 @@
 ---
 title: PC Algorithm
-categories: [Causal Inference, PaperNotes]
+categories: []
 ---
 
 # PC Algorithm
