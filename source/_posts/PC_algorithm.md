@@ -57,7 +57,13 @@ D and E are not independent given A and B.
 
 The skeleton of a DAG $G$ is the undirected graph obtained from $G$ by substudting undirected edges for directed edges.
 
-A v-structure 
+A v-structure is an ordered triple $(i, j, k)$ such that $G$ contains $i\to j$ and $j\to k$ but no $i\to k$.
+
+#### Equivalent
+
+Two DAG are equilavent if and only if they have the same skeleton and the san v-structures.
+
+
 
 [^jmlr2005]: Kalisch, Markus, and Peter Bühlmann. "Estimating high-dimensional directed acyclic graphs with the PC-algorithm." *Journal of Machine Learning Research* 8.Mar (2007): 613-636.
 [^mit6.034]: http://web.mit.edu/jmn/www/6.034/d-separation.pdf
