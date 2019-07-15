@@ -25,7 +25,13 @@ $$
 
 The Bayes net assumption says, "each variable is conditionally independent of its non-descendants, given its parents".
 
+D-seperation is a formal procedure using this statement.
 
+1.  Draw the ancestral graph.
+2.  For each pair of variables with a common child, draw a undirected edge between them.
+3.  Replace directed edges with undirected edges.
+4.  Delete the givens and their edges.
+5.  
 
 The Bayes
 
