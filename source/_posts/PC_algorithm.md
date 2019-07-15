@@ -63,11 +63,13 @@ A v-structure is an ordered triple $(i, j, k)$ such that $G$ contains $i\to j$ a
 
 Two DAG are equilavent if and only if they have the same skeleton and the san v-structures.
 
-### Find The Skeleton Using PC Algorithm
+### Find The Skeleton Using PC Algorithm[^jmlr2005]
 
 ![image-20190715171557495](Einstein-Summation-Convention/image-20190715171557495.png)
 
 
+
+Consider a DAG $G$ and assume that the distribution $P$ is faithful to $G$. Denote the maximal number of neighbors by $q=\max_{1\le j\le p}|adj(G, j)|$ 
 
 
 
