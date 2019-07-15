@@ -69,7 +69,13 @@ Two DAG are equilavent if and only if they have the same skeleton and the san v-
 
 
 
-Consider a DAG $G$ and assume that the distribution $P$ is faithful to $G$. Denote the maximal number of neighbors by $q=\max_{1\le j\le p}|adj(G, j)|$ 
+Consider a DAG $G$ and assume that the distribution $P$ is faithful to $G$. Denote the maximal number of neighbors by $q=\max_{1\le j\le p}|adj(G, j)|$. Thenm the $PC_{pop}$ algorithm constructs the true skeleton of the DAG.
+
+
+
+### Sample Version of PC algorithm[^jmlr2005]
+
+  
 
 
 
