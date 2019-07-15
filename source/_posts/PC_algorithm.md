@@ -13,7 +13,7 @@ categories:
 
 A graph $G=(V, E)$.
 
-
+A probability distribution $P$ is said to be faithful with respect to a graph $G$, if conditional independencies of the distribution can be inferred from **d-seperation** in the graph $G$.  
 
 
 
