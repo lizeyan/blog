@@ -1,6 +1,6 @@
 ---
 title: PC Algorithm
-categories: []
+categories: ['PaperNotes']
 ---
 
 # PC Algorithm
