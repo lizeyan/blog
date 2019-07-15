@@ -51,7 +51,9 @@ D and E are independent given C.
 
 D and E are not marginally independent.
 
-D and E independent given A and B.
+D and E are not independent given A and B.
+
+
 
 [^jmlr2005]: Kalisch, Markus, and Peter Bühlmann. "Estimating high-dimensional directed acyclic graphs with the PC-algorithm." *Journal of Machine Learning Research* 8.Mar (2007): 613-636.
 [^mit6.034]: http://web.mit.edu/jmn/www/6.034/d-separation.pdf
