@@ -107,9 +107,4 @@ image_minifier:
   enable: true
 
 pandoc:
-    mathEngine: mathjax
-
-katex:
-  throw_on_error: false
-  strict: false
-
+    mathEngine: mathjax="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js"
