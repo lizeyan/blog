@@ -1,2 +1,4 @@
 # Sequential Pattern Mining
 
+## Sequence
+
