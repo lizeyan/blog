@@ -2,4 +2,5 @@
 
 ## Sequence
 
-A sequence is a ordered list of itemsets. 
+A sequence is an ordered list of itemsets.
+
