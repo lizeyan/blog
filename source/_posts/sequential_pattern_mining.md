@@ -32,9 +32,9 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 1.  Initialize candidates with all length-1 itemset. Set k = 1.
 2.  Scan the databse once, count supports for all length-k candidates. Prune these candidates with a minimum support threshold.
-
 3.  Generate length-(k+1) candidates.
     We remove the first and last item from each length-k candidates.
     If any two candiates' -1st and -last match, them we join them.
-
-4.  k=k+1. Goto 2.
+    ![img](https://2.bp.blogspot.com/-80RevE18pCs/VP9bXlOsaZI/AAAAAAAAB8k/FQzfTMyZW-g/s1600/3-Seq%2BGeneration%2BTable.jpg)
+4.  
+5.  k=k+1. Goto 2.
