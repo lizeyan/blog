@@ -53,7 +53,7 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 As GSP, SPADE also generates candidates and test their supports, but SPADE uses vertical sequence format.
 
-
+The advantage of vertical format is that it is easy to count support for new candidates.
 
 ### PrefixSpan
 
