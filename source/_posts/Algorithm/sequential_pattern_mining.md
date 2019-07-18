@@ -51,6 +51,8 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 ### SPADE
 
+As GSP, SPADE also generates candidates and test their supports, but SPADE uses vertical sequence format.
+
 ### PrefixSpan
 
 ### CloSpan
