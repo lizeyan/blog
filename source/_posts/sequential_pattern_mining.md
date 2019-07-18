@@ -30,5 +30,6 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 ### GSP
 
-1.  Initialize candidatas with all length-1 itemset.
+1.  Initialize candidates with all length-1 itemset.
+2.  Scan the databse once, count supports for all candidates.
 
