@@ -30,6 +30,8 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 ### GSP
 
+[reference](http://simpledatamining.blogspot.com/2015/03/generalized-sequential-pattern-gsp.html)
+
 1.  Initialize candidates with all length-1 itemset. Set k = 1.
 2.  Scan the databse once, count supports for all length-k candidates. Prune these candidates with a minimum support threshold.
 3.  Generate length-(k+1) candidates.
@@ -39,4 +41,6 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 4.  k=k+1. Goto 2.
 
 
+
+### SPADE
 
