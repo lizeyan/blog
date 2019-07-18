@@ -51,3 +51,5 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 ### SPADE
 
+### PrefixSpan
+
