@@ -18,5 +18,15 @@ Then <{a,b}, {c}> is a sequential pattern with support=2.
 ## Mining Algorithms
 
 -   Apriori-Based Algorithms
--   
+    -   GSP
+    -   SPADE
+-   Pattern-Growth-Based Approaches
+    -   FreeSpan
+    -   PrefixSpan
+
+### The Apriori Property
+
+If a sequence is not frequent, then none of its super-sequence can be frequent.
+
+
 
