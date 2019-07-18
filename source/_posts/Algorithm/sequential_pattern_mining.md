@@ -73,5 +73,9 @@ Let sequence s=\<a, abc, ac, d, cf\>, then \<a\>, \<a,a\>, \<a, ab\>, \<a, abc\>
 
 ### CloSpan
 
+Mining closed sequential pattern only.
 
+Equivalence of projected databases:
+
+Two projected sequence databases
 
