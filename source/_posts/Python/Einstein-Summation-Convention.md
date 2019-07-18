@@ -1,6 +1,6 @@
 ---
 title: Einstein Summation Convention
-categories: []
+categories: [Python]
 ---
 
 ## Common operations in this notation

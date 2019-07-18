@@ -36,5 +36,7 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
     We remove the first and last item from each length-k candidates.
     If any two candiates' -1st and -last match, them we join them.
     ![img](https://2.bp.blogspot.com/-80RevE18pCs/VP9bXlOsaZI/AAAAAAAAB8k/FQzfTMyZW-g/s1600/3-Seq%2BGeneration%2BTable.jpg)
-4.  
-5.  k=k+1. Goto 2.
+4.  k=k+1. Goto 2.
+
+
+
