@@ -30,6 +30,9 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 
 ### GSP
 
-1.  Initialize candidates with all length-1 itemset.
+1.  Initialize candidates with all length-1 itemset. Set k = 1.
+2.  Scan the databse once, count supports for all length-k candidates. Prune these candidates with a minimum support threshold.
 
-2.  Scan the databse once, count supports for all candidates.
+3.  Generate length-(k+1) candidates.
+    First prune 
+4.  k=k+1. Goto 2.
