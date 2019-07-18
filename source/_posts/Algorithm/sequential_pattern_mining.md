@@ -1,3 +1,10 @@
+---
+title: Sequential Pattern Mining
+categories: [Algorithm]
+---
+
+
+
 # Sequential Pattern Mining
 
 ## Sequence
