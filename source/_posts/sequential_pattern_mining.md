@@ -34,5 +34,7 @@ If a sequence is not frequent, then none of its super-sequence can be frequent.
 2.  Scan the databse once, count supports for all length-k candidates. Prune these candidates with a minimum support threshold.
 
 3.  Generate length-(k+1) candidates.
-    First prune 
+    We remove the first and last item from each length-k candidates.
+    If any two candiates' -1st and -last match, them we join them.
+
 4.  k=k+1. Goto 2.
