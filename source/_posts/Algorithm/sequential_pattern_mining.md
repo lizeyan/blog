@@ -69,7 +69,9 @@ Let sequence s=\<a, abc, ac, d, cf\>, then \<a\>, \<a,a\>, \<a, ab\>, \<a, abc\>
 
 1.  Find all length-1 sequential patterns with database scaning.
 2.  Partition the search space. Any sequential pattern must have one length-1 sequential pattern prefix.
-3.  
+3.  Recursively span sequential patterns.
 
 ### CloSpan
+
+
 
