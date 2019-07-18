@@ -77,5 +77,5 @@ Mining closed sequential pattern only.
 
 Equivalence of projected databases:
 
-Two projected sequence databases
+Two projected sequence databases $S|_\alpha=S|_\beta$ , $\alpha\subseteq \beta$, are equivalent if and only if they contains the same number of items. 
 
