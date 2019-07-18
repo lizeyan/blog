@@ -28,5 +28,7 @@ Then <{a,b}, {c}> is a sequential pattern with support=2.
 
 If a sequence is not frequent, then none of its super-sequence can be frequent.
 
+### GSP
 
+1.  Initialize candidatas with all length-1 itemset.
 
