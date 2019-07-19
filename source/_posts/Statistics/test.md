@@ -38,3 +38,6 @@ $$
 
 ## T-Test
 
+## Chi-Squared Test
+
+Suppose $n$ observations 
