@@ -40,4 +40,4 @@ $$
 
 ## Chi-Squared Test
 
-Suppose $n$ observations 
+Suppose $n$ observations are classified into $k$ mutually exclusive classes with respectiive observed numbers $x_i$, and a null hypothesis gives the probablity $p_i$ the an observation falls into the $i$-th class.
