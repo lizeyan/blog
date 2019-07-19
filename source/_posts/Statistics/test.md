@@ -40,4 +40,8 @@ $$
 
 ## Chi-Squared Test
 
-Suppose $n$ observations are classified into $k$ mutually exclusive classes with respectiive observed numbers $x_i$, and a null hypothesis gives the probablity $p_i$ the an observation falls into the $i$-th class.
+Suppose $n$ observations are classified into $k$ mutually exclusive classes with respectiive observed numbers $x_i$, and a null hypothesis gives the probablity $p_i$ the an observation falls into the $i$-th class. 
+
+Then we have the expeccted numbers $m_i=np_i$
+
+As $n\to \infty$, the following quantity follows  
