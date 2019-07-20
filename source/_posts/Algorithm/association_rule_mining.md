@@ -43,7 +43,7 @@ The procedure of Apriori algorithm:
     A transaction does not contain any length-$k$ frequent itemset, cannot contain any length-$(k+1)$ frequent itemset.
 3.  Partitioning
     Partition the search space into some subspaces. Any global frequent itemset must be local frequent itemset in at least one subspace (with support threshold in subspace changed)
-4.  Sampling
+4.  Sampling.
 5.  Dynamic itemset counting
 
 
