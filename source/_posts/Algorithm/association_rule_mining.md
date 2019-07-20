@@ -35,7 +35,12 @@ The procedure of Apriori algorithm:
 1.  generate length-k candidates based on length-(k-1) frequent itemsets.
 2.  Scan the database once and prune the infrequent length-k candidates.
 
+#### Improve the Efficiency of Apriori
 
+1.  Hash-based technique
+
+2.  Transaction reduction
+3.  
 
 
 
