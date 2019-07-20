@@ -24,9 +24,16 @@ A itemset X is a maximal frequent if X is frequent and there is no proper super-
 
 ### Apriori
 
-Generate candidates and test if they are frequent.
+Generate candidates and test if they are frequent. 
 
-The Apriori property:
+The key is pruning the search space.
+
+The Apriori property: If a itemset is not frequent, then any superset of it is not frequent.
+
+The procedure of Apriori algorithm:
+
+1.  generate length-k candidates based on length-(k-1) candidates.
+2.  
 
 
 
