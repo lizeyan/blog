@@ -32,14 +32,15 @@ The Apriori property: If a itemset is not frequent, then any superset of it is n
 
 The procedure of Apriori algorithm:
 
-1.  generate length-k candidates based on length-(k-1) frequent itemsets.
-2.  Scan the database once and prune the infrequent length-k candidates.
+1.  generate length-$k$ candidates based on length-$(k-1)$ frequent itemsets.
+2.  Scan the database once and prune the infrequent length-$k$ candidates.
 
 #### Improve the Efficiency of Apriori
 
 1.  Hash-based technique
-
+    Hash the itemsets into buckets. If a candidate's corresponding bucket count is below the support threshold, then we need not to test it. It is especially useful when $k=2$.
 2.  Transaction reduction
+
 3.  
 
 
