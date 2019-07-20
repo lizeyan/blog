@@ -24,5 +24,11 @@ A itemset X is a maximal frequent if X is frequent and there is no proper super-
 
 ### Apriori
 
+Generate candidates and test if they are frequent.
+
+The Apriori property:
+
+
+
 ### Frequent-Pattern Grouwth
 
