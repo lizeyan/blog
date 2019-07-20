@@ -18,6 +18,6 @@ A itemset X is a closed frequent itemset if X is frequent and closed.
 
 A itemset X is a maximal frequent if X is frequent and there is no proper super-set Y such that Y is frequent.
 
- 
+
 
  
