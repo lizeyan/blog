@@ -52,3 +52,4 @@ The CDF of $\chi^2$ distribution is as follows:
 
 ![{\displaystyle {\frac {1}{\Gamma (k/2)}}\;\gamma \left({\frac {k}{2}},\,{\frac {x}{2}}\right)\;}](https://wikimedia.org/api/rest_v1/media/math/render/svg/11559ab9fa699c0a8af78095bad79c249480a4ec)
 
+![CDF curve](https://en.wikipedia.org/wiki/File:Chi-square_cdf.svg)
