@@ -42,8 +42,9 @@ The procedure of Apriori algorithm:
 2.  Transaction reduction
     A transaction does not contain any length-$k$ frequent itemset, cannot contain any length-$(k+1)$ frequent itemset.
 3.  Partitioning
+
 4.  Sampling
-5.  
+5.  Dynamic itemset counting
 
 
 
