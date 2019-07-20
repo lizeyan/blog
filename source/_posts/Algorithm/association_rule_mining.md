@@ -20,4 +20,9 @@ A itemset X is a maximal frequent if X is frequent and there is no proper super-
 
 
 
- 
+## Frequent Itemset Mining Methods
+
+### Apriori
+
+### Frequent-Pattern Grouwth
+
