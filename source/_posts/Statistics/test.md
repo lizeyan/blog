@@ -44,4 +44,4 @@ Suppose $n$ observations are classified into $k$ mutually exclusive classes with
 
 Then we have the expeccted numbers $m_i=np_i$
 
-As $n\to \infty$, the following quantity follows  
+As $n\to \infty$, the following quantity follows  $\ki$
