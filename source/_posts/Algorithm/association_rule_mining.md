@@ -40,8 +40,10 @@ The procedure of Apriori algorithm:
 1.  Hash-based technique
     Hash the itemsets into buckets. If a candidate's corresponding bucket count is below the support threshold, then we need not to test it. It is especially useful when $k=2$.
 2.  Transaction reduction
-
-3.  
+    A transaction does not contain any length-$k$ frequent itemset, cannot contain any length-$(k+1)$ frequent itemset.
+3.  Partitioning
+4.  Sampling
+5.  
 
 
 
