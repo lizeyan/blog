@@ -32,8 +32,12 @@ The Apriori property: If a itemset is not frequent, then any superset of it is n
 
 The procedure of Apriori algorithm:
 
-1.  generate length-k candidates based on length-(k-1) candidates.
-2.  
+1.  generate length-k candidates based on length-(k-1) frequent itemsets.
+2.  Scan the database once and prune the infrequent length-k candidates.
+
+
+
+
 
 
 
