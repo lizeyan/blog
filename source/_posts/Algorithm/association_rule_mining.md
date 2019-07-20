@@ -12,4 +12,6 @@ Association rule mining can be viewed as a two-step process:
 
 
 
-A itemset is closed if there is no 
+A itemset X is closed if there is no proper super-set Y such that Y has the same support count as X.
+
+ 
