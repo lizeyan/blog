@@ -44,4 +44,7 @@ Suppose $n$ observations are classified into $k$ mutually exclusive classes with
 
 Then we have the expeccted numbers $m_i=np_i$
 
-As $n\to \infty$, the following quantity follows  $\ki$
+As $n\to \infty$, the following quantity follows  $\chi^2$ distribution with $k-1$ freedom:
+$$
+X^2=\sum_{i=1}^{k}\frac{(x_i-m_i)^2}{m_i}
+$$
