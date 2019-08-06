@@ -28,6 +28,8 @@ GitHub: <https://github.com/lizeyan>
 
 ### Publication
 
+-   **Li, Zeyan**, et at. "Generic and Robust Localization of Multi-dimensional Root Cause"
+
 -   **Li, Zeyan**, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." In *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*, pp. 1-9. IEEE, 2018.
     [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/camera_ready.pdf)
 
@@ -35,5 +37,7 @@ GitHub: <https://github.com/lizeyan>
 
     [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/main-20181027.pdf)
 
--   Xu, Haowen, et al. "c." *Proceedings of the 2018 World Wide Web Conference on World Wide Web*. International World Wide Web Conferences Steering Committee, 2018.
+-   Xu, Haowen, Wenxiao Chen, Nengwen Zhao, **Zeyan Li**, Jiahao Bu, Zhihan Li, Ying Liu et al. "Unsupervised anomaly detection via variational auto-encoder for seasonal kpis in web applications." In *Proceedings of the 2018 World Wide Web Conference*, pp. 187-196. International World Wide Web Conferences Steering Committee, 2018.
+
+    [Paper](https://netman.aiops.org/~peidan/ANM2018/5.AnomalyDetection/LectureCoverage/2018WWW_Unsupervised%20Anomaly%20Detection%20via%20Variational%20Auto-Encoder%20for%20Seasonal%20KPIs%20in%20Web%20Applications.pdf)
 
