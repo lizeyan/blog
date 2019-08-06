@@ -1,6 +1,7 @@
 ---
 title: Association Rule Mining
-categories: [Algorithm]
+categories:
+  - Algorithm
 ---
 
 # Association Rule Mining

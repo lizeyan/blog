@@ -1,6 +1,7 @@
 ---
 title: Sequential Pattern Mining
-categories: [Algorithm]
+categories:
+  - Algorithm
 ---
 
 
