@@ -6,7 +6,7 @@ layout: "page"
 
 Zeyan LI 李则言, Ph.D. student at Tsinghua University.
 
-Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsinghua.edu.cn](mailto://zy-li18@mails.tsinghua.edu.cn)
+Email: [zeyan-li@outlook.com](mailto://zeyan-li@outlook.com) [zy-li18@mails.tsinghua.edu.cn](mailto://zy-li18@mails.tsinghua.edu.cn)
 
 GitHub: <https://github.com/lizeyan>
 
@@ -28,7 +28,7 @@ GitHub: <https://github.com/lizeyan>
 
 ### Publication
 
--   **Li, Zeyan**, et at. "Generic and Robust Localization of Multi-dimensional Root Cause"
+-   **Li, Zeyan**, Chengyang Luo, Yiwei Zhao, Yongqian Sun, et al. "Generic and Robust Localization of Multi-Dimensional Root Causes". ISSRE 2019.
 
 -   **Li, Zeyan**, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." In *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*, pp. 1-9. IEEE, 2018.
     [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/camera_ready.pdf)
