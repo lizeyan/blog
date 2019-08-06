@@ -5,6 +5,7 @@ git pull origin master
 if [[ `git status --porcelain` ]]; then
   # Changes
   git add -u
+  git add source
   git commit -m "auto commit at $(date)"
   git push origin master
 else
