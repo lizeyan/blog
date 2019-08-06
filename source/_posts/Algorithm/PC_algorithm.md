@@ -1,6 +1,7 @@
 ---
 title: PC Algorithm
-categories: []
+categories:
+  - Algorithm
 ---
 
 # PC Algorithm
