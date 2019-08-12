@@ -7,7 +7,7 @@ layout: "page"
 
 Zeyan LI 李则言, Ph.D. student at Tsinghua University.
 
-Email: [zeyan-li@outlook.com](mailto://zeyan-li@outlook.com) [zy-li18@mails.tsinghua.edu.cn](mailto://zy-li18@mails.tsinghua.edu.cn)
+Email: [lizytalk@outlook.com](mailto://lizytalk@outlook.com) [zy-li18@mails.tsinghua.edu.cn](mailto://zy-li18@mails.tsinghua.edu.cn)
 
 GitHub: <https://github.com/lizeyan>
 
