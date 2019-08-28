@@ -29,9 +29,9 @@ GitHub: <https://github.com/lizeyan>
 
 ### Publication
 
--   **Li, Zeyan**, Chengyang Luo, Yiwei Zhao, Yongqian Sun, et al. "Generic and Robust Localization of Multi-Dimensional Root Causes". ISSRE 2019.
+-   **Li, Zeyan**, Chengyang Luo, Yiwei Zhao, Yongqian Sun, et al. "Generic and Robust Localization of Multi-Dimensional Root Causes". ISSRE 2019. [Paper](https://netman.aiops.org/wp-content/uploads/2019/08/liuping-camera-ready.pdf) [GitHub](https://github.com/lizeyan/Squeeze)
 
--   **Li, Zeyan**, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." In *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*, pp. 1-9. IEEE, 2018. [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/camera_ready.pdf)
+-   **Li, Zeyan**, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." In *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*, pp. 1-9. IEEE, 2018. [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/camera_ready.pdf) [GitHub](https://github.com/lizeyan/Bagel)
     
 -   Nan, Guoshun, Xiuquan Qiao, Jiting Wang, **Zeyan Li**, Jiahao Bu, Changhua Pei, Mengyu Zhou, and Dan Pei. "The Frame Latency of Personalized Livestreaming Can Be Significantly Slowed Down by WiFi." In *2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC)*, pp. 1-8. IEEE, 2018. [Paper](https://netman.aiops.org/wp-content/uploads/2018/12/main-20181027.pdf)
 

@@ -4,7 +4,7 @@ menu:
   Archives: /archives
   Categories: /categories
   Tags: /tags
-  About: /about
+  # About: /
 
 # Customize
 customize:
