@@ -16,6 +16,10 @@ $$
 $$
 **Objective**
 
-SNE uses a conditional likelihood to measure the distance between two points,  $p_{i|j}$, which represents 
+SNE uses a conditional likelihood to measure the distance between two points,  $p_{i|j}$, which represents the probability to pick $j$ when $i$ is chosen.
+$$
+p_{j|i}=\frac{\exp()}{\sum_{k\neq i}\exp()}
+$$
+
 
 ## t-SNE
