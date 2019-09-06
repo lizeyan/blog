@@ -16,6 +16,6 @@ $$
 $$
 **Objective**
 
-SNE uses a conditional likelihood to measure the 
+SNE uses a conditional likelihood to measure the distance between two points,  $p_{i|j}$, which represents 
 
 ## t-SNE
