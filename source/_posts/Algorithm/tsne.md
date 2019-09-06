@@ -12,8 +12,10 @@ $$
 $$
 **Output**:
 $$
-\{\mathbf{y}_i, \mathbf{y}_i\}
+\{\mathbf{y}_i, \mathbf{y}_i\in \mathbb{R}^d\}_{i=1}^{N}, d<D 
 $$
+**Objective**
 
+SNE uses a conditional likelihood to measure the 
 
 ## t-SNE
