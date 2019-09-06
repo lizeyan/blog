@@ -18,7 +18,7 @@ $$
 
 SNE uses a conditional likelihood to measure the distance between two points,  $p_{i|j}$, which represents the probability to pick $j$ when $i$ is chosen.
 $$
-p_{j|i}=\frac{\exp(-||\mathbf{x}_i-\mathbf{x}_j||^2)}{\sum_{k\neq i}\exp(-||\mathbf{x}_i-\mathbf{x}_k||^2)}
+p_{j|i}=\frac{\exp(-\frac{||\mathbf{x}_i-\mathbf{x}_j||^2}{2\sigma_i^2})}{\sum_{k\neq i}\exp(-\frac{||\mathbf{x}_i-\mathbf{x}_k||^2}{2\sigma_i^2})}
 $$
 Similarly, in the low dimension space, SNE uses $q_{j|i}$ to measure the distance between two mapping points.
 $$
@@ -28,6 +28,8 @@ The objective function is to minimize the KL divergence between the distance dis
 $$
 C=\text{KL}[P||Q]=\sum_i \sum_j p_{j|i}(\log{p_{j|i}}-\log{q_{j|i}})
 $$
+**Estimation of $\sigma_i$**
+
 **Optimization**
 
 Gradient descent with momentum.
