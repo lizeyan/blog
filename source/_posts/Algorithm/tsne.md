@@ -18,7 +18,11 @@ $$
 
 SNE uses a conditional likelihood to measure the distance between two points,  $p_{i|j}$, which represents the probability to pick $j$ when $i$ is chosen.
 $$
-p_{j|i}=\frac{\exp()}{\sum_{k\neq i}\exp()}
+p_{j|i}=\frac{\exp(-||\mathbf{x}_i-\mathbf{x}_j||^2)}{\sum_{k\neq i}\exp(-||\mathbf{x}_i-\mathbf{x}_k||^2)}
+$$
+Similarly, in the low dimension space, SNE uses $q_{j|i}$ to measure the distance between two mapping points.
+$$
+
 $$
 
 
