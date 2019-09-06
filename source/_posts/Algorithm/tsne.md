@@ -26,10 +26,10 @@ q_{j|i}=\frac{\exp(-||\mathbf{y}_i-\mathbf{y}_j||^2)}{\sum_{k\neq i}\exp(-||\mat
 $$
 The objective function is to minimize the KL divergence between the distance distribution of original space and mapping space.
 $$
-C=\text{KL}[P||Q]=\sum_i \sum_j
+C=\text{KL}[P||Q]=\sum_i \sum_j p_{j|i}(\log{p_{j|i}}-\log{q_{j|i}})
 $$
+**Optimization**
 
-
-  
+Gradient descent with momentum.
 
 ## t-SNE
