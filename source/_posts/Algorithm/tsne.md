@@ -24,6 +24,12 @@ Similarly, in the low dimension space, SNE uses $q_{j|i}$ to measure the distanc
 $$
 q_{j|i}=\frac{\exp(-||\mathbf{y}_i-\mathbf{y}_j||^2)}{\sum_{k\neq i}\exp(-||\mathbf{y}_i-\mathbf{y}_k||^2)}
 $$
-The objective function is to minimize the KL divergence between  
+The objective function is to minimize the KL divergence between the distance distribution of original space and mapping space.
+$$
+C=\text{KL}[P||Q]=\sum_i \sum_j
+$$
+
+
+  
 
 ## t-SNE
