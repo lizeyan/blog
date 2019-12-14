@@ -6,7 +6,7 @@ title: macOS Catalina unable to fork issue
 
 cron进程无法关闭似乎和读写文件有关，将每个cron进程的输出重定向到`/dev/null`即可
 
-```
-
+```bash
+/Users/lizytalk/Projects/blog/keep.sh &> /dev/null
 ```
 
