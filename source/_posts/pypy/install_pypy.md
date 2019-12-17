@@ -1,6 +1,8 @@
 ---
-title: install peppy
+title: install PyPy
 ---
+
+## Install PyPy
 
 ```
 export MACOSX_DEPLOYMENT_TARGET=10.10
