@@ -20,6 +20,7 @@ pip install pandas
 ``` bash
 apt-get install gfortran pybind11-dev
 ```
+(鳖pip intall pybind11，会导致其他包编译不了，未知原因)
 or on macOS X
 ``` bash
 brew install gcc
