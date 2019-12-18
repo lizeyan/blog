@@ -18,7 +18,7 @@ pip install pandas
 
 ## Install SciPy
 ``` bash
-apt-get install  gfortran
+apt-get install gfortran
 ```
 or on macOS X
 ``` bash
