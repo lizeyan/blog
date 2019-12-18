@@ -18,7 +18,7 @@ pip install pandas
 
 ## Install SciPy
 ``` bash
-apt-get install gfortran
+apt-get install gfortran pybind11-dev
 ```
 or on macOS X
 ``` bash
