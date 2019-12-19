@@ -31,10 +31,12 @@ brew install gcc
 export MACOSX_DEPLOYMENT_TARGET=10.10
 ```
 
-
-
-
-
 export LDFLAGS="-L/usr/local/opt/libffi/lib"
 
 export PKG_CONFIG_PATH="/usr/local/opt/libffi/lib/pkgconfig"
+
+``` bash
+pip install "scipy==1.3.3"
+```
+
+(1.4.0暂时安装不了)
