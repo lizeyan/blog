@@ -1,5 +1,7 @@
 ---
 title: install PyPy
+categories:
+  - pypy
 ---
 
 ## Install PyPy

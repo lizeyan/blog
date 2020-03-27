@@ -1,5 +1,7 @@
 ---
 title: t-SNE
+categories:
+  - Algorithm
 ---
 
 ## Intro

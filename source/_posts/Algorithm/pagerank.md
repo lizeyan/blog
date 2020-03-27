@@ -1,6 +1,7 @@
 ---
 title: Page Rank
-categories: [algorithm]
+categories:
+  - Algorithm
 ---
 # PageRank
 
