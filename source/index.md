@@ -4,7 +4,7 @@ title: About Me
 ![](/img/avatar.png){ width=180px }
 Zeyan LI 李则言, Ph.D. student at Tsinghua University.
 
-Email: [li_zeyan@icloud.com](mailto://li_zeyan@icloud.com)
+Email: [li_zeyan@icloud.com](mailto:li_zeyan@icloud.com)
 
 GitHub: <https://github.com/lizeyan>
 
