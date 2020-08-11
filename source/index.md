@@ -28,8 +28,8 @@ GitHub: <https://github.com/lizeyan>
 ### Publications
 
 
-[1]H. Xu et al., “Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications,” in Proceedings of the 2018 World Wide Web Conference, Lyon, France, Apr. 2018, pp. 187–196, doi: 10.1145/3178876.3185996.
+[1] H. Xu et al., “Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications,” in Proceedings of the 2018 World Wide Web Conference, Lyon, France, Apr. 2018, pp. 187–196, doi: 10.1145/3178876.3185996.
 
-[2]Z. Li, W. Chen, and D. Pei, “Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder,” in 2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC), Nov. 2018, pp. 1–9, doi: 10.1109/PCCC.2018.8710885.
+[2] Z. Li, W. Chen, and D. Pei, “Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder,” in 2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC), Nov. 2018, pp. 1–9, doi: 10.1109/PCCC.2018.8710885.
 
-[3]Z. Li et al., “Generic and Robust Localization of Multi-dimensional Root Causes,” in 2019 IEEE 30th International Symposium on Software Reliability Engineering (ISSRE), Oct. 2019, pp. 47–57, doi: 10.1109/ISSRE.2019.00015.
+[3] Z. Li et al., “Generic and Robust Localization of Multi-dimensional Root Causes,” in 2019 IEEE 30th International Symposium on Software Reliability Engineering (ISSRE), Oct. 2019, pp. 47–57, doi: 10.1109/ISSRE.2019.00015.
