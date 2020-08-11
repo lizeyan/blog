@@ -25,6 +25,4 @@ GitHub: <https://github.com/lizeyan>
 
     Tsinghua University B.E., Computer Science
 
-<div style="overflow: hidden; padding-top: 56.25%; position: relative;">
-<iframe src="https://orcid.org/0000-0002-3529-5879/print" title="Publication" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;">
-</div>
+### Publications
